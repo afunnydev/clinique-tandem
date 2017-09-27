@@ -1141,7 +1141,7 @@ $window.on('load', function(){
 			var markerIconSrc = $map.find('.map_marker_icon').first().attr('src');
 
 			//type your address after "address="
-			jQuery.getJSON('http://maps.googleapis.com/maps/api/geocode/json?address=' + address, function(data) {
+			jQuery.getJSON('https://maps.googleapis.com/maps/api/geocode/json?address=' + address, function(data) {
 				
 				lat = data.results[0].geometry.location.lat;
 				lng = data.results[0].geometry.location.lng;
