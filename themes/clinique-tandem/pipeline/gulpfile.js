@@ -19,6 +19,7 @@ const sass = require('gulp-sass');
 const sassfiles = "./scss/**/*.scss";
 const sourcemaps = require('gulp-sourcemaps');
 const uglify = require('gulp-uglify');
+// const execcli = require('execcli');
 
 /**
  *
@@ -82,6 +83,10 @@ gulp.task('scripts', function(cb) {
     cb
   );
 });
+// gulp.task('hugo', ['sass', 'scripts', 'image-resize'], function() {
+//   execcli('hugo');
+// });
+
 /**
  *
  * Default task
