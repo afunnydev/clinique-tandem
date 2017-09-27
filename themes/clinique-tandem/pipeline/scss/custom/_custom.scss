@@ -1,0 +1,46 @@
+#services {
+	.services-container {
+		div.services {
+			-webkit-transition: 0.5s background-color;
+			-moz-transition: 0.5s background-color;
+			-ms-transition: 0.5s background-color;
+			-o-transition: 0.5s background-color;
+			transition: 0.5s background-color;
+			h4, a {
+				color: #444444;
+				-webkit-transition: none;
+				-moz-transition: none;
+				-ms-transition: none;
+				-o-transition: none;
+				transition: none;
+			}
+		}
+		div.services:nth-child(2n+1):hover {
+			background-color: $pcolor;
+			h4, a, p {
+				color: white;
+			}
+		}
+		div.services:nth-child(2n):hover {
+			background-color: $scolor;
+			color: black;
+			h4, a, p {
+				color: black
+			}
+		}
+	}
+}
+#about {
+	background-color: $scolor;
+}
+ul.specialisations {
+	list-style-type: none;
+	li {
+		z-index: 10;
+		&:before {
+			content: url('/assets/images/icons/point-bleu.png');
+			margin-right: -20px;
+			z-index: 1;
+		}
+	}
+}

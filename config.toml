@@ -1,0 +1,73 @@
+baseURL = "https://www.cliniquetandem.ca/"
+DefaultContentLanguage = "fr"
+title = "Clinique Tandem"
+theme = "clinique-tandem"
+description = "Services spécialisés d’évaluation et d’intervention pour une clientèle d’enfants et d’adolescents avec des difficultés scolaires, affectives et/ou comportementales"
+
+# Pointing to this file
+config = "config.toml"
+contentdir = "content"
+disableKinds = ["RSS"]
+# Create an array of files you don't want hugo to build
+ignoreFiles = []
+# Enable Logging
+log = false
+preserveTaxonomyNames = true
+pygmentsUseClasses = true
+relativeURLs = true
+languageCode = "en-us"
+metaDataFormat = "yaml"
+defaultContentLanguageInSubdir = false
+
+#CUSTOM PARAMS
+[params]
+  sitesubtitle = ""
+  organizationname = ""
+  sitedescription = ""
+  ## Critical Render Path. If true, site style will be embedded in a <style> tag in each html <head> as part of Gulp Build. False puts a typical <link> to the stylesheet in <head>>
+  usecrp = false
+  ## Include jQuery 2.2.4 in your site head. (see /static/assets/js)
+  includejq = true
+  ## Date the Site is Published, use YYYY-MM-DD
+  sitepublishdate = ""
+  ## Socials
+  twitterhandle = ""
+  facebookurl = ""
+  linkedinurl = ""
+  youtubeurl = ""
+  ## Path for default sharing image
+  defaultsocialimage = "cap-logo-social.png"
+  ## Setting this to true will add a "noindex" to *every* page on the site
+  removefromexternalsearch = true
+  ## This is used when the BaseURL does not need to modified (eg, in share links)
+  siteaddress = "http://digital.cap.org"
+  ## Set to true to add Google Tag Manager to the Site
+  addgtm = false
+  gtmid = ""
+  # Set to true to include a CDN call to FontAwesome
+  usefontawesome = false
+# MARKDOWN
+## Configuration for BlackFriday markdown parser: https://github.com/russross/blackfriday
+[blackfriday]
+  plainIDAnchors = true
+  hrefTargetBlank = true
+  angledQuotes = false
+  latexDashes = true
+
+[permalinks]
+  singles = "/:slug/"
+
+# [taxonomies]
+#   category = "categories"
+#   tag = "tags"
+
+[Languages]
+[Languages.en]
+[Languages.en.Taxonomies]
+category = "categories"
+# creator = "creators"
+
+[Languages.fr]
+[Languages.fr.Taxonomies]
+category = "categories"
+# createur = "createurs"

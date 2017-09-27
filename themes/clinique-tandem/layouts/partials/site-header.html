@@ -1,0 +1,194 @@
+{{- partial "header/google-tag-manager.html" . -}}
+
+			<section class="page_topline cs table_section table_section_md columns_padding_0">
+				<div class="container-fluid">
+					<div class="row">
+
+						<div class="col-md-9 header-contact text-center divided_content">
+
+							<div>
+								<div class="media small-teaser">
+									<div class="media-left">
+										<i class="fa fa-user highlight fontsize_16"></i>
+									</div>
+									<div class="media-body">
+										450-490-3214
+									</div>
+								</div>
+							</div>
+
+							<div>
+								<div class="media small-teaser">
+									<div class="media-left">
+										<i class="fa fa-map-marker highlight fontsize_16"></i>
+									</div>
+									<div class="media-body">
+										3498 Boulevard Sainte-Rose, Suite 101, Laval
+									</div>
+								</div>
+							</div>
+
+							<div>
+								<div class="media small-teaser">
+									<div class="media-left">
+										<i class="fa fa-envelope highlight fontsize_16"></i>
+									</div>
+									<div class="media-body">
+										info@cliniquetandem.ca
+									</div>
+								</div>
+							</div>
+
+						</div>
+
+						<div class="col-md-3 text-center text-md-right bottommargin_0">
+							<a href="#appointment" class="theme_button color1 margin_0">Prendre rendez-vous</a>
+						</div>
+
+					</div>
+				</div>
+			</section>
+
+			<header class="page_header header_white table_section columns_padding_0 toggler-xs-right">
+				<div class="container-fluid">
+					<div class="row">
+						<div class="col-md-3 col-sm-5">
+							<a href="./" class="logo">
+								<img src="/assets/images/logo.png" alt="clinique tandem logo">
+							</a>
+							<!-- header toggler -->
+							<span class="toggle_menu visible-xs">
+								<span></span>
+							</span>
+						</div>
+						<div class="col-md-8 col-sm-2 text-center">
+							<!-- main nav start -->
+							<nav class="mainmenu_wrapper">
+								<ul class="mainmenu nav sf-menu">
+									<!-- <li class="active">
+										<a href="/">Accueil</a>
+									</li> -->
+									<!-- services -->
+									<li>
+										<a href="#">Services</a>
+										<ul>
+
+											<li>
+												<a href="/services/neuropsychologie">Neuropsychologie</a>
+											</li>
+											<li>
+												<a href="/services/evaluation-tsa">Évaluation TSA</a>
+											</li>
+											<li>
+												<a href="/services/psychologie">Psychologie</a>
+											</li>
+											<li>
+												<a href="/services/psychoeducation">Psychoéducation</a>
+											</li>
+											<li>
+												<a href="/services/therapie-familiale">Thérapie familiale</a>
+											</li>
+											<li>
+												<a href="/services/pedopsychiatrie">Pédopsychiatrie</a>
+											</li>
+										</ul>
+									</li>
+									<!-- eof services -->
+									<!-- formation -->
+									<li>
+										<a href="/formations">Formations</a>
+									</li>
+									<!-- eof formation -->
+									<li>
+										<a href="#">Ressources</a>
+										<ul>
+											<li>
+												<a href="/ressources/liens-utiles">Liens utiles</a>
+											</li>
+											<li>
+												<a href="#">Mieux comprendre</a>
+												<ul>
+													<li>
+														<a href="/ressources/mieux-comprendre/tda-h">TDA/H</a>
+													</li>
+													<li>
+														<a href="/ressources/mieux-comprendre/difficultes-apprentissage">Difficultés d'apprentissage</a>
+													</li>
+													<li>
+														<a href="/ressources/mieux-comprendre/trouble-spectre-autisme">Trouble du spectre de l'autisme</a>
+													</li>
+													<li>
+														<a href="/ressources/mieux-comprendre/syndrome-gilles-tourette">Syndrome de Gilles de la Tourette</a>
+													</li>
+													<li>
+														<a href="/ressources/mieux-comprendre/trouble-disruptif-opposition">Trouble disruptif/opposition</a>
+													</li>
+													<li>
+														<a href="/ressources/mieux-comprendre/trouble-obsessionnel-compulsif">Trouble obsessionnel-compulsif</a>
+													</li>
+													<li>
+														<a href="/ressources/mieux-comprendre/difficultes-adaptation">Difficultés d'adaption</a>
+													</li>
+													<li>
+														<a href="/ressources/mieux-comprendre/trouble-attachement">Trouble de l'attachement</a>
+													</li>
+													<li>
+														<a href="/ressources/mieux-comprendre/anxiété">Anxiété</a>
+													</li>
+													<li>
+														<a href="/ressources/mieux-comprendre/dépression">Dépression</a>
+													</li>
+												</ul>
+											</li>
+										</ul>
+									</li>
+									<!-- eof resssources -->
+									<!-- equipe -->
+									<li>
+										<a href="/equipe">Équipe</a>
+									</li>
+									<!-- eof equipe -->
+									<!-- a-propos -->
+									<li>
+										<a href="/a-propos">À propos</a>
+									</li>
+									<!-- eof a-propos -->
+									<!-- contacts -->
+									<li>
+										<a href="/nous-joindre">Contact</a>
+									</li>
+									<!-- eof contacts -->
+								</ul>
+							</nav>
+							<!-- eof main nav -->
+							<span class="toggle_menu hidden-xs">
+								<span></span>
+							</span>
+						</div>
+						<div class="col-md-1 col-sm-5 text-right hidden-xs lightgreylinks">
+							<div class="page_social_icons divided_content">
+								{{with .Site.Data.socials.twitterhandle}}
+								<span>
+									<a class="social-icon soc-twitter" href="{{.}}" title="Twitter"></a>
+								</span>
+								{{end}}
+								{{with .Site.Data.socials.facebookurl}}
+								<span>
+									<a class="social-icon soc-facebook" href="{{.}}" title="Facebook"></a>
+								</span>								
+								{{end}}
+								{{with .Site.Data.socials.linkedinurl}}
+								<span>
+									<a class="social-icon soc-linkedin" href="{{.}}" title="LinkedIn"></a>
+								</span>
+								{{end}}
+								{{with .Site.Data.socials.googleurl}}
+								<span>
+									<a class="social-icon soc-google" href="{{.}}" title="Google"></a>
+								</span>
+								{{end}}
+							</div>
+						</div>
+					</div>
+				</div>
+			</header>

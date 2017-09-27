@@ -1,0 +1,202 @@
+backend:
+  name: github
+  repo: felixdb/cryos-website # Path to your Github repository
+  branch: master # Branch to update (master by default)
+
+media_folder: "static/img/uploads" # Folder where user uploaded files should go
+public_folder: "img/uploads" # The src attribute for uploaded media will begin with img/uploads
+
+publish_mode: editorial_workflow
+
+collections:
+  - name: "settings"
+    label: "Settings"
+    editor:
+      preview: false
+    files:
+      - name: "partenaires"
+        label: "Partenaires"
+        file: "data/partenaires.yml"
+        description: "Vos partenaires, ne pas mettre d'accent dans les noms ou nom de fichier svp!"
+        fields:
+          - name: partenaires
+            label: Partenaires
+            widget: list
+            create: true 
+            fields:
+              - {label: "Nom", name: "name", widget: "string"}
+              - {label: "Image", name: "file", widget: "image"}
+              - {label: "Ordre", name: "weight", widget: "number"}
+      - name: "equipe"
+        label: "Membres de l'équipe"
+        file: "data/equipe.yml"
+        description: "Votre équipe, ne pas mettre d'accent dans les noms de fichier svp!"
+        fields:
+          - name: equipe
+            label: Membre
+            widget: list
+            create: true 
+            fields:
+              - {label: "Nom", name: "name", widget: "string"}
+              - {label: "Fonction en français", name: "fonction", widget: "string"}
+              - {label: "Fonction en anglais", name: "position", widget: "string"}
+              - {label: "Ordre", name: "weight", widget: "number"}
+              - {label: "Image", name: "photo", widget: "image"}
+      - name: "temoignage"
+        label: "Témoignages"
+        file: "data/temoignages.yml"
+        fields:
+          - name: orthesepro
+            label: "Orthèses - Professionels"
+            widget: object
+            fields:
+              - {label: "Témoignages - FR", name: "temoignagefr", widget: "text"}
+              - {label: "Témoignages - EN", name: "temoignageen", widget: "text"}
+              - {label: "Témoin - FR", name: "temoinfr", widget: "string"}
+              - {label: "Témoin - EN", name: "temoinen", widget: "string"}
+              - {label: "Image", name: "image", widget: "image"}
+          - name: orthesepatients
+            label: "Orthèses - Patients"
+            widget: object
+            fields:
+              - {label: "Témoignages - FR", name: "temoignagefr", widget: "text"}
+              - {label: "Témoignages - EN", name: "temoignageen", widget: "text"}
+              - {label: "Témoin - FR", name: "temoinfr", widget: "string"}
+              - {label: "Témoin - EN", name: "temoinen", widget: "string"}
+              - {label: "Image", name: "image", widget: "image"}
+          - name: cryovizionpro
+            label: "Cryovizion - Professionels"
+            widget: object
+            fields:
+              - {label: "Témoignages - FR", name: "temoignagefr", widget: "text"}
+              - {label: "Témoignages - EN", name: "temoignageen", widget: "text"}
+              - {label: "Témoin - FR", name: "temoinfr", widget: "string"}
+              - {label: "Témoin - EN", name: "temoinen", widget: "string"}
+              - {label: "Image", name: "image", widget: "image"}
+          - name: cryovizionpatients
+            label: "Cryovizion - Patients"
+            widget: object
+            fields:
+              - {label: "Témoignages - FR", name: "temoignagefr", widget: "text"}
+              - {label: "Témoignages - EN", name: "temoignageen", widget: "text"}
+              - {label: "Témoin - FR", name: "temoinfr", widget: "string"}
+              - {label: "Témoin - EN", name: "temoinen", widget: "string"}
+              - {label: "Image", name: "image", widget: "image"}
+      - name: "auteur"
+        label: "Auteurs"
+        file: "data/authors.yml"
+        fields:
+          - name: authors
+            label: Auteurs
+            widget: list
+            fields:
+              - {label: "Identifiant", name: "user_nicename", widget: "string"}
+              - {label: "Nom d'affichage", name: "display_name", widget: "string"}
+              - {label: "Adresse (rue)", name: "address", widget: "string", default: "999 rue de l'Example"}
+              - {label: "Ville, Province et code postal", name: "city", widget: "string", default: "Montréal, QC, X0X 0X0"}
+              - {label: "Description - FR", name: "description", widget: "text"}
+              - {label: "Description - EN", name: "descriptionen", widget: "text", required: false}
+              - {label: "Image", name: "photo", widget: "image", required: false}
+              - {label: "Numéro de téléphone", name: "phone", widget: "string"}
+              - {label: "Courriel", name: "user_email", widget: "string"}
+              - {label: "Site internet", name: "user_url", widget: "string", pattern: ["^https?", "N'oubliez pas le http:// ou https://"]}
+
+  - name: "articlesfr" # Used in routes, e.g. /admin/collections/blog
+    label: "Articles-FR" # Used in the UI
+    folder: "content/articles" # The path to the folder where the documents are stored
+    slug: "{{identifiant}}"
+    create: true # Allow users to create new documents in this collection
+    filter: 
+      field: "i18nlanguage"
+      value: "fr"
+    fields: # The fields for each document, usually in front matter
+      - {label: "Titre officiel", name: "titre", widget: "string"}
+      - {label: "Titre SEO", name: "title", widget: "string"}
+      - {label: "Description SEO", name: "description", widget: "text"}
+      - {label: "Lien", name: "slug", widget: "string", default: "ceci-est-un-example", pattern: ["^[a-z0-9]+(?:-[a-z0-9/]+)*$", "Svp utilisez le format ceci-est-un-test/"]}
+      - {label: "Identifiant", name: "identifiant", default: "04-exemple-article", pattern: ["^[a-z0-9]+(?:-[a-z0-9]+)*$", "Svp utilisez le format 04-exemple-article"], widget: "relation", collection: "articlesen", searchFields: ["identifiant","titre"], valueField: "identifiant"}
+      - {label: "Résumé court, mettre seulement si l'article est sur la page d'accueil", name: "short_desc", widget: "text", required: false}
+      - {label: "Auteur", name: "author", widget: "relation", collection: "articlesfr", searchFields: ["author","title"], valueField: "author"}
+      - {label: "Date de publication", name: "date", widget: "datetime", format: "YYYY-MM-DD"}
+      - {label: "Image", name: "blog_img", widget: "image"}
+      - {label: "Type", name: "type", widget: "hidden", default: "post"}
+      - {label: "Catégories", name: "categories", widget: "list"}
+      - {label: "Langue", name: "i18nlanguage", widget: "hidden", default: "fr"}
+      - {label: "Voir sur la page d'accueil", name: "isfront", widget: "boolean", required: false, default: false}
+      - {label: "Voir sur la page Orthèses Professionels", name: "orthese_pro", widget: "boolean", required: false, default: false}
+      - {label: "Voir sur la page Orthèses Patients", name: "orthese_patients", widget: "boolean", required: false, default: false}
+      - {label: "Voir sur la page Cryovizion Professionels", name: "cryovizion_pro", widget: "boolean", required: false, default: false}
+      - {label: "Voir sur la page Cryovizion Patients", name: "cryovizion_patients", widget: "boolean", required: false, default: false}
+      - {label: "Texte", name: "body", widget: "markdown"}
+      - {label: "Rendre l'article invisible?", name: "draft", widget: "boolean", required: false, default: false}
+
+  
+  - name: "articlesen" # Used in routes, e.g. /admin/collections/blog
+    label: "Articles-EN" # Used in the UI
+    folder: "content/articles" # The path to the folder where the documents are stored
+    slug: "{{identifiant}}.{{i18nlanguage}}"
+    create: true # Allow users to create new documents in this collection
+    filter: 
+      field: "i18nlanguage"
+      value: "en"
+    fields: # The fields for each document, usually in front matter
+      - {label: "Titre officiel", name: "titre", widget: "string"}
+      - {label: "Titre SEO", name: "title", widget: "string"}
+      - {label: "Description SEO", name: "description", widget: "text"}
+      - {label: "Lien", name: "slug", widget: "string", default: "ceci-est-un-example", pattern: ["^[a-z0-9]+(?:-[a-z0-9/]+)*$", "Svp utilisez le format ceci-est-un-test/"]}
+      - {label: "Identifiant", name: "identifiant", default: "04-exemple-article", pattern: ["^[a-z0-9]+(?:-[a-z0-9]+)*$", "Svp utilisez le format 04-exemple-article"], widget: "relation", collection: "articlesfr", searchFields: ["identifiant","titre"], valueField: "identifiant"}
+      - {label: "Résumé court, mettre seulement si l'article est sur la page d'accueil", name: "short_desc", widget: "text", required: false}
+      - {label: "Auteur", name: "author", widget: "relation", collection: "articlesfr", searchFields: ["author","title"], valueField: "author"}
+      - {label: "Date de publication", name: "date", widget: "datetime", format: "YYYY-MM-DD"}
+      - {label: "Image", name: "blog_img", widget: "image"}
+      - {label: "Type", name: "type", widget: "hidden", default: "post"}
+      - {label: "Catégories", name: "categories", widget: "list"}
+      - {label: "Langue", name: "i18nlanguage", widget: "hidden", default: "en"}
+      - {label: "Voir sur la page d'accueil", name: "isfront", widget: "boolean", required: false, default: false}
+      - {label: "Voir sur la page Orthèses Professionels", name: "orthese_pro", widget: "boolean", required: false, default: false}
+      - {label: "Voir sur la page Orthèses Patients", name: "orthese_patients", widget: "boolean", required: false, default: false}
+      - {label: "Voir sur la page Cryovizion Professionels", name: "cryovizion_pro", widget: "boolean", required: false, default: false}
+      - {label: "Voir sur la page Cryovizion Patients", name: "cryovizion_patients", widget: "boolean", required: false, default: false}
+      - {label: "Texte", name: "body", widget: "markdown"}
+      - {label: "Rendre l'article invisible?", name: "draft", widget: "boolean", required: false, default: false}
+        
+  - name: "cliniques-fr" # Used in routes, e.g. /admin/collections/blog
+    label: "Cliniques FR" # Used in the UI
+    folder: "content/location" # The path to the folder where the documents are stored
+    create: true # Allow users to create new documents in this collection
+    slug: "{{identifiant}}"
+    filter: 
+      field: "i18nlanguage"
+      value: "fr"
+    fields: # The fields for each document, usually in front matter
+      - {label: "Nom de la clinique", name: "nomclinique", widget: "string"}
+      - {label: "Adresse", name: "address", widget: "string", default: "Numéro et nom de rue"}
+      - {label: "Ville, province et code postal", name: "ville", widget: "string", default: "Montréal, Québec, H2R 2R5"}
+      - {label: "Pays", name: "pays", widget: "string", default: "Canada"}
+      - {label: "Latitude", name: "latitude", widget: "number"}
+      - {label: "Longitude", name: "longitude", widget: "number"}
+      - {label: "Numéro de téléphone", name: "phone", widget: "string"}
+      - {label: "Site internet", name: "site", widget: "string", pattern: ["^https?", "N'oubliez pas le http:// ou https://"]}
+      - {label: "Identifiant UNIQUE (identique dans les deux langues)", name: "identifiant", pattern: ["^[a-z0-9]+(?:-[a-z0-9]+)*$", "Svp utilisez le format ceci-est-un-test"], widget: "relation", collection: "cliniques-en", searchFields: ["identifiant","nomclinique"], valueField: "identifiant"} 
+      - {label: "Type", name: "type", widget: "hidden", default: "location"}
+      - {label: "Langue", name: "i18nlanguage", widget: "hidden", default: "fr"}
+  - name: "cliniques-en" # Used in routes, e.g. /admin/collections/blog
+    label: "Cliniques EN" # Used in the UI
+    folder: "content/location" # The path to the folder where the documents are stored
+    create: true # Allow users to create new documents in this collection
+    slug: "{{identifiant}}.{{i18nlanguage}}"
+    filter: 
+      field: "i18nlanguage"
+      value: "en"
+    fields: # The fields for each document, usually in front matter
+      - {label: "Nom de la clinique", name: "nomclinique", widget: "string"}
+      - {label: "Adresse", name: "address", widget: "string", default: "Numéro et nom de rue"}
+      - {label: "Ville, province et code postal", name: "ville", widget: "string", default: "Montréal, Québec, H2R 2R5"}
+      - {label: "Pays", name: "pays", widget: "string", default: "Canada"}
+      - {label: "Latitude", name: "latitude", widget: "number"}
+      - {label: "Longitude", name: "longitude", widget: "number"}
+      - {label: "Numéro de téléphone", name: "phone", widget: "string"}
+      - {label: "Site internet", name: "site", widget: "string", pattern: ["^https?", "N'oubliez pas le http:// ou https://"]} 
+      - {label: "Identifiant UNIQUE (identique dans les deux langues)", name: "identifiant", pattern: ["^[a-z0-9]+(?:-[a-z0-9]+)*$", "Svp utilisez le format ceci-est-un-test"], widget: "relation", collection: "cliniques-fr", searchFields: ["identifiant","nomclinique"], valueField: "identifiant"}
+      - {label: "Type", name: "type", widget: "hidden", default: "location"}
+      - {label: "Langue", name: "i18nlanguage", widget: "hidden", default: "en"}

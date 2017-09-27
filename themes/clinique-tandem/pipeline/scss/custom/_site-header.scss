@@ -1,0 +1,26 @@
+.page_topline {
+	padding-bottom: 10px;
+	@include MQ(L) {
+		padding-bottom: 0px;
+		.header-contact {
+			text-align: left;
+		}
+	}
+}
+.page_header {
+	@include MQ(L) {
+		.logo img {
+			padding: 10px 20px;
+		}
+		.sf-menu>li .mega-menu, .sf-menu li>ul {
+			margin-top: 0;
+			list-style-type: none;
+			a {
+				padding-left: 0;
+				&:before {
+					display: none;
+				}
+			}
+		}
+	}
+}
