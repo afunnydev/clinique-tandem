@@ -3,32 +3,32 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://www.cliniquetandem.ca/en/categories/</loc>
+    <loc>https://copy-writer-rodney-18086.netlify.com/en/categories/</loc>
     <priority>0</priority>
     <xhtml:link
                 rel="alternate"
                 hreflang="fr"
-                href="https://www.cliniquetandem.ca/categories/"
+                href="https://copy-writer-rodney-18086.netlify.com/categories/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://www.cliniquetandem.ca/en/categories/"
+                href="https://copy-writer-rodney-18086.netlify.com/en/categories/"
                 />
   </url>
   
   <url>
-    <loc>https://www.cliniquetandem.ca/en/</loc>
+    <loc>https://copy-writer-rodney-18086.netlify.com/en/</loc>
     <priority>0</priority>
     <xhtml:link
                 rel="alternate"
                 hreflang="fr"
-                href="https://www.cliniquetandem.ca/"
+                href="https://copy-writer-rodney-18086.netlify.com/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://www.cliniquetandem.ca/en/"
+                href="https://copy-writer-rodney-18086.netlify.com/en/"
                 />
   </url>
   

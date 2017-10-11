@@ -3,88 +3,100 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://www.cliniquetandem.ca/ressources/</loc>
+    <loc>https://copy-writer-rodney-18086.netlify.com/ressources/</loc>
   </url>
   
   <url>
-    <loc>https://www.cliniquetandem.ca/ressources/liens-utiles/</loc>
+    <loc>https://copy-writer-rodney-18086.netlify.com/ressources/liens-utiles/</loc>
   </url>
   
   <url>
-    <loc>https://www.cliniquetandem.ca/singles/</loc>
+    <loc>https://copy-writer-rodney-18086.netlify.com/singles/</loc>
   </url>
   
   <url>
-    <loc>https://www.cliniquetandem.ca/</loc>
+    <loc>https://copy-writer-rodney-18086.netlify.com/</loc>
   </url>
   
   <url>
-    <loc>https://www.cliniquetandem.ca/</loc>
+    <loc>https://copy-writer-rodney-18086.netlify.com/</loc>
   </url>
   
   <url>
-    <loc>https://www.cliniquetandem.ca/</loc>
+    <loc>https://copy-writer-rodney-18086.netlify.com/</loc>
   </url>
   
   <url>
-    <loc>https://www.cliniquetandem.ca/</loc>
+    <loc>https://copy-writer-rodney-18086.netlify.com/</loc>
   </url>
   
   <url>
-    <loc>https://www.cliniquetandem.ca/categories/</loc>
+    <loc>https://copy-writer-rodney-18086.netlify.com/categories/</loc>
     <priority>0</priority>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://www.cliniquetandem.ca/en/categories/"
+                href="https://copy-writer-rodney-18086.netlify.com/en/categories/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="fr"
-                href="https://www.cliniquetandem.ca/categories/"
+                href="https://copy-writer-rodney-18086.netlify.com/categories/"
                 />
   </url>
   
   <url>
-    <loc>https://www.cliniquetandem.ca/</loc>
+    <loc>https://copy-writer-rodney-18086.netlify.com/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://www.cliniquetandem.ca/en/"
+                href="https://copy-writer-rodney-18086.netlify.com/en/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="fr"
-                href="https://www.cliniquetandem.ca/"
+                href="https://copy-writer-rodney-18086.netlify.com/"
                 />
   </url>
   
   <url>
-    <loc>https://www.cliniquetandem.ca/services/neuropsychologie/</loc>
+    <loc>https://copy-writer-rodney-18086.netlify.com/formations/trouble-spectre-autistique/</loc>
   </url>
   
   <url>
-    <loc>https://www.cliniquetandem.ca/services/psychologie/</loc>
+    <loc>https://copy-writer-rodney-18086.netlify.com/formations/troubles-neurodeveloppementaux-complexes/</loc>
   </url>
   
   <url>
-    <loc>https://www.cliniquetandem.ca/services/psychoeducation/</loc>
+    <loc>https://copy-writer-rodney-18086.netlify.com/formations/</loc>
   </url>
   
   <url>
-    <loc>https://www.cliniquetandem.ca/services/pedopsychiatrie/</loc>
+    <loc>https://copy-writer-rodney-18086.netlify.com/services/neuropsychologie/</loc>
   </url>
   
   <url>
-    <loc>https://www.cliniquetandem.ca/services/</loc>
+    <loc>https://copy-writer-rodney-18086.netlify.com/services/psychologie/</loc>
   </url>
   
   <url>
-    <loc>https://www.cliniquetandem.ca/services/therapie-familiale/</loc>
+    <loc>https://copy-writer-rodney-18086.netlify.com/services/psychoeducation/</loc>
   </url>
   
   <url>
-    <loc>https://www.cliniquetandem.ca/services/evaluation-tsa/</loc>
+    <loc>https://copy-writer-rodney-18086.netlify.com/services/pedopsychiatrie/</loc>
+  </url>
+  
+  <url>
+    <loc>https://copy-writer-rodney-18086.netlify.com/services/</loc>
+  </url>
+  
+  <url>
+    <loc>https://copy-writer-rodney-18086.netlify.com/services/therapie-familiale/</loc>
+  </url>
+  
+  <url>
+    <loc>https://copy-writer-rodney-18086.netlify.com/services/evaluation-tsa/</loc>
   </url>
   
 </urlset>
