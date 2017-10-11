@@ -7,9 +7,9 @@ resume:
   note: Se donne chez vous
 teacher:
   - timage: "/assets/images/_quart/nadia-carre.jpg"
-    tdesc: "Nadia Lessard"
+    tdesc: "Cette formation vous est donnée par Nadia Lessard"
   - timage: "/assets/images/_quart/nadia-carre.jpg"
-    tdesc: "Votre formatrice préférée"
+    tdesc: "Ou votre formatrice préférée"
 lieu: 
   need: true
   link: "#no"

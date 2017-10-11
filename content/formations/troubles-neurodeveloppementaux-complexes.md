@@ -7,7 +7,7 @@ resume:
   note: Ben oui, chez vous!
 teacher:
   - timage: "/assets/images/_quart/nadia-carre.jpg"
-    tdesc: "Nadia Lessard"
+    tdesc: "Cette formation vous est donnée par Nadia Lessard."
 lieu: 
   need: true
   link: "#no"
