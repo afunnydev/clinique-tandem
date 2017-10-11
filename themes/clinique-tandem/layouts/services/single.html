@@ -1,0 +1,37 @@
+{{ define "main" }}
+<main class="main" id="services-indiv">
+	<section class="page_breadcrumbs ds background_cover section_padding_50">
+		<div class="container">
+			<div class="row">
+				<div class="col-sm-12 text-center">
+					<h1>{{ .Params.resume.titre }}</h1>
+					<ol class="breadcrumb divided_content wide_divider">
+						<li>
+							<a href="./">
+								Accueil
+							</a>
+						</li>
+						<li>
+							<a href="/services">Services</a>
+						</li>
+						<li class="active">{{ .Params.resume.titre }}</li>
+					</ol>
+				</div>
+			</div>
+		</div>
+	</section>
+
+	<section class="ls section_padding_top_50 section_padding_bottom_50">
+		<div class="container">
+			<div class="row">
+				<div class="col-lg-4 col-lg-push-8 col-sm-5 col-sm-push-7">
+					<img src="images/service.jpg" alt="" />
+				</div>
+				<div class="col-lg-8 col-lg-pull-4 col-sm-7 col-sm-pull-5">
+					{{ .Content }}
+				</div>
+			</div>
+		</div>
+	</section>
+</main>
+{{ end }}

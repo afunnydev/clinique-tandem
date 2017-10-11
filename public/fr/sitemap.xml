@@ -3,6 +3,34 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>https://www.cliniquetandem.ca/ressources/</loc>
+  </url>
+  
+  <url>
+    <loc>https://www.cliniquetandem.ca/ressources/liens-utiles/</loc>
+  </url>
+  
+  <url>
+    <loc>https://www.cliniquetandem.ca/singles/</loc>
+  </url>
+  
+  <url>
+    <loc>https://www.cliniquetandem.ca/</loc>
+  </url>
+  
+  <url>
+    <loc>https://www.cliniquetandem.ca/</loc>
+  </url>
+  
+  <url>
+    <loc>https://www.cliniquetandem.ca/</loc>
+  </url>
+  
+  <url>
+    <loc>https://www.cliniquetandem.ca/</loc>
+  </url>
+  
+  <url>
     <loc>https://www.cliniquetandem.ca/categories/</loc>
     <priority>0</priority>
     <xhtml:link
@@ -29,6 +57,34 @@
                 hreflang="fr"
                 href="https://www.cliniquetandem.ca/"
                 />
+  </url>
+  
+  <url>
+    <loc>https://www.cliniquetandem.ca/services/neuropsychologie/</loc>
+  </url>
+  
+  <url>
+    <loc>https://www.cliniquetandem.ca/services/psychologie/</loc>
+  </url>
+  
+  <url>
+    <loc>https://www.cliniquetandem.ca/services/psychoeducation/</loc>
+  </url>
+  
+  <url>
+    <loc>https://www.cliniquetandem.ca/services/pedopsychiatrie/</loc>
+  </url>
+  
+  <url>
+    <loc>https://www.cliniquetandem.ca/services/</loc>
+  </url>
+  
+  <url>
+    <loc>https://www.cliniquetandem.ca/services/therapie-familiale/</loc>
+  </url>
+  
+  <url>
+    <loc>https://www.cliniquetandem.ca/services/evaluation-tsa/</loc>
   </url>
   
 </urlset>

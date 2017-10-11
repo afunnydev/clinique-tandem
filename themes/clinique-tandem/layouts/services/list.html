@@ -1,0 +1,48 @@
+{{ define "main" }}
+<main class="main" id="services-list">
+	<section class="page_breadcrumbs ds background_cover section_padding_50">
+		<div class="container">
+			<div class="row">
+				<div class="col-sm-12 text-center">
+					<h1>Services</h1>
+					<ol class="breadcrumb divided_content wide_divider">
+						<li>
+							<a href="/">
+								Accueil
+							</a>
+						</li>
+						<li class="active">Services</li>
+					</ol>
+				</div>
+			</div>
+		</div>
+	</section>
+
+	<section id="services" class="ls section_padding_top_50 section_padding_bottom_100">
+		<div class="container">
+			<div class="row columns_padding_0 columns_margin_0 fontsize_16 services-container">
+			{{ range $i, $e := .Pages  }}
+			{{ $mod2 := modBool $i 2}}
+			{{ $mod3 := modBool $i 3}}
+				<div class="col-md-4 col-sm-6 services {{if $mod2 }}clear-sm{{ else if $mod3 }}clear-lg clear-md{{ end }}">
+					<a href="{{ .Permalink }}">
+						<div class="with_padding text-center teaser hover_shadow">
+							<h4>
+								{{ with $e.Params.resume.titre }}
+									{{ . }}
+								{{ end }}
+							</h4>
+							<p>
+								{{ with $e.Params.resume.court }}
+									{{ . }}
+								{{ end }}
+							</p>
+						</div>
+					</a>
+				</div>
+			{{ end }}
+			</div>
+		</div>
+	</section>
+</main>
+{{ end }}

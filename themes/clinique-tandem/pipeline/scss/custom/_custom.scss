@@ -1,3 +1,4 @@
+/* Accueil */
 #services {
 	.services-container {
 		div.services {
@@ -33,6 +34,8 @@
 #about {
 	background-color: $scolor;
 }
+
+/* Services */
 ul.specialisations {
 	list-style-type: none;
 	li {
@@ -41,6 +44,129 @@ ul.specialisations {
 			content: url('/assets/images/icons/point-bleu.png');
 			margin-right: -20px;
 			z-index: 1;
+		}
+	}
+}
+#services-indiv {
+	h2, h3 {
+		&:after {
+			content: " ";
+			width: 30px;
+			height: 0;
+			border-top: solid 1px #ddd;
+			margin-top: 20px;
+			display: block;
+		}
+	}
+	h1 {
+		margin-bottom: 20px;
+		display: block;
+	}
+}
+
+#homepage #services {
+	.text-center {
+		text-align: left;
+	}
+	.section_header {
+		padding-left: 25px;
+	}
+}
+
+/* Formations */
+#formations-list {
+	.formations-container {
+		margin-top: 30px;
+	}
+	.formations-block {
+		position: relative;
+		overflow: hidden;
+		img {
+			width: 100%;
+		}
+		h4 {
+			color: white;
+		    position: absolute;
+		    margin: 0;
+		    top: 50%;
+		    left: 50%;
+		    z-index: 10;
+		    transform: translate(-50%, -50%);
+		    word-break: keep-all;
+		}
+		.overlay {
+			background-color: rgba(0,0,0,0.3);
+		    position: absolute;
+		    width: 100%;
+		    height: 100%;
+		    z-index: 5;
+		    top: 0;
+		    left: 0;
+		    -webkit-transition: 0.4s;
+		    -moz-transition: 0.4s;
+		    -ms-transition: 0.4s;
+		    -o-transition: 0.4s;
+		    transition: 0.4s;
+		}
+		p.note {
+			position: absolute;
+			bottom: -40px;
+			opacity: 0.5;
+			color: white;
+			font-size: 16px;
+			-webkit-transition: 0.4s;
+			-moz-transition: 0.4s;
+			-ms-transition: 0.4s;
+			-o-transition: 0.4s;
+			transition: 0.4s;
+			text-align: center;
+			left: 50%;
+			transform: translate(-50%, -50%);
+			z-index: 10;
+			margin: 0;
+		}
+		&:hover {
+			.overlay {
+				background-color: rgba(0,0,0,0.5);
+			}
+			p.note {
+				bottom: 20px;
+				opacity: 1;
+			}
+		}
+	}
+}
+
+#formations-indiv {
+	.vertical-item.content-padding .item-content {
+		padding-top: 30px;
+	}
+	.formations-contenu {
+		h3 {
+			margin-top: 30px;
+			margin-bottom: 10px;
+		}
+		h6 {
+			margin-bottom: 30px;
+		}
+	}
+	.teacher {
+		img {
+			padding: 40px;
+		}		
+	}
+}
+/* Media Queries */
+@media (max-width: 991px) {
+	.section_padding_bottom_100>[class*="container"] {
+		padding-bottom: 50px;
+	}
+	#homepage #services {
+		.text-center {
+			text-align: center;
+		}
+		.section_header {
+			padding-left: 0;
 		}
 	}
 }

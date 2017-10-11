@@ -1,0 +1,45 @@
+{{ define "main" }}
+<main class="main" id="formations-list">
+	<section class="page_breadcrumbs ds background_cover section_padding_50">
+		<div class="container">
+			<div class="row">
+				<div class="col-sm-12 text-center">
+					<h1>Formations</h1>
+					<ol class="breadcrumb divided_content wide_divider">
+						<li>
+							<a href="/">
+								Accueil
+							</a>
+						</li>
+						<li class="active">Formations</li>
+					</ol>
+				</div>
+			</div>
+		</div>
+	</section>
+	<section id="formations-list" class="ls section_padding_top_50 section_padding_bottom_100">
+		<div class="container">
+			<div class="row columns_padding_0 columns_margin_0 fontsize_16 text-center">
+				{{ .Content}}
+			</div>
+			<div class="row columns_padding_20 fontsize_16 formations-container">
+			{{ range $i, $e := .Pages  }}
+			{{ $mod1 := modBool $i 1}}
+			{{ $mod2 := modBool $i 2}}
+			{{ $mod3 := modBool $i 3}}
+				<div class="col-lg-4 col-md-6 col-sm-6 col-xs-12 formations {{if $mod1 }}clear-xs{{ end }}{{ if $mod2 }} clear-sm clear-md{{ end }}{{ if $mod3 }} clear-lg{{ end }}">
+					<div class="text-center hover_shadow formations-block">
+						<a href="{{ .Permalink }}">
+							<img src="{{ $e.Params.image }}" alt="{{ $e.Title }}">
+							<h4>{{ with $e.Params.resume.titre }}{{ . }}{{ end }}</h4>
+							<p class="note">{{ with $e.Params.resume.note }}{{ . }}{{ end }}</p>
+							<div class="overlay"></div>
+						</a>
+					</div>
+				</div>
+			{{ end }}
+			</div>
+		</div>
+	</section>
+</main>
+{{ end }}

@@ -1,0 +1,162 @@
+{{ define "main" }}
+<main class="main" id="formations-indiv">
+	<section class="page_breadcrumbs ds background_cover section_padding_50">
+		<div class="container">
+			<div class="row">
+				<div class="col-sm-12 text-center">
+					<h1>{{ .Params.resume.titre }}</h1>
+					<ol class="breadcrumb divided_content wide_divider">
+						<li>
+							<a href="./">Accueil</a>
+						</li>
+						<li>
+							<a href="/formations">Formations</a>
+						</li>
+						<li class="active">{{ .Params.resume.titre }}</li>
+					</ol>
+				</div>
+			</div>
+		</div>
+	</section>
+
+	<section class="ls section_padding_top_50 section_padding_bottom_100 columns_padding_25">
+		<div class="container">
+			<div class="row">
+				<div class="col-sm-7 col-md-8 col-lg-8">
+					<div class="vertical-item content-padding with_shadow">
+						<div class="item-content">
+							<div class="entry-content">
+								<header class="entry-header">
+									<div class="entry-meta item-meta small-text content-justify">
+										{{ if .Params.lieu.need }}
+										<span class="greylinks">
+											<span class="entry-date">
+												<a href="{{ .Params.lieu.link }}" rel="bookmark">
+													{{ .Params.lieu.text }}
+												</a>
+											</span>
+										</span>
+										{{ end }}
+										{{ if .Params.toplink.need}}
+										<span>
+											<span class="categories-links">
+												<a rel="category" href="{{ .Params.toplink.link }}">{{ .Params.toplink.text }}</a>
+											</span>
+										</span>
+										{{ end }}
+									</div>
+									<!-- .entry-meta -->
+								</header>
+								<!-- .entry-header -->
+
+								<div class="formations-contenu">
+									{{ .Content }}
+								</div>
+
+								<!-- .entry-content -->
+							</div>
+							<!-- .item-content -->
+
+
+							<div class="comment-respond" id="respond">
+								<h4>Intéressé à suivre cette formation? Contactez-nous!</h4>
+								<form class="comment-form" id="commentform" method="post" action="./">
+									<div class="row columns_margin_bottom_40">
+										<div class="col-md-6">
+											<p class="comment-form-author">
+												<label for="author">Nom
+													<span class="required">*</span>
+												</label>
+												<i class="rt-icon2-user-outline"></i>
+												<input type="text" aria-required="true" size="30" value="" name="author" id="author" class="form-control" placeholder="Nom">
+											</p>
+										</div>
+										<div class="col-md-6">
+											<p class="comment-form-email">
+												<label for="comment_email">Courriel
+													<span class="required">*</span>
+												</label>
+												<i class="rt-icon2-mail2"></i>
+												<input type="email" aria-required="true" size="30" value="" name="comment_email" id="comment_email" class="form-control" placeholder="Courriel">
+											</p>
+										</div>
+										<div class="col-md-12">
+											<p class="comment-form-chat">
+												<label for="comment">Message</label>
+												<i class="rt-icon2-pencil3"></i>
+												<textarea aria-required="true" rows="1" cols="45" name="comment" id="comment" class="form-control" placeholder="Message"></textarea>
+											</p>
+										</div>
+									</div>
+									<p class="form-submit text-center topmargin_20">
+										<button type="submit" id="submit" name="submit" class="theme_button color1 with_shadow">Envoyer le message</button>
+									</p>
+								</form>
+							</div>
+							<!-- #respond -->
+						</div>
+					</div>
+				</div>
+				<!--eof .col-sm-8 (main content)-->
+
+				<!-- sidebar -->
+				<aside class="col-sm-5 col-md-4 col-lg-4">
+					<div class="widget">
+						{{ range .Params.teacher }}
+						  <div class="teacher">
+						  	<img src="{{ .timage }}" alt="psychologue">
+						  	{{ with .tdesc}}<p>{{ . }}</p>{{ end }}
+						  </div>
+						{{ end }}
+					</div>
+					<div class="widget widget_recent_posts">
+
+						<h3 class="widget-title">Ressources</h3>
+						<ul>
+							<li>
+								<div class="entry-date small-text highlight">
+									<a href="#no" rel="bookmark">
+										<time class="entry-date" datetime="2017-03-13T08:50:40+00:00">
+											March 13, 2017
+										</time>
+									</a>
+								</div>
+								<h4>
+									<a href="#no">Doner tongue bacon beef ribs picanha sausage brisket t-bone</a>
+								</h4>
+							</li>
+							<li>
+								<div class="entry-date small-text highlight">
+									<a href="#no" rel="bookmark">
+										<time class="entry-date" datetime="2017-03-13T08:50:40+00:00">
+											March 11, 2017
+										</time>
+									</a>
+								</div>
+								<h4>
+									<a href="#no">Doner tongue bacon beef ribs picanha sausage brisket t-bone</a>
+								</h4>
+							</li>
+							<li>
+								<div class="entry-date small-text highlight">
+									<a href="#no" rel="bookmark">
+										<time class="entry-date" datetime="2017-03-13T08:50:40+00:00">
+											March 11, 2017
+										</time>
+									</a>
+								</div>
+								<h4>
+									<a href="#no">Doner tongue bacon beef ribs picanha sausage brisket t-bone</a>
+								</h4>
+							</li>
+						</ul>
+					</div>
+
+				</aside>
+				<!-- eof aside sidebar -->
+
+			</div>
+		</div>
+	</section>
+</main>
+{{ end }}
