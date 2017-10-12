@@ -23,7 +23,8 @@
 						<i class="fa fa-phone highlight fontsize_16"></i>
 					</div>
 					<div class="media-body">
-						450-490-3214
+						<span class="hidden-sm hidden-xs">{{ $.Site.Data.settings.phone }}</span>
+						<a href="tel:{{ $.Site.Data.settings.mphone }}" class="visible-sm visible-xs">{{ $.Site.Data.settings.phone }}</a>
 					</div>
 				</div>
 
@@ -32,7 +33,7 @@
 						<i class="fa fa-pencil highlight fontsize_16"></i>
 					</div>
 					<div class="media-body">
-						<a href="mailto:info@cliniquetandem.ca">info@cliniquetandem.ca</a>
+						<a href="mailto:{{ $.Site.Data.settings.email }}">{{ $.Site.Data.settings.email }}</a>
 					</div>
 				</div>
 

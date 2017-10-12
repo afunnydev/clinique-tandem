@@ -1,4 +1,154 @@
 {{ define "main" }}
 <main class="main" id="contact">
+	<section class="page_breadcrumbs ds background_cover section_padding_50">
+		<div class="container">
+			<div class="row">
+				<div class="col-sm-12 text-center">
+					<h1>{{ .Params.titre }}</h1>
+					<ol class="breadcrumb divided_content wide_divider">
+						<li>
+							<a href="{{ $.Site.BaseURL }}">
+								Accueil
+							</a>
+						</li>
+						<li class="active">Contact</li>
+					</ol>
+				</div>
+			</div>
+		</div>
+	</section>
+	<section class="ls columns_padding_25 section_padding_top_50 section_padding_bottom_100">
+		<div class="container">
+			<div class="row">
+
+				<div class="col-md-8 to_animate" data-animation="scaleAppear">
+
+					<h3 class="module-header">Contactez la clinique Tandem</h3>
+
+					<form class="contact-form row columns_margin_bottom_40" method="post" action="./">
+
+
+						<div class="col-sm-6">
+							<div class="contact-form-name">
+								<label for="name">Nom
+									<span class="required">*</span>
+								</label>
+								<input type="text" aria-required="true" size="30" value="" name="name" id="name" class="form-control" placeholder="Nom">
+							</div>
+						</div>
+						<div class="col-sm-6">
+							<div class="contact-form-email">
+								<label for="email">Courriel
+									<span class="required">*</span>
+								</label>
+								<input type="email" aria-required="true" size="30" value="" name="email" id="email" class="form-control" placeholder="Courriel">
+							</div>
+						</div>
+						<div class="col-sm-6">
+							<div class="contact-form-subject">
+								<label for="subject">Choisissez votre service
+									<span class="required">*</span>
+								</label>
+								<select name="service" id="service" class="form-control">
+									{{ range .Params.services }}
+									<option value="{{ . | urlize }}">{{ . }}</option>
+									{{ end }}
+								</select>
+							</div>
+						</div>
+						<div class="col-sm-6">
+							<div class="contact-form-phone">
+								<label for="phone">Téléphone</label>
+								<input type="text" size="30" value="" name="phone" id="phone" class="form-control" placeholder="Téléphone">
+							</div>
+						</div>
+						<div class="col-sm-12">
+
+							<div class="contact-form-message">
+								<label for="message">Message</label>
+								<textarea aria-required="true" rows="3" cols="45" name="message" id="message" class="form-control" placeholder="Message"></textarea>
+							</div>
+						</div>
+
+						<div class="col-sm-12">
+							<div class="contact-form-submit topmargin_20">
+								<button type="submit" id="contact_form_submit" name="contact_submit" class="theme_button color1 with_shadow">Envoyer un message</button>
+							</div>
+						</div>
+
+
+					</form>
+				</div>
+
+				<div class="col-md-4 to_animate" data-animation="scaleAppear">
+
+					<div class="with_border with_padding_small">
+						<ul class="list1 no-bullets no-top-border no-bottom-border">
+
+							<li>
+								<div class="media">
+									<div class="media-left">
+										<i class="rt-icon2-shop highlight fontsize_18"></i>
+									</div>
+									<div class="media-body">
+										<h5 class="media-heading grey">Adresse:</h5>
+										Clinique Tandem</br>
+										3498 Boulevard Sainte-Rose, Suite 101, Laval, QC</br>
+										H7P 4K7
+									</div>
+								</div>
+							</li>
+							<li>
+								<div class="media">
+									<div class="media-left">
+										<i class="rt-icon2-clock4 highlight fontsize_18"></i>
+									</div>
+									<div class="media-body">
+										<h5 class="media-heading grey">Heures d'ouverture</h5>
+										{{ .Params.heures }}
+									</div>
+								</div>
+							</li>
+							<li>
+								<div class="media">
+									<div class="media-left">
+										<i class="rt-icon2-phone5 highlight fontsize_18"></i>
+									</div>
+									<div class="media-body">
+										<h5 class="media-heading grey">Téléphone:</h5>
+										<span class="hidden-sm hidden-xs">{{ $.Site.Data.settings.phone }}</span>
+										<a href="tel:{{ $.Site.Data.settings.mphone }}" class="visible-sm visible-xs">{{ $.Site.Data.settings.phone }}</a>
+									</div>
+								</div>
+							</li>
+							<li>
+								<div class="media">
+									<div class="media-left">
+										<i class="rt-icon2-mail highlight fontsize_18"></i>
+									</div>
+									<div class="media-body">
+										<h5 class="media-heading grey">Courriel</h5>
+										<a href="mailto:{{ $.Site.Data.settings.email }}">{{ $.Site.Data.settings.email }}</a>
+									</div>
+								</div>
+							</li>
+						</ul>
+					</div>
+
+				</div>
+
+			</div>
+		</div>
+	</section>
+	<section id="map" class="ls" data-address="3498 Boulevard Sainte-Rose, Suite 101, Laval, QC, Canada" data-zoom="10">
+			<!-- marker description and marker icon goes here -->
+			<div class="map_marker_description">
+				<h3>Clinique multidisciplinaire à Laval</h3>
+				<p>Venez nous voir pour toutes vos questions concernant vos difficultés</p>
+				<img class="map_marker_icon" src="/assets/images/icons/map_marker_icon.png" alt="">
+			</div>
+		</div>
+	</section>
+
 </main>
 {{ end }}

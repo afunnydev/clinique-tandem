@@ -9,10 +9,11 @@
 							<div>
 								<div class="media small-teaser">
 									<div class="media-left">
-										<i class="fa fa-user highlight fontsize_16"></i>
+										<i class="rt-icon2-phone5 highlight fontsize_16"></i>
 									</div>
 									<div class="media-body">
-										450-490-3214
+										<span class="hidden-sm hidden-xs">{{ $.Site.Data.settings.phone }}</span>
+										<a href="tel:{{ $.Site.Data.settings.mphone }}" class="visible-sm visible-xs">{{ $.Site.Data.settings.phone }}</a>
 									</div>
 								</div>
 							</div>
@@ -34,7 +35,7 @@
 										<i class="fa fa-envelope highlight fontsize_16"></i>
 									</div>
 									<div class="media-body">
-										info@cliniquetandem.ca
+										<a href="mailto:{{ $.Site.Data.settings.email }}">{{ $.Site.Data.settings.email }}</a>
 									</div>
 								</div>
 							</div>
@@ -42,7 +43,7 @@
 						</div>
 
 						<div class="col-md-3 text-center text-md-right bottommargin_0">
-							<a href="#appointment" class="theme_button color1 margin_0">Prendre rendez-vous</a>
+							<a href="{{ if .IsHome }}#appointment{{ else }}/nous-joindre{{ end }}" class="theme_button color1 margin_0">Prendre rendez-vous</a>
 						</div>
 
 					</div>
@@ -72,25 +73,13 @@
 									<li>
 										<a href="/services">Services</a>
 										<ul>
-
-											<li>
-												<a href="/services/neuropsychologie">Neuropsychologie</a>
-											</li>
-											<li>
-												<a href="/services/evaluation-tsa">Évaluation TSA</a>
-											</li>
-											<li>
-												<a href="/services/psychologie">Psychologie</a>
-											</li>
-											<li>
-												<a href="/services/psychoeducation">Psychoéducation</a>
-											</li>
-											<li>
-												<a href="/services/therapie-familiale">Thérapie familiale</a>
-											</li>
-											<li>
-												<a href="/services/pedopsychiatrie">Pédopsychiatrie</a>
-											</li>
+											{{ range $i, $e := where $.Site.Pages "Type" "services"  }}
+												{{ if $e.Params.resume.titre }}
+												<li>
+													<a href="{{ .Permalink }}">{{ $e.Params.resume.titre }}</a>
+												</li>
+												{{ end }}
+											{{ end }}
 										</ul>
 									</li>
 									<!-- eof services -->

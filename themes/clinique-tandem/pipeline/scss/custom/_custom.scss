@@ -222,7 +222,7 @@ ul.specialisations {
 				    transition: 0.4s;
 				}
 				.description {
-					text-align: justify;
+					text-align: left;
 					max-width: 80%;
 					margin: auto;
 					-webkit-transition: 0.5s;
@@ -242,7 +242,7 @@ ul.specialisations {
 				div.img {
 					height: 600px;
 					div.overlay {
-						background-color: rgba(0,164,199,0.6);
+						background-color: rgba(0,164,199,0.73);
 					}
 					.description {
 						opacity: 1;

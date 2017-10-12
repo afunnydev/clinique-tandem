@@ -7980,8 +7980,8 @@ body.active-side-header.slide-right .page_header_side {
 }
 
 .page_breadcrumbs h1 {
-	display: inline;
 	font-size: 36px;
+	margin-bottom: 20px;
 	word-wrap: break-word;
 }
 
@@ -8136,7 +8136,7 @@ body.active-side-header.slide-right .page_header_side {
 /* google map  */
 #map,
 .page_map {
-	height: 500px;
+	height: 300px;
 }
 
 #map img,
