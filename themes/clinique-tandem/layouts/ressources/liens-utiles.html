@@ -1,0 +1,29 @@
+{{ define "main" }}
+<main class="main" id="liens-utiles">
+	<section class="page_breadcrumbs ds background_cover section_padding_50">
+		<div class="container">
+			<div class="row">
+				<div class="col-sm-12 text-center">
+					<h1>{{ .Params.titre }}</h1>
+					<ol class="breadcrumb divided_content wide_divider">
+						<li>
+							<a href="./">Accueil</a>
+						</li>
+						<li>
+							<a href="#no">Ressources</a>
+						</li>
+						<li class="active">Liens utiles</li>
+					</ol>
+				</div>
+			</div>
+		</div>
+	</section>
+	<section id="liens-texte" class="ls section_padding_top_50 section_padding_bottom_100">
+		<div class="container">
+			<div class="row columns_padding_0 columns_margin_0 fontsize_16 text-left">
+				{{ .Content}}
+			</div>
+		</div>
+	</section>
+</main>
+{{ end }}

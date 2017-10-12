@@ -83,9 +83,6 @@ gulp.task('scripts', function(cb) {
     cb
   );
 });
-// gulp.task('hugo', ['sass', 'scripts', 'image-resize'], function() {
-//   execcli('hugo');
-// });
 
 /**
  *

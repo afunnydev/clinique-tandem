@@ -163,6 +163,136 @@ ul.specialisations {
 		}	
 	}
 }
+
+/* Equipe */
+
+#equipe {
+	#equipe-list {
+		.row {
+			display: -webkit-box; 
+			display: -moz-box;
+			display: -ms-flexbox;
+			display: -webkit-flex; 
+			display: flex;
+			-webkit-box-wrap: wrap;
+			-moz-box-wrap: wrap;
+			-ms-flex-wrap: wrap;
+			-webkit-flex-wrap: wrap;
+			flex-wrap: wrap;
+		}
+		.equipe-block {
+			margin-bottom: 50px;
+			-webkit-transition: 0.5s;
+			-moz-transition: 0.5s;
+			-ms-transition: 0.5s;
+			-o-transition: 0.5s;
+			transition: 0.5s;
+			img {
+				max-width: 300px;
+				border-radius: 5px;
+				-webkit-transition: 0.5s;
+				-moz-transition: 0.5s;
+				-ms-transition: 0.5s;
+				-o-transition: 0.5s;
+				transition: 0.5s;
+			}
+			div.img {
+				height: 300px;
+				position: relative;
+				-webkit-transition: 0.5s;
+				-moz-transition: 0.5s;
+				-ms-transition: 0.5s;
+				-o-transition: 0.5s;
+				transition: 0.5s;
+				max-width: 300px;
+				margin: auto;
+				background-size: cover;
+				background-position: center top;
+				div.overlay {
+				    position: absolute;
+				    width: 100%;
+				    height: 100%;
+				    z-index: 5;
+				    top: 0;
+				    left: 0;
+				    -webkit-transition: 0.4s;
+				    -moz-transition: 0.4s;
+				    -ms-transition: 0.4s;
+				    -o-transition: 0.4s;
+				    transition: 0.4s;
+				}
+				.description {
+					text-align: justify;
+					max-width: 80%;
+					margin: auto;
+					-webkit-transition: 0.5s;
+					-moz-transition: 0.5s;
+					-ms-transition: 0.5s;
+					-o-transition: 0.5s;
+					transition: 0.5s;
+					opacity: 0;
+					color: white;
+					z-index: 10;
+					position: absolute;
+				    top: 30px;
+				    left: 10%;
+				}
+			}
+			&:hover {
+				div.img {
+					height: 600px;
+					div.overlay {
+						background-color: rgba(0,164,199,0.6);
+					}
+					.description {
+						opacity: 1;
+					}
+				}
+			}
+		}
+	}
+}
+/* Liens utiles */
+
+#liens-utiles {
+	#liens-texte {
+		h4 {
+			&:after {
+				content: " ";
+				width: 30px;
+				height: 0;
+				border-top: solid 1px #ddd;
+				margin-top: 20px;
+				display: block;
+			}
+			&:before {
+				content: url('/assets/images/icons/point-bleu.png');
+				margin-right: -20px;
+				z-index: 1;
+			}
+		}
+		ul {
+			list-style-type: none;
+		}
+	}
+}
+/* Mieux comprendre */
+
+#comprendre-indiv {
+	#comprendre-texte {
+		ul {
+			list-style-type: none;
+			li {
+				z-index: 10;
+				&:before {
+					content: url('/assets/images/icons/point-vert.png');
+					margin-right: -20px;
+					z-index: 1;
+				}
+			}
+		}
+	}
+}
 /* Media Queries */
 @media (max-width: 991px) {
 	.section_padding_bottom_100>[class*="container"] {
