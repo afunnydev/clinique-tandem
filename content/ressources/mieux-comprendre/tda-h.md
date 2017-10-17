@@ -9,7 +9,7 @@ blackfriday:
 
 ### Le déficit de l’attention/hyperactivité (TDA/H) est un trouble d’origine neurologique qui se manifeste par des symptômes d’inattention et/ou d’hyperactivité/impulsivité. 
 
-Le TDA/H n’est pas expliqué par un manque d’intelligence, d’éducation ou d’effort. Il toucherait environ 5% des enfants.
+> Le TDA/H n’est pas expliqué par un manque d’intelligence, d’éducation ou d’effort. Il toucherait environ 5% des enfants.
  
 En fonction de la présentation du tableau clinique, il est possible de retenir l’un des trois sous-types de TDA/H suivants, soit:
 

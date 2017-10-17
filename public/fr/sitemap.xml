@@ -47,25 +47,6 @@
   </url>
   
   <url>
-    <loc>https://copy-writer-rodney-18086.netlify.com/singles/</loc>
-  </url>
-  
-  <url>
-    <loc>https://copy-writer-rodney-18086.netlify.com/categories/</loc>
-    <priority>0</priority>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://copy-writer-rodney-18086.netlify.com/en/categories/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="fr"
-                href="https://copy-writer-rodney-18086.netlify.com/categories/"
-                />
-  </url>
-  
-  <url>
     <loc>https://copy-writer-rodney-18086.netlify.com/</loc>
     <xhtml:link
                 rel="alternate"
@@ -77,6 +58,10 @@
                 hreflang="fr"
                 href="https://copy-writer-rodney-18086.netlify.com/"
                 />
+  </url>
+  
+  <url>
+    <loc>https://copy-writer-rodney-18086.netlify.com/singles/</loc>
   </url>
   
   <url>

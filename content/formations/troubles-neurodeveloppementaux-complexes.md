@@ -6,7 +6,7 @@ resume:
   titre: Troubles neurodéveloppementaux complexes
   note: Ben oui, chez vous!
 teacher:
-  - timage: "/assets/images/_quart/nadia-carre.jpg"
+  - timage: "/assets/images/quart/nadia-carre.jpg"
     tdesc: "Cette formation vous est donnée par Nadia Lessard."
 lieu: 
   need: true
@@ -16,6 +16,10 @@ toplink:
   need: true
   link: "#no"
   text: "Ressources sur le sujet"
+i18n: fr
+identifiant: troubles-neurodeveloppementaux-complexes
+slug: troubles-neurodeveloppementaux-complexes
+draft: false
 ---
 
 ### Démystifier les comorbidités des troubles neurodéveloppementaux et mentaux de l’enfance et de l’adolescence 

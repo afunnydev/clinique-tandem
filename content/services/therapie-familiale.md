@@ -5,6 +5,10 @@ resume:
   titre: "Thérapie familiale"
   court: "Ceci est la courte description"
 image:
+i18n: fr
+identifiant: therapie-familiale
+slug: therapie-familiale
+draft: false
 ---
 
 ## Qu’est-ce que la thérapie familiale?

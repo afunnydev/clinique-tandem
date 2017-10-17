@@ -6,9 +6,9 @@ resume:
   titre: Trouble du spectre de l’autisme
   note: Se donne chez vous
 teacher:
-  - timage: "/assets/images/_quart/nadia-carre.jpg"
+  - timage: "/assets/images/quart/nadia-carre.jpg"
     tdesc: "Cette formation vous est donnée par Nadia Lessard"
-  - timage: "/assets/images/_quart/nadia-carre.jpg"
+  - timage: "/assets/images/quart/nadia-carre.jpg"
     tdesc: "Ou votre formatrice préférée"
 lieu: 
   need: true
@@ -18,6 +18,10 @@ toplink:
   need: true
   link: "#no"
   text: "Ressources sur le sujet"
+i18n: fr
+identifiant: trouble-spectre-autistique
+slug: trouble-spectre-autistique
+draft: false
 ---
 
 ### Intervenir auprès de l'enfant et de l’adolescent présentant un trouble du spectre de l’autisme (TSA)

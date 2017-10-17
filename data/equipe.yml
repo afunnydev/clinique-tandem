@@ -1,40 +1,40 @@
 equipe:
-  - photo: "/assets/images/_half/nadia.jpeg"
+  - photo: "/assets/images/half/nadia.jpeg"
     nom: Dre Nadia Lessard, Ph.D
     titre: Co-fondatrice et Neuropsychologue
     description: "Dre Lessard est la directrice et la co-fondatrice de la Clinique Tandem. Elle est également neuropsychologue-psychothérapeute et chercheure à l’Hôpital du Sacré-Cœur de Montréal du CIUSSS NIM. Elle exerce depuis plusieurs années dans le secteur de la pédopsychiatrie et se spécialise dans le diagnostic différentiel des troubles neurodéveloppementaux et mentaux. Dre Lessard est superviseure, chargée d’enseignement clinique et conférencière auprès des professionnels et médecins se spécialisant dans l’enfance et dans l’adolescence. "
     ordre: 1
-  - photo: "/assets/images/_half/vincent.jpg"
+  - photo: "/assets/images/half/vincent.jpg"
     nom: Vincent Chiasson
     titre: Co-fondateur
     description: "M. Chiasson est le co-fondateur de la Clinique Tandem. Il termine des études doctorales en neuropsychologie clinique. Ses travaux de recherche ont porté sur le développement de la cognition sociale chez l’enfant avec et sans atteinte neurologique. Sa formation clinique en pédopsychiatrie à l’Hôpital du Sacré-Cœur de Montréal et en neurologie à l’Hôpital de Montréal pour Enfants lui confère une double expertise pour l’évaluation et le dépistage de problématiques neurologiques et de santé mentale chez l’enfant et l’adolescent. "
     ordre: 2
-  - photo: "/assets/images/_half/lyse.jpg"
+  - photo: "/assets/images/half/lyse.jpg"
     nom: Anne Seni
     titre: Doctorante en neuropsychologie
     description: ""
     ordre: 8
-  - photo: "/assets/images/_half/nadia.jpg"
+  - photo: "/assets/images/half/nadia.jpg"
     nom: Dre Andrée-Anne Mcnally-Gagnon, Ph.D
     titre: Neuropsychologue
     description: ""
     ordre: 6
-  - photo: "/assets/images/_half/johanna.jpg"
+  - photo: "/assets/images/half/johanna.jpg"
     nom: Dre Johanna Navarro
     titre: Psychologue
     description: ""
     ordre: 5
-  - photo: "/assets/images/_half/lyse.jpg"
+  - photo: "/assets/images/half/lyse.jpg"
     nom: Lyse Bessette, MSc
     titre: Travailleuse sociale
     description: ""
     ordre: 4
-  - photo: "/assets/images/_half/johanna.jpg"
+  - photo: "/assets/images/half/johanna.jpg"
     nom: Kim Boissonneault, MSc.
     titre: Psychoéducatrice
     description: ""
     ordre: 7
-  - photo: "/assets/images/_half/amprovencher.jpg"
+  - photo: "/assets/images/half/amprovencher.jpg"
     nom: Dre Anne-Marie Provencher
     titre: Pédopsychiatre
     description: ""

@@ -5,6 +5,10 @@ resume:
   titre: "Psychologie"
   court: "Ceci est la courte description"
 image:
+i18n: fr
+identifiant: psychologie
+slug: psychologie
+draft: false
 ---
 
 ## Qu’est-ce que la psychologie?

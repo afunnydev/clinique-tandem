@@ -1,34 +1,25 @@
 {{ if and (.IsPage) (eq .Section "blog") }}
-<script type="application/ld+json">
-{
-    "@context": "http://schema.org",
-    "@type": "BlogPosting",
-    "articleSection": "{{.Section | title}}",
-    "headline": "{{.Title}}",
-    "name": "{{.Title}}",
-    "url": "{{.Permalink }}",
-    "mainEntityOfPage": "{{.Permalink}}",
-    "datePublished": {{.PublishDate.Format "2006-01-02"}},
-    "dateModified": {{.Date.Format "2006-01-02"}},
-    "wordCount": {{.WordCount}},
-    "image": {
-        "@type": "ImageObject",
-        "url": "{{.Site.BaseURL}}{{.Params.image | default .Site.Params.defaultsocialimage }}",
-        "height": 533,
-        "width": 800
-    },
-    "author": {
-        "@type": "person",
-        "name": "{{range .Params.authors}}{{.}}{{end}}"
-    },
-    "publisher": {
-        "@type": "Organization",
-        "name": "{{.Site.Params.organizationname}}",
-        "logo": {
-            "@type": "ImageObject",
-            "url": "{{.Site.BaseURL}}{{.Site.Params.defaultsocialimage}}"
-        }
-    }
-}
-</script>
+<script type="application/ld+json"> { 
+"@context" : "http://schema.org",
+"@type" : "ProfessionalService", 
+"address" : {
+"@type": "PostalAddress",
+"addressLocality": "Laval", 
+"addressRegion": "QC", 
+"postalCode": "H7P 4K7", 
+"streetAddress": "3498 Boulevard Sainte-Rose, Suite 101" }, 
+"name":"Clinique Tandem",
+"url":"{{.Site.Params.siteaddress}}",
+"email":"{{.Site.Data.settings.email}}",
+"telephone":"{{.Site.Data.settings.phone}}",
+"image":"{{.Site.BaseURL}}assets/images/logo.png",
+"openingHours": [ 
+"Mo-Fri 8:00-17:00"], 
+"aggregateRating":{
+"@type":"AggregateRating",
+"ratingValue":"5",
+"reviewCount":"12"},
+"priceRange":"1",
+"paymentAccepted":"Visa, Master Card"
+} </script>
 {{ end }}

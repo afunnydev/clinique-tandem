@@ -5,6 +5,10 @@ resume:
   titre: "Pédopsychiatrie"
   court: "Ceci est la courte description"
 image:
+i18n: fr
+identifiant: pedopsychiatrie
+slug: pedopsychiatrie
+draft: false
 ---
 
 ## Qu’est-ce que la pédopsychiatrie?

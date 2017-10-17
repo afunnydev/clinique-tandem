@@ -21,26 +21,12 @@ defaultContentLanguageInSubdir = false
 
 #CUSTOM PARAMS
 [params]
-  sitesubtitle = ""
-  organizationname = ""
-  sitedescription = ""
   ## Critical Render Path. If true, site style will be embedded in a <style> tag in each html <head> as part of Gulp Build. False puts a typical <link> to the stylesheet in <head>>
   usecrp = false
   ## Include jQuery 2.2.4 in your site head. (see /static/assets/js)
   includejq = true
-  ## Date the Site is Published, use YYYY-MM-DD
-  sitepublishdate = ""
-  ## Socials
-  twitterhandle = ""
-  facebookurl = ""
-  linkedinurl = ""
-  youtubeurl = ""
-  ## Path for default sharing image
-  defaultsocialimage = "cap-logo-social.png"
-  ## Setting this to true will add a "noindex" to *every* page on the site
-  removefromexternalsearch = true
   ## This is used when the BaseURL does not need to modified (eg, in share links)
-  siteaddress = "http://digital.cap.org"
+  siteaddress = "https://www.cliniquetandem.ca/"
   ## Set to true to add Google Tag Manager to the Site
   addgtm = false
   gtmid = ""
@@ -64,10 +50,10 @@ defaultContentLanguageInSubdir = false
 [Languages]
 [Languages.en]
 [Languages.en.Taxonomies]
-category = "categories"
+# category = "categories"
 # creator = "creators"
 
 [Languages.fr]
 [Languages.fr.Taxonomies]
-category = "categories"
+# category = "categories"
 # createur = "createurs"

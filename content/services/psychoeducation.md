@@ -5,6 +5,10 @@ resume:
   titre: "Psychoéducation"
   court: "Ceci est la courte description"
 image:
+i18n: fr
+identifiant: psychoeducation
+slug: psychoeducation
+draft: false
 ---
 
 ## Qu’est-ce que la psychoéducation?

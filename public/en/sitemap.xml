@@ -3,21 +3,6 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://copy-writer-rodney-18086.netlify.com/en/categories/</loc>
-    <priority>0</priority>
-    <xhtml:link
-                rel="alternate"
-                hreflang="fr"
-                href="https://copy-writer-rodney-18086.netlify.com/categories/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://copy-writer-rodney-18086.netlify.com/en/categories/"
-                />
-  </url>
-  
-  <url>
     <loc>https://copy-writer-rodney-18086.netlify.com/en/</loc>
     <priority>0</priority>
     <xhtml:link
