@@ -4,7 +4,7 @@ description: "Intervenir auprès de l'enfant et de l’adolescent présentant un
 image: "https://source.unsplash.com/collection/190727/600x600"
 resume:
   titre: Trouble du spectre de l’autisme
-  note: Se donne chez vous
+  note: Marquez ce que vous voulez ici
 teacher:
   - timage: "/assets/images/quart/nadia-carre.jpg"
     tdesc: "Cette formation vous est donnée par Nadia Lessard"

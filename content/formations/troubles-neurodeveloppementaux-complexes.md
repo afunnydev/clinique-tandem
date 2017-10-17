@@ -4,7 +4,7 @@ description: "Démystifier les comorbidités des troubles neurodéveloppementaux
 image: "https://source.unsplash.com/random/600x600"
 resume:
   titre: Troubles neurodéveloppementaux complexes
-  note: Ben oui, chez vous!
+  note: Marquez ce que vous voulez ici
 teacher:
   - timage: "/assets/images/quart/nadia-carre.jpg"
     tdesc: "Cette formation vous est donnée par Nadia Lessard."

@@ -10,6 +10,7 @@ services:
   - Psychologie
   - Thérapie familiale
   - Psychoéducation
+  - Évaluation TSA
   - Autres
 heures: "Lundi au vendredi 8h à 19h"
 ---

@@ -9,12 +9,12 @@ equipe:
     titre: Co-fondateur
     description: "M. Chiasson est le co-fondateur de la Clinique Tandem. Il termine des études doctorales en neuropsychologie clinique. Ses travaux de recherche ont porté sur le développement de la cognition sociale chez l’enfant avec et sans atteinte neurologique. Sa formation clinique en pédopsychiatrie à l’Hôpital du Sacré-Cœur de Montréal et en neurologie à l’Hôpital de Montréal pour Enfants lui confère une double expertise pour l’évaluation et le dépistage de problématiques neurologiques et de santé mentale chez l’enfant et l’adolescent. "
     ordre: 2
-  - photo: "/assets/images/half/lyse.jpg"
+  - photo: "https://upload.wikimedia.org/wikipedia/commons/thumb/5/53/Blank_woman_placeholder.svg/1024px-Blank_woman_placeholder.svg.png"
     nom: Anne Seni
     titre: Doctorante en neuropsychologie
     description: ""
     ordre: 8
-  - photo: "/assets/images/half/nadia.jpg"
+  - photo: "https://upload.wikimedia.org/wikipedia/commons/thumb/5/53/Blank_woman_placeholder.svg/1024px-Blank_woman_placeholder.svg.png"
     nom: Dre Andrée-Anne Mcnally-Gagnon, Ph.D
     titre: Neuropsychologue
     description: ""
@@ -29,7 +29,7 @@ equipe:
     titre: Travailleuse sociale
     description: ""
     ordre: 4
-  - photo: "/assets/images/half/johanna.jpg"
+  - photo: "https://upload.wikimedia.org/wikipedia/commons/thumb/5/53/Blank_woman_placeholder.svg/1024px-Blank_woman_placeholder.svg.png"
     nom: Kim Boissonneault, MSc.
     titre: Psychoéducatrice
     description: ""

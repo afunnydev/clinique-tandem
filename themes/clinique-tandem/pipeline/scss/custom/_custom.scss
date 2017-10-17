@@ -1,3 +1,4 @@
+
 /* Accueil */
 #services {
 	.services-container {
@@ -48,6 +49,9 @@ ul.specialisations {
 	}
 }
 #services-indiv {
+	p {
+		font-size: 16px;
+	}
 	h2, h3 {
 		&:after {
 			content: " ";
@@ -284,10 +288,17 @@ ul.specialisations {
 			list-style-type: none;
 			li {
 				z-index: 10;
+				position: relative;
+    			padding: 3px 0 3px 0;
 				&:before {
-					content: url('/assets/images/icons/point-vert.png');
-					margin-right: -20px;
-					z-index: 1;
+					content: '';
+				    display: block;
+				    width: 5px;
+				    height: 5px;
+				    background-color: #00A4C7;
+				    position: absolute;
+				    left: -18px;
+				    top: 15px;
 				}
 			}
 		}
@@ -308,5 +319,14 @@ ul.specialisations {
 	}
 	ol.breadcrumb {
 		display: none;
+	}
+	a.logo {
+		padding: 10px 0;
+	}
+	#about .text-right.specialisations {
+		text-align: left;
+		ul.specialisations {
+			padding-left: 0;
+		}
 	}
 }
