@@ -16,7 +16,7 @@ toplink:
   need: true
   link: "#no"
   text: "Ressources sur le sujet"
-i18n: fr
+i18nlanguage: fr
 identifiant: troubles-neurodeveloppementaux-complexes
 slug: troubles-neurodeveloppementaux-complexes
 draft: false

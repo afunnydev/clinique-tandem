@@ -5,7 +5,7 @@ resume:
   titre: "Neuropsychologie"
   court: "Ceci est la courte description"
 image:
-i18n: fr
+i18nlanguage: fr
 identifiant: neuropsychologie
 slug: neuropsychologie
 draft: false

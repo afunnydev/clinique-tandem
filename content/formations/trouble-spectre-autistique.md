@@ -18,7 +18,7 @@ toplink:
   need: true
   link: "#no"
   text: "Ressources sur le sujet"
-i18n: fr
+i18nlanguage: fr
 identifiant: trouble-spectre-autistique
 slug: trouble-spectre-autistique
 draft: false

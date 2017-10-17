@@ -5,7 +5,7 @@ resume:
   titre: "Psychologie"
   court: "Ceci est la courte description"
 image:
-i18n: fr
+i18nlanguage: fr
 identifiant: psychologie
 slug: psychologie
 draft: false

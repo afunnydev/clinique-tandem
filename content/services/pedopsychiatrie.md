@@ -5,7 +5,7 @@ resume:
   titre: "Pédopsychiatrie"
   court: "Ceci est la courte description"
 image:
-i18n: fr
+i18nlanguage: fr
 identifiant: pedopsychiatrie
 slug: pedopsychiatrie
 draft: false

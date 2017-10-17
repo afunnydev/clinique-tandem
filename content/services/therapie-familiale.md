@@ -5,7 +5,7 @@ resume:
   titre: "Thérapie familiale"
   court: "Ceci est la courte description"
 image:
-i18n: fr
+i18nlanguage: fr
 identifiant: therapie-familiale
 slug: therapie-familiale
 draft: false

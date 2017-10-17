@@ -5,7 +5,7 @@ resume:
   titre: "Évaluation TSA"
   court: "Ceci est la courte description"
 image:
-i18n: fr
+i18nlanguage: fr
 identifiant: evaluation-tsa
 slug: evaluation-tsa
 draft: false
