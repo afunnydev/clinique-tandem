@@ -3,6 +3,8 @@ title: Liens utiles
 description: desc
 layout: liens-utiles
 titre: Liens utiles
+slug: liens-utiles
+image:
 ---
 
 #### Anxiété

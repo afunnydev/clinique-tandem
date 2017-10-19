@@ -1,6 +1,7 @@
 ---
 title: "Formations sur la psychologie et le neurosychologie"
 description: "La clinique Tandem offre différentes formations concernant la santé mentale."
+image:
 ---
 
 **** Copié du site Institue Alpha, il faut trouver autre chose ****

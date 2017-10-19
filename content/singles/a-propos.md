@@ -4,6 +4,7 @@ description: "desc"
 layout: a-propos
 slug: a-propos
 titre: "À propos"
+image:
 ---
 
 #### La clinique Tandem est un centre spécialisé dans l’évaluation et le traitement des enfants et adolescents aux prises avec des difficultés scolaires ainsi que des problématiques comportementales et émotionnelles. 

@@ -12,10 +12,6 @@ Pour créer ou modifer des membres de l'équipe:
 2. Cliquez sur Settings
 3. Cliquez sur Membres de l'équipe
 
-### Français VS Anglais
-
-Chaque membre de l'équipe a sa propre boîte dans laquelle vous pouvez modifier les attributs dans les différentes langues.
-
 ### Les champs
 
 - *Nom et titre* : Obligatoire

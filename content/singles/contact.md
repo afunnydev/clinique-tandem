@@ -13,4 +13,5 @@ services:
   - Évaluation TSA
   - Autres
 heures: "Lundi au vendredi 8h à 19h"
+image:
 ---

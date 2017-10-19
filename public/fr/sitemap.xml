@@ -3,14 +3,6 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://copy-writer-rodney-18086.netlify.com/ressources/</loc>
-  </url>
-  
-  <url>
-    <loc>https://copy-writer-rodney-18086.netlify.com/ressources/mieux-comprendre/</loc>
-  </url>
-  
-  <url>
     <loc>https://copy-writer-rodney-18086.netlify.com/ressources/mieux-comprendre/anxiete/</loc>
   </url>
   
@@ -85,6 +77,10 @@
   </url>
   
   <url>
+    <loc>https://copy-writer-rodney-18086.netlify.com/ressources/mieux-comprendre/</loc>
+  </url>
+  
+  <url>
     <loc>https://copy-writer-rodney-18086.netlify.com/services/neuropsychologie/</loc>
   </url>
   
@@ -102,6 +98,10 @@
   
   <url>
     <loc>https://copy-writer-rodney-18086.netlify.com/services/pedopsychiatrie/</loc>
+  </url>
+  
+  <url>
+    <loc>https://copy-writer-rodney-18086.netlify.com/ressources/</loc>
   </url>
   
   <url>
