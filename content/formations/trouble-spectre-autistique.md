@@ -5,6 +5,10 @@ image: "https://source.unsplash.com/collection/190727/600x600"
 resume:
   titre: Trouble du spectre de l’autisme
   note: Marquez ce que vous voulez ici
+i18nlanguage: fr
+identifiant: trouble-spectre-autistique
+slug: trouble-spectre-autistique
+draft: false
 teacher:
   - timage: "/assets/images/quart/nadia-carre.jpg"
     tdesc: "Cette formation vous est donnée par Nadia Lessard"
@@ -18,10 +22,6 @@ toplink:
   need: true
   link: "#no"
   text: "Ressources sur le sujet"
-i18nlanguage: fr
-identifiant: trouble-spectre-autistique
-slug: trouble-spectre-autistique
-draft: false
 ---
 
 ### Intervenir auprès de l'enfant et de l’adolescent présentant un trouble du spectre de l’autisme (TSA)

@@ -42,6 +42,7 @@ Exemple de nom de fichier: 04-example-article.jpg, soigne-vos-pieds.jpg, les-pod
 
 - *Rendre le service invisible* : Par défaut, il est inactif. Le rendre actif fera en sorte que la fiche de ce service ne sera pas considérée au moment de rebâtir le site. Donc, on ne verra pas ce service nul part.
 
+
 ### Texte
 
 Il utilise la syntaxe Markdown, discutée dans la section précédente.

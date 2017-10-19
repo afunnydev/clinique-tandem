@@ -29,7 +29,7 @@ Exemple en anglais: "this-is-my-example" donnera http://www.cliniquetandem.ca/en
 
 - *Identifiant* : Nous en avons discuté dans l'introduction. C'est l'identifiant unique de cette formation, qui doit être le même dans toutes les langues traduites. Il peut contenir seulement des chiffes, lettres et tirets.
 - *Aperçu > Titre* : Ceci est le titre du formation, que tout le monde pourra voir dans la liste et sur la page d'une formation individuel. Il est officiellement votre H1 (voir la portion sur le référencement).
-- *Aperçu > Description* : Ceci est la description courte de la formation, que tout le monde pourra voir dans la liste.
+- *Aperçu > Note* : Ceci est la petite note sous le titre de la formation dans la page qui contient toutes les formations, que tout le monde pourra voir dans la liste.
 - *Image*: Choisissez votre image dans votre ordinateur. Je vous conseille de changer le nom du fichier de l'image pour le même que celui de l'identifiant, ce sera plus facile à retrouver. Cette fonctionnalité sera améliorée avec le temps :) **AUCUN ESPACE, CARACTÈRE SPÉCIAUX OU ACCENT DANS LE NOM DU FICHIER**
 
 ```hint|directive
@@ -41,6 +41,9 @@ Exemple de nom de fichier: 04-example-article.jpg, soigne-vos-pieds.jpg, les-pod
 ```
 
 - *Rendre le formation invisible* : Par défaut, il est inactif. Le rendre actif fera en sorte que la fiche de ce formation ne sera pas considérée au moment de rebâtir le site. Donc, on ne verra pas ce formation nul part.
+- *Lieu* : Il représente le lien en haut à gauche dans la boîte. Vous pouvez contrôler sa présence ou non, le texte du lien et aussi le lien vers lequel ce lien va renvoyer.
+- *Lien ressources*: Il représente le lien en haut à droite dans la boîte. Vous pouvez contrôler sa présence ou non, le texte du lien et aussi le lien vers lequel ce lien va renvoyer.
+- *Professeurs*: Vous pouvez modifer et ajouter des professeurs qui donnent cette formation. Veuillez mettre une photo carré, ainsi qu'un petit texte de votre choix sous la photo.
 
 ### Texte
 
@@ -55,4 +58,4 @@ Pour prévisualiser le passage du format Markdown au format texte, vous pouvez c
 
 #### Le format utilisé
 
-La seule chose que vous devez savoir, c'est que tous les sous-titres sont des H2, ce qui signifie que vous devez les précéder de \#\#. Vous pouvez aussi utiliser des H3 pour segmenter encore plus le texte.
+La seule chose que vous devez savoir, c'est que le premier sous-titre utilisé est un h3, ce qui signifie que vous devez les précéder de \#\#\#, et le deuxième est un h6.
