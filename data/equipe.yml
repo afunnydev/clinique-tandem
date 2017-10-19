@@ -42,7 +42,15 @@ equipe:
     ordre: 5
     photo: /assets/images/half/johanna.jpg
     titre: Doctorante en psychologie
-  - description: ''
+  - description: >-
+      Mme. Lyse Bessette est travailleuse sociale, thérapeute conjugale et
+      familiale et psychothérapeute. Depuis 30 ans, elle œuvre au CIUSSS du Nord
+      de L’Île de Montréal auprès des familles en santé mentale jeunesse. Au fil
+      des ans, Mme. Bessette a développé une expertise pointue dans le domaine
+      de l’évaluation et de la thérapie familiales. Elle en fait d’ailleurs
+      l’enseignement auprès d’autres professionnels depuis 15 ans. À la Clinique
+      Tandem, elle offre des services d’accompagnement parental et familial en
+      lien avec une problématique chez l’enfant.
     nom: 'Lyse Bessette, MSc'
     ordre: 4
     photo: /assets/images/half/lyse.jpg
