@@ -1,27 +1,31 @@
 ---
-title: "Formation sur les troubles du spectre de l’autisme" 
-description: "Intervenir auprès de l'enfant et de l’adolescent présentant un trouble du spectre de l’autisme"
-image: "https://source.unsplash.com/collection/190727/600x600"
-resume:
-  titre: Trouble du spectre de l’autisme
-  note: Marquez ce que vous voulez ici
-i18nlanguage: fr
-identifiant: trouble-spectre-autistique
+title: Formation sur les troubles du spectre de l’autisme
+description: >-
+  Intervenir auprès de l'enfant et de l’adolescent présentant un trouble du
+  spectre de l’autisme
 slug: trouble-spectre-autistique
-draft: false
-teacher:
-  - timage: "/assets/images/quart/nadia-carre.jpg"
-    tdesc: "Cette formation vous est donnée par Nadia Lessard"
-  - timage: "/assets/images/quart/nadia-carre.jpg"
-    tdesc: "Ou votre formatrice préférée"
-lieu: 
+identifiant: trouble-spectre-autistique
+image: 'https://source.unsplash.com/collection/190727/600x600'
+resume:
+  note: >-
+    Intervenir auprès de l'enfant et de l’adolescent présentant un trouble du
+    spectre de l’autisme
+  titre: Trouble du spectre de l’autisme
+lieu:
+  link: '#no'
   need: true
-  link: "#no"
-  text: "Clinique tandem"
+  text: Clinique tandem
 toplink:
+  link: '#no'
   need: true
-  link: "#no"
-  text: "Ressources sur le sujet"
+  text: Ressources sur le sujet
+teacher:
+  - tdesc: Cette formation vous est donnée par Nadia Lessard
+    timage: /assets/images/quart/nadia-carre.jpg
+  - tdesc: Ou votre formatrice préférée
+    timage: /assets/images/quart/nadia-carre.jpg
+i18nlanguage: fr
+draft: false
 ---
 
 ### Intervenir auprès de l'enfant et de l’adolescent présentant un trouble du spectre de l’autisme (TSA)
