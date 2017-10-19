@@ -7,9 +7,7 @@ slug: trouble-spectre-autistique
 identifiant: trouble-spectre-autistique
 image: 'https://source.unsplash.com/collection/190727/600x600'
 resume:
-  note: >-
-    Intervenir auprès de l'enfant et de l’adolescent présentant un trouble du
-    spectre de l’autisme
+  note: Intervenir auprès de l'enfant et de l’adolescent présentant un TSA
   titre: Trouble du spectre de l’autisme
 lieu:
   link: '#no'
@@ -50,3 +48,4 @@ draft: false
 3. Orienter et réaliser de façon spécifique les interventions cognitives et le travail en psychothérapie auprès de jeunes présentant des troubles neurodéveloppementaux et mentaux complexes.
 
 **Préalables**: Aucun préalable.
+
