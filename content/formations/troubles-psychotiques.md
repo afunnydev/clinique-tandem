@@ -46,3 +46,4 @@ draft: false
 
 **Préalables**: Aucun préalable. Cette formation est considérée de niveau intermédiaire et s’adresse davantage aux professionnels ayant une expérience auprès de la clientèle en santé mentale jeunesse.
 
+
