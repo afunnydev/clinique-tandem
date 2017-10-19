@@ -29,6 +29,10 @@
 				</div>
 				<div class="col-lg-8 col-lg-pull-4 col-sm-7 col-sm-pull-5">
 					{{ .Content }}
+					{{ if .Params.removebutton }}
+					{{ else }}
+					<a href="/nous-joindre" class="theme_button color1" style="margin-top: 15px;">Prendre rendez-vous</a>
+					{{ end }}
 				</div>
 			</div>
 		</div>

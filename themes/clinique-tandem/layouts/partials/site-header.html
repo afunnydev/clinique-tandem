@@ -96,7 +96,7 @@
 											</li>
 											<li>
 												<a href="#">Mieux comprendre</a>
-												<ul>
+												<ul id="sous-menu">
 													<li>
 														<a href="/ressources/mieux-comprendre/tda-h">TDA/H</a>
 													</li>
@@ -128,6 +128,9 @@
 														<a href="/ressources/mieux-comprendre/dépression">Dépression</a>
 													</li>
 												</ul>
+											</li>
+											<li>
+												<a href="/ressources/foire-aux-questions">Foire aux questions</a>
 											</li>
 										</ul>
 									</li>
@@ -163,7 +166,7 @@
 								{{end}}
 								{{with .Site.Data.settings.socials.facebookurl}}
 								<span>
-									<a class="social-icon soc-facebook" href="{{.}}" title="Facebook"></a>
+									<a class="social-icon color-icon border-icon rounded-icon soc-facebook" href="{{.}}" title="Facebook"></a>
 								</span>								
 								{{end}}
 								{{with .Site.Data.settings.socials.linkedinurl}}

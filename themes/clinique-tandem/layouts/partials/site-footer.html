@@ -1,4 +1,11 @@
 <footer class="page_footer ds section_padding_top_30 section_padding_bottom_10 columns_padding_25 columns_margin_bottom_40">
+	{{ if .Params.heures }}
+	<div class="container">
+		<div class="row" style="padding-top: 20px;">
+			
+		</div>
+	</div>
+	{{ else}}
 	<div class="container">
 
 		<div class="row">
@@ -36,10 +43,18 @@
 						<a href="mailto:{{ $.Site.Data.settings.email }}">{{ $.Site.Data.settings.email }}</a>
 					</div>
 				</div>
+				<div class="media small-teaser">
+					<div class="media-left">
+						<i class="fa fa-facebook highlight fontsize_16"></i>
+					</div>
+					<div class="media-body">
+						<a href="#">Clinique Tandem</a>
+					</div>
+				</div>
 
 			</div>
 
-			<div class="col-md-4 col-sm-6 to_animate" data-animation="fadeInUp">
+			<div class="col-md-8 col-sm-6 to_animate" data-animation="fadeInUp">
 				<div class="ls page_map" data-address="3498 Boulevard Sainte-Rose, Suite 101, Laval, QC, Canada" data-zoom="10">
 					<!-- marker description and marker icon goes here -->
 					<div class="map_marker_description">
@@ -51,7 +66,7 @@
 			</div>
 
 
-			<div class="col-md-4 col-sm-6 to_animate" data-animation="fadeInUp">
+			<!-- <div class="col-md-4 col-sm-6 to_animate" data-animation="fadeInUp">
 				<div class="widget widget_mailchimp">
 
 					<h3 class="widget-title">Matériel Éducatif</h3>
@@ -72,10 +87,10 @@
 					<a href="#" class="social-icon color-icon border-icon rounded-icon soc-linkedin"></a>
 					<a href="#" class="social-icon color-icon border-icon rounded-icon soc-pinterest"></a>
 				</div>
-			</div>
+			</div> -->
 		</div>
 	</div>
-
+{{ end }}
 </footer>
 
 <section class="cs main_color2 page_copyright">
