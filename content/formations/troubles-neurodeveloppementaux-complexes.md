@@ -1,24 +1,29 @@
 ---
-title: "Formation sur les troubles neurodéveloppementaux complexes"
-description: "Démystifier les comorbidités des troubles neurodéveloppementaux et mentaux de l’enfance et de l’adolescence: outils d’évaluation et interventions ciblées"
-image: "https://source.unsplash.com/random/600x600"
-resume:
-  titre: Troubles neurodéveloppementaux complexes
-  note: Marquez ce que vous voulez ici
-teacher:
-  - timage: "/assets/images/quart/nadia-carre.jpg"
-    tdesc: "Cette formation vous est donnée par Nadia Lessard."
-lieu: 
-  need: true
-  link: "#no"
-  text: "Clinique tandem"
-toplink:
-  need: true
-  link: "#no"
-  text: "Ressources sur le sujet"
-i18nlanguage: fr
-identifiant: troubles-neurodeveloppementaux-complexes
+title: Formation sur les troubles neurodéveloppementaux complexes
+description: >-
+  Démystifier les comorbidités des troubles neurodéveloppementaux et mentaux de
+  l’enfance et de l’adolescence: outils d’évaluation et interventions ciblées
 slug: troubles-neurodeveloppementaux-complexes
+identifiant: troubles-neurodeveloppementaux-complexes
+image: 'https://source.unsplash.com/random/600x600'
+resume:
+  note: >-
+    Démystifier les comorbidités des troubles neurodéveloppementaux et mentaux
+    de l’enfance et de l’adolescence: outils d’évaluation et interventions
+    ciblées
+  titre: Troubles neurodéveloppementaux complexes
+lieu:
+  link: '#no'
+  need: true
+  text: Clinique tandem
+toplink:
+  link: '#no'
+  need: true
+  text: Ressources sur le sujet
+teacher:
+  - tdesc: Cette formation vous est donnée par Nadia Lessard.
+    timage: /assets/images/quart/nadia-carre.jpg
+i18nlanguage: fr
 draft: false
 ---
 
