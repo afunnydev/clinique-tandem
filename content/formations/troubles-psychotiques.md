@@ -5,8 +5,7 @@ description: >-
   l’enfance et de l’adolescence: outils d’évaluation et interventions ciblées
 slug: troubles-psychotiques
 identifiant: troubles-psychotiques
-image: >-
-  /assets/images/uploads/Schizophrenie-le-mystere-des-hallucinations-auditives-devoile.jpg
+image: /assets/images/uploads/Schizo.jpg
 resume:
   note: Outils d’évaluation et interventions ciblées
   titre: Premiers épisodes psychotiques et troubles associés
@@ -45,5 +44,6 @@ draft: false
 4. Identifier l’impact des comorbidités sur l’évaluation des troubles de l’enfance et de l’adolescence et sur l’atteinte des objectifs psychothérapeutiques.
 
 **Préalables**: Aucun préalable. Cette formation est considérée de niveau intermédiaire et s’adresse davantage aux professionnels ayant une expérience auprès de la clientèle en santé mentale jeunesse.
+
 
 
