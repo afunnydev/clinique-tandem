@@ -7,7 +7,7 @@ slug: troubles-neurodeveloppementaux-complexes
 identifiant: troubles-neurodeveloppementaux-complexes
 image: 'https://source.unsplash.com/random/600x600'
 resume:
-  note: ''
+  note: Outils d’évaluation et interventions ciblées
   titre: Troubles neurodéveloppementaux complexes
 lieu:
   link: '#no'
@@ -48,4 +48,5 @@ draft: false
 4. Identifier l’impact des comorbidités sur l’évaluation des troubles de l’enfance et de l’adolescence et sur l’atteinte des objectifs psychothérapeutiques.
 
 **Préalables**: Aucun préalable. Cette formation s’adresse aux psychothérapeutes, psychologues, neuropsychologues, infirmiers et médecins désirant développer leurs compétences aux plans du diagnostic et de l’intervention auprès d’une clientèle d’enfants et d’adolescents. Cependant, cette formation est considérée de niveau « intermédiaire / avancée » et s’adresse davantage aux professionnels ayant une expérience auprès de la clientèle en santé mentale jeunesse.
+
 
