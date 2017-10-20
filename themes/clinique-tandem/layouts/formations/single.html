@@ -111,7 +111,9 @@
 					</div>
 					{{ if .Params.ressources.need }}
 					<div class="widget widget_recent_posts">
-						{{ .Params.ressources.text | markdownify }}
+						{{with .Params.ressources.text}}
+						{{ . | markdownify }}
+						{{ end }}
 					</div>
 					{{ end }}
 
