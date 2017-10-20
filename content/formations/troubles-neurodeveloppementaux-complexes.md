@@ -1,18 +1,18 @@
 ---
 title: Formation sur les troubles neurodéveloppementaux complexes
 description: >-
-  Démystifier les comorbidités des troubles neurodéveloppementaux et mentaux de
+  Démystifier les comorbidités des troubles neuro-développementaux et mentaux de
   l’enfance et de l’adolescence: outils d’évaluation et interventions ciblées
 slug: troubles-neurodeveloppementaux-complexes
 identifiant: troubles-neurodeveloppementaux-complexes
 image: 'https://source.unsplash.com/random/600x600'
 resume:
+  btitre: Troubles neurodéveloppementaux complexes
   note: Outils d’évaluation et interventions ciblées
   titre: Troubles neurodéveloppementaux complexes
-  btitre: Troubles neurodéveloppementaux complexes
 lieu:
   link: '#no'
-  need: true
+  need: false
   text: Clinique tandem
 toplink:
   link: '#no'
@@ -21,12 +21,12 @@ toplink:
 teacher:
   - tdesc: Cette formation est donnée par Dre. Nadia Lessard
     timage: /assets/images/quart/nadia-carre.jpg
-i18nlanguage: fr
-draft: false
-ordre: 2
 ressources:
-  need: false
-  text: 
+  need: 'false'
+  text: null
+i18nlanguage: fr
+ordre: '4'
+draft: false
 ---
 
 ### Démystifier les comorbidités des troubles neurodéveloppementaux et mentaux de l’enfance et de l’adolescence 
@@ -53,6 +53,7 @@ ressources:
 4. Identifier l’impact des comorbidités sur l’évaluation des troubles de l’enfance et de l’adolescence et sur l’atteinte des objectifs psychothérapeutiques.
 
 **Préalables**: Aucun préalable. Cette formation s’adresse aux psychothérapeutes, psychologues, neuropsychologues, infirmiers et médecins désirant développer leurs compétences aux plans du diagnostic et de l’intervention auprès d’une clientèle d’enfants et d’adolescents. Cependant, cette formation est considérée de niveau « intermédiaire / avancée » et s’adresse davantage aux professionnels ayant une expérience auprès de la clientèle en santé mentale jeunesse.
+
 
 
 

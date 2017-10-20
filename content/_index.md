@@ -1,6 +1,10 @@
 ---
+contact: |-
+  #### Nous joindre
+
+  Texte qui parle des différents services
 title: Clinique Tandem
-description: Incroyable Clinique
+description: ''
 image: null
 slider:
   image: /assets/images/tandem-slider-2.jpg
@@ -28,11 +32,7 @@ aboutright: >-
   L’ensemble des professionnels bénéficie d’une formation dans le domaine de la
   pédopsychiatrie permettant l’évaluation et/ou la prise en charge de diverses
   problématiques neuro-développementales et de santé mentale:
-contact: >-
-  #### Nous joindre
-
-
-  Texte qui parle des différents services
-btntext: Envoyer le message
+btntext: Envoyer un message
 ---
+
 
