@@ -124,10 +124,17 @@
 						</div>
 						<div class="col-sm-6">
 							<div class="contact-form-subject">
-								<label for="subject">Sujet
+								<label for="subject">Choisissez votre service
 									<span class="required">*</span>
 								</label>
-								<input type="text" aria-required="true" size="30" value="" name="subject" id="subject" class="form-control" placeholder="Sujet">
+								<select name="service" id="service" class="form-control">
+									{{ $e := first 1 (where $.Site.Pages "Layout" "contact")}}
+									{{ range $e }}
+									{{ range .Params.services }}
+									<option value="{{ . | urlize }}">{{ . }}</option>
+									{{ end }}
+									{{ end }}
+								</select>
 							</div>
 						</div>
 						<div class="col-sm-6">

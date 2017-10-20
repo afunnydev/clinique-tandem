@@ -32,10 +32,9 @@ collections:
           - {label: "Numéro de téléphone", name: "phone", widget: "string"}
           - {label: "Numéro de téléphone, version web", name: "mphone", widget: "string", description: "Gardez le même format"}
           - {label: "Courriel", name: "email", widget: "string"}
-          - {label: "Description par défaut du site", name: "sitedescription", widget: "string", description: "Utilisez moins de 160 caractères"}
-          - {label: "Image par défaut pour les réseaux sociaux", name: "defaultsocialimage", widget: "image"}
+          - {label: "Description par défaut du site", name: "sitedescription", widget: "string", description: "Utilisez moins de 160 caractères", required: false}
+          - {label: "Image par défaut pour les réseaux sociaux", name: "defaultsocialimage", widget: "image", required: false}
           - {label: "Retirer des moteurs de recherche", name: "removefromexternalsearch", widget: "boolean", required: false, default: false}
-
       - name: "equipe"
         label: "Membres de l'équipe"
         file: "data/equipe.yml"
@@ -75,7 +74,7 @@ collections:
       - {label: "Retirer le bouton?", name: "removebutton", widget: "boolean", required: false, default: false}
       - {label: "Ordre", name: "ordre", widget: "number", required: false}
       - {label: "Rendre le service invisible?", name: "draft", widget: "boolean", required: false, default: false}
-      - {label: "Texte", name: "body", widget: "markdown"}
+      - {label: "Texte", name: "body", widget: "markdown", required: false}
   - name: "formations" # Used in routes, e.g. /admin/collections/blog
     label: "Formations" # Used in the UI
     folder: "content/formations" # The path to the folder where the documents are stored
@@ -125,11 +124,11 @@ collections:
         widget: "object" 
         fields:
           - {label: "Visible?", name: "need", required: false, default: false}
-          - {label: "Texte", name: "text", widget: "markdown"}
+          - {label: "Texte", name: "text", widget: "markdown", required: false}
       - {label: "Langue", name: "i18nlanguage", widget: "hidden", default: "fr"}
       - {label: "Ordre", name: "ordre", widget: "number", required: false}
       - {label: "Rendre le service invisible?", name: "draft", widget: "boolean", required: false, default: false}
-      - {label: "Texte", name: "body", widget: "markdown"}
+      - {label: "Texte", name: "body", widget: "markdown", required: false}
   - name: "mieux-comprendre" # Used in routes, e.g. /admin/collections/blog
     label: "Sujets du mieux-comprendre" # Used in the UI
     folder: "content/ressources/mieux-comprendre" # The path to the folder where the documents are stored
@@ -149,7 +148,7 @@ collections:
       - {label: "Type", name: "type", widget: "hidden", default: "mieuxcomprendre"}
       - {label: "Ordre", name: "ordre", widget: "number", required: false}
       - {label: "Rendre le service invisible?", name: "draft", widget: "boolean", required: false, default: false}
-      - {label: "Texte", name: "body", widget: "markdown"}
+      - {label: "Texte", name: "body", widget: "markdown", required: false}
   - name: "pages"
     label: "Pages"
     editor:
@@ -188,7 +187,7 @@ collections:
           - {label: "Titre SEO", name: "title", widget: "string"}
           - {label: "Description SEO", name: "description", widget: "text", required: false}
           - {label: "Image", name: "image", widget: "image", required: false}
-          - {label: "Texte", name: "body", widget: "markdown"}
+          - {label: "Texte", name: "body", widget: "markdown", required: false}
       - name: "a-propos"
         label: "À propos"
         file: "content/singles/a-propos.md"
@@ -199,7 +198,7 @@ collections:
           - {label: "Lien", name: "slug", widget: "string", default: "ceci-est-un-example", pattern: ["^[a-z0-9]+(?:-[a-z0-9/]+)*$", "Svp utilisez le format ceci-est-un-test"]}
           - {label: "Layout", name: "layout", widget: "hidden", default: "a-propos"}
           - {label: "Image", name: "image", widget: "image", required: false}
-          - {label: "Texte", name: "body", widget: "markdown"}
+          - {label: "Texte", name: "body", widget: "markdown", required: false}
       - name: "equipe"
         label: "Équipe"
         file: "content/singles/equipe.md"
@@ -210,7 +209,6 @@ collections:
           - {label: "Lien", name: "slug", widget: "string", default: "ceci-est-un-example", pattern: ["^[a-z0-9]+(?:-[a-z0-9/]+)*$", "Svp utilisez le format ceci-est-un-test"]}
           - {label: "Layout", name: "layout", widget: "hidden", default: "equipe"}
           - {label: "Image", name: "image", widget: "image", required: false}
-          - {label: "Texte", name: "body", widget: "markdown"}
       - name: "liens-utiles"
         label: "Liens utiles"
         file: "content/ressources/liens-utiles.md"
@@ -221,7 +219,7 @@ collections:
           - {label: "Lien", name: "slug", widget: "string", default: "ceci-est-un-example", pattern: ["^[a-z0-9]+(?:-[a-z0-9/]+)*$", "Svp utilisez le format ceci-est-un-test"]}
           - {label: "Layout", name: "layout", widget: "hidden", default: "liens-utiles"}
           - {label: "Image", name: "image", widget: "image", required: false}
-          - {label: "Texte", name: "body", widget: "markdown"}
+          - {label: "Texte", name: "body", widget: "markdown", required: false}
       - name: "faq"
         label: "FAQ"
         file: "content/ressources/faq.md"
@@ -232,7 +230,7 @@ collections:
           - {label: "Lien", name: "slug", widget: "string", default: "ceci-est-un-example", pattern: ["^[a-z0-9]+(?:-[a-z0-9/]+)*$", "Svp utilisez le format ceci-est-un-test"]}
           - {label: "Layout", name: "layout", widget: "hidden", default: "faq"}
           - {label: "Image", name: "image", widget: "image", required: false}
-          - {label: "Texte", name: "body", widget: "markdown"}
+          - {label: "Texte", name: "body", widget: "markdown", required: false}
       - name: "contact"
         label: "Page contact"
         file: "content/singles/contact.md"
