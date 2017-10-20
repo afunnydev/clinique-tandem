@@ -7,7 +7,7 @@ slider:
   quote: >-
     Dédiée à la réussite scolaire et au mieux-être de <span>l'enfant</span> et
     de <span>l'adolescent</span>
-servicestitle: Clinique Tandem - Services de psychologie et de pédopsychologie
+servicestitle: Nos services en santé mentale
 aboutleft: >-
   ### Clinique Tandem
 
@@ -28,5 +28,11 @@ aboutright: >-
   L’ensemble des professionnels bénéficie d’une formation dans le domaine de la
   pédopsychiatrie permettant l’évaluation et/ou la prise en charge de diverses
   problématiques neuro-développementales et de santé mentale:
+contact: >-
+  #### Nous joindre
+
+
+  Texte qui parle des différents services
+btntext: Envoyer le message
 ---
 

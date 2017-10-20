@@ -164,7 +164,9 @@ collections:
               - {label: "Texte", name: "quote", widget: "markdown"}
           - {label: "Services - Titre", name: "servicestitle", widget: "string"}
           - {label: "À propos - Gauche", name: "aboutleft", widget: "markdown"}
-          - {label: "À propos - Droite", name: "aboutright", widget: "markdown"}  
+          - {label: "À propos - Droite", name: "aboutright", widget: "markdown"}
+          - {label: "Contact - En-têtre", name: "aboutright", widget: "markdown"} 
+          - {label: "Texte du bouton", name: "btntext", widget: "string"}  
       - name: "services"
         label: "Services"
         file: "content/services/_index.md"

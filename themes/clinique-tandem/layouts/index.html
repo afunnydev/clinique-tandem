@@ -9,7 +9,7 @@
 						<div class="slide_description_wrapper">
 							<div class="slide_description">
 								<div class="intro-layer" data-animation="fadeInLeft">
-									<p class="small-text grey"><i class="fa fa-quote-left"></i>{{.Params.slider.quote}}Dédiée à la réussite scolaire et au mieux-être de <span>l'enfant</span> et de <span>l'adolescent</span><i class="fa fa-quote-right"></i></p>
+									<p class="small-text grey"><i class="fa fa-quote-left"></i>{{.Params.slider.quote | markdownify}}<i class="fa fa-quote-right"></i></p>
 								</div>
 							</div>
 							<!-- eof .slide_description -->
@@ -29,11 +29,11 @@
 		<div class="container">
 			<div class="row">
 				<div class="col-sm-12 text-center">
-					<h2 class="section_header with_icon">{{.Params.servicestitle}}</h2>
+					<h1 class="section_header with_icon">{{.Params.servicestitle}}</h1>
 				</div>
 			</div>
 			<div class="row columns_padding_0 columns_margin_0 fontsize_16 services-container">
-			{{ range $i, $e := where $.Site.Pages "Type" "services"  }}
+			{{ range $i, $e := where $.Site.Pages "Type" "services" }}
 				{{ if $e.Params.resume.titre }}
 				<div class="col-md-4 col-sm-6 services {{if eq $i 2 }}clear-sm{{ else if eq $i 3}}clear-lg clear-md{{ end }}">
 					<a href="{{ .Permalink }}">
@@ -62,20 +62,13 @@
 		<div class="container">
 			<div class="row">
 				<div class="col-md-6 text-left about-left">
-					<h3>Clinique Tandem</h3>
-					<p>La Clinique Tandem, située dans le quartier Ste-Rose à Laval, offre des services spécialisés d’évaluation et d’intervention pour une clientèle d’enfants et d’adolescents aux prises avec des difficultés scolaires, affectives et/ou comportementales.</p>
-					<p>
-						Notre équipe multidisciplinaire vise une compréhension clinique globale de la problématique du jeune et offre la possibilité d’un suivi adapté aux besoins de la famille, le tout à une même adresse.
-					</p>
+					{{ .Params.aboutleft | markdownify }}
 					<div class="with_icon topmargin_30">
 						<h5 class="small-text text-uppercase inline-block"><img src="/assets/images/logo-blanc-bleu.png" alt="clinique tandem logo" style="max-width: 300px;"></h5>
 					</div>
 				</div>
 				<div class="col-md-6 text-right specialisations about-right">
-					<h3>Nos spécialisations</h3>
-					<p>
-						L’ensemble des professionnels bénéficie d’une formation dans le domaine de la pédopsychiatrie permettant l’évaluation et/ou la prise en charge de diverses problématiques neuro-développementales et de santé mentale: 
-					</p>
+					{{ .Params.aboutright | markdownify }}
 					<div class="row">
 						<div class="col-md-6 col-sm-12 text-left">
 							<ul class="specialisations">
@@ -106,172 +99,13 @@
 		</div>
 	</section>
 
-	<!-- <section class="cs main_color2 parallax page_testimonials section_padding_75">
-		<div class="container">
-			<div class="row">
-				<div class="col-md-10 col-md-offset-1">
-					<div class="owl-carousel testimonials-carousel top-dots" data-responsive-sm="1" data-responsive-md="1" data-responsive-lg="1" data-dots="true">
-						<blockquote>
-							“for me this was a wonderful experience. i must say that i am really impressed.”
-							<div class="item-meta">
-								<h5>Myrtle Murray</h5>
-							</div>
-						</blockquote>
-						<blockquote>
-							“for me this was a wonderful experience. i must say that i am really impressed.”
-							<div class="item-meta">
-								<h5>Myrtle Murray</h5>
-							</div>
-						</blockquote>
-						<blockquote>
-							“for me this was a wonderful experience. i must say that i am really impressed.”
-							<div class="item-meta">
-								<h5>Myrtle Murray</h5>
-							</div>
-						</blockquote>
-					</div>
-				</div>
-			</div>
-		</div>
-	</section> -->
-
-	<!-- <section id="faq" class="ls section_padding_top_130 section_padding_bottom_100">
-		<div class="container">
-			<div class="row">
-				<div class="col-sm-12 text-center">
-					<h2 class="section_header with_icon">Frequently Asked Questions</h2>
-					<p>
-						Exercitation cupim ex, short ribs cow in ullamco corned beef veniam kevin. Eu frankfurter ham hock ball tip reprehenderit adipisicing ipsum jerky tenderloin aliquip.
-					</p>
-				</div>
-			</div>
-			<div class="row">
-				<div class="col-md-6">
-					<div class="panel-group" id="accordion1">
-						<div class="panel panel-default">
-							<div class="panel-heading">
-								<h4 class="panel-title">
-									<a data-toggle="collapse" data-parent="#accordion1" href="#collapse1" class="collapsed">
-										What can I expect in the first session when I see a psychologist?
-									</a>
-								</h4>
-							</div>
-							<div id="collapse1" class="panel-collapse collapse">
-								<div class="panel-body">
-									Exercitation cupim ex, short ribs cow in ullamco corned beef veniam kevin. Eu frankfurter ham hock ball tip reprehenderit adipisicing ipsum jerky tenderloin.
-								</div>
-							</div>
-						</div>
-						<div class="panel panel-default">
-							<div class="panel-heading">
-								<h4 class="panel-title">
-									<a data-toggle="collapse" data-parent="#accordion1" href="#collapse2" class="collapsed">
-										What are the sings of being abused by your partner?
-									</a>
-								</h4>
-							</div>
-							<div id="collapse2" class="panel-collapse collapse">
-								<div class="panel-body">
-									Exercitation cupim ex, short ribs cow in ullamco corned beef veniam kevin. Eu frankfurter ham hock ball tip reprehenderit adipisicing ipsum jerky tenderloin.
-								</div>
-							</div>
-						</div>
-						<div class="panel panel-default">
-							<div class="panel-heading">
-								<h4 class="panel-title">
-									<a data-toggle="collapse" data-parent="#accordion1" href="#collapse3" class="collapsed">
-										What specific qualities are you looking for?
-									</a>
-								</h4>
-							</div>
-							<div id="collapse3" class="panel-collapse collapse">
-								<div class="panel-body">
-									Exercitation cupim ex, short ribs cow in ullamco corned beef veniam kevin. Eu frankfurter ham hock ball tip reprehenderit adipisicing ipsum jerky tenderloin.
-								</div>
-							</div>
-						</div>
-
-						<div class="panel panel-default">
-							<div class="panel-heading">
-								<h4 class="panel-title">
-									<a data-toggle="collapse" data-parent="#accordion1" href="#collapse4" class="collapsed">
-										How much money do psychologists make?
-									</a>
-								</h4>
-							</div>
-							<div id="collapse4" class="panel-collapse collapse">
-								<div class="panel-body">
-									Exercitation cupim ex, short ribs cow in ullamco corned beef veniam kevin. Eu frankfurter ham hock ball tip reprehenderit adipisicing ipsum jerky tenderloin.
-								</div>
-							</div>
-						</div>
-					</div>
-				</div>
-				<div class="col-md-6">
-
-					<div class="tab-content padding_0">
-
-						<div class="tab-pane fade in active" id="tab1">
-							<div class="embed-responsive embed-responsive-16by9">
-								<a href="//player.vimeo.com/video/1084537" class="embed-placeholder">
-									<img src="images/video_tab1.jpg" alt="">
-								</a>
-							</div>
-						</div>
-
-						<div class="tab-pane fade" id="tab2">
-							<div class="embed-responsive embed-responsive-16by9">
-								<a href="//player.vimeo.com/video/1084537" class="embed-placeholder">
-									<img src="images/video_tab2.jpg" alt="">
-								</a>
-							</div>
-						</div>
-
-						<div class="tab-pane fade" id="tab3">
-							<div class="embed-responsive embed-responsive-16by9">
-								<a href="//player.vimeo.com/video/1084537" class="embed-placeholder">
-									<img src="images/video_tab3.jpg" alt="">
-								</a>
-							</div>
-						</div>
-					</div>
-					
-
-					<ul class="nav nav-image" role="tablist">
-						<li class="active">
-							<a href="#tab1" role="tab" data-toggle="tab">
-								<img src="images/video_tab1.jpg" alt="">
-							</a>
-						</li>
-						<li>
-							<a href="#tab2" role="tab" data-toggle="tab">
-								<img src="images/video_tab2.jpg" alt="">
-							</a>
-						</li>
-						<li>
-							<a href="#tab3" role="tab" data-toggle="tab">
-								<img src="images/video_tab3.jpg" alt="">
-							</a>
-						</li>
-					</ul>
-
-				</div>
-			</div>
-		</div>
-	</section> -->
-
 	<section id="appointment" class="ls section_padding_top_50 section_padding_bottom_50">
 		<div class="container">
 			<div class="row">
 				<div class="col-lg-6 col-lg-offset-3 col-md-8 col-md-offset-2 col-sm-10 col-sm-offset-1 text-center">
-					<h2 class="section_header with_icon highlight">Nous joindre</h2>
-					<div class="fontsize_16">
-						Texte qui parle des différents services
-					</div>
+					{{ .Params.contact | markdownify }}
 
 					<form class="contact-form row columns_margin_bottom_40 topmargin_60" method="post" action="./">
-
-
 						<div class="col-sm-6">
 							<div class="contact-form-name">
 								<label for="name">Nom
@@ -304,58 +138,17 @@
 								<input type="text" aria-required="true" size="30" value="" name="phone" id="phone" class="form-control" placeholder="Téléphone">
 							</div>
 						</div>
-						<!-- <div class="col-sm-6">
-							<div class="contact-form-date select-group">
-								<label for="date" class="sr-only">Date
-									<span class="required">*</span>
-								</label>
-								<div class="input-group">
-									<select aria-required="true" id="date" name="date" class="choice empty form-control">
-										<option value="" disabled selected data-default>Date</option>
-										<option value="14.03.2017">14.03.2017</option>
-										<option value="15.03.2017">15.03.2017</option>
-										<option value="16.03.2017">16.03.2017</option>
-										<option value="17.03.2017">17.03.2017</option>
-										<option value="18.03.2017">18.03.2017</option>
-										<option value="19.03.2017">19.03.2017</option>
-										<option value="20.03.2017">20.03.2017</option>
-										<option value="21.03.2017">21.03.2017</option>
-										<option value="22.03.2017">22.03.2017</option>
-										<option value="23.03.2017">23.03.2017</option>
-										<option value="24.03.2017">24.03.2017</option>
-									</select>
-								</div>
-							</div>
-						</div>
-						<div class="col-sm-6">
-							<div class="contact-form-time select-group">
-								<label for="time" class="sr-only">Date
-									<span class="required">*</span>
-								</label>
-								<div class="input-group">
-									<select aria-required="true" id="time" name="time" class="choice empty form-control">
-										<option value="" disabled selected data-default>Heure</option>
-										<option value="avant-midi">Avant-midi</option>
-										<option value="apres-midi">Après-midi</option>
-										<option value="soiree">Soirée</option>
-									</select>
-								</div>
-							</div>
-						</div> -->
 						<div class="col-sm-12">
 							<div class="contact-form-message">
 								<label for="message">Message</label>
 								<textarea aria-required="true" rows="3" cols="45" name="message" id="message" class="form-control" placeholder="Message"></textarea>
 							</div>
 						</div>
-
 						<div class="col-sm-12">
-
 							<div class="contact-form-submit topmargin_20">
-								<button type="submit" id="contact_form_submit" name="contact_submit" class="theme_button color1 with_shadow">Envoyer le message</button>
+								<button type="submit" id="contact_form_submit" name="contact_submit" class="theme_button color1 with_shadow">{{.Params.btntext}}</button>
 							</div>
 						</div>
-
 					</form>
 				</div>
 			</div>
