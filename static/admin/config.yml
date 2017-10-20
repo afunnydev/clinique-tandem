@@ -48,13 +48,15 @@ collections:
               - {label: "Nom", name: "nom", widget: "string"}
               - {label: "Titre", name: "titre", widget: "string"}
               - {label: "Description", name: "description", widget: "text", required: false}
-              - {label: "Image", name: "photo", widget: "image"}
+              - {label: "Image", name: "photo", widget: "image", default: "/assets/images/placeholder-team.jpeg"}
               - {label: "Ordre", name: "ordre", widget: "number", required: false}
   - name: "services" # Used in routes, e.g. /admin/collections/blog
     label: "Services" # Used in the UI
     folder: "content/services" # The path to the folder where the documents are stored
     slug: "{{identifiant}}"
     create: true # Allow users to create new documents in this collection
+    editor:
+      preview: false
     filter: 
       field: "i18nlanguage"
       value: "fr"
@@ -69,7 +71,7 @@ collections:
         fields:
           - {label: "Titre", name: "titre", widget: "string"}
           - {label: "Description", name: "court", widget: "string"}
-      - {label: "Image", name: "image", widget: "image"}
+      - {label: "Image", name: "image", widget: "image" ,required: false}
       - {label: "Langue", name: "i18nlanguage", widget: "hidden", default: "fr"}
       - {label: "Retirer le bouton?", name: "removebutton", widget: "boolean", required: false, default: false}
       - {label: "Ordre", name: "ordre", widget: "number", required: false}
@@ -123,7 +125,7 @@ collections:
         name: "ressources" 
         widget: "object" 
         fields:
-          - {label: "Visible?", name: "need", required: false, default: false}
+          - {label: "Visible?", name: "need", widget: "boolean", required: false, default: false}
           - {label: "Texte", name: "text", widget: "markdown", required: false}
       - {label: "Langue", name: "i18nlanguage", widget: "hidden", default: "fr"}
       - {label: "Ordre", name: "ordre", widget: "number", required: false}
@@ -133,6 +135,8 @@ collections:
     label: "Sujets du mieux-comprendre" # Used in the UI
     folder: "content/ressources/mieux-comprendre" # The path to the folder where the documents are stored
     slug: "{{identifiant}}"
+    editor:
+      preview: false
     create: true # Allow users to create new documents in this collection
     filter: 
       field: "i18nlanguage"
@@ -143,7 +147,7 @@ collections:
       - {label: "Lien", name: "slug", widget: "string", default: "ceci-est-un-example", pattern: ["^[a-z0-9]+(?:-[a-z0-9/]+)*$", "Svp utilisez le format ceci-est-un-test"]}
       - {label: "Identifiant", name: "identifiant", default: "04-exemple-article", pattern: ["^[a-z0-9]+(?:-[a-z0-9]+)*$", "Svp utilisez le format 04-exemple-article"], widget: "string"}
       - {label: "Titre", name: "titre", widget: "string"}
-      - {label: "Image", name: "image", widget: "image"}
+      - {label: "Image", name: "image", widget: "image", required: false}
       - {label: "Langue", name: "i18nlanguage", widget: "hidden", default: "fr"}
       - {label: "Type", name: "type", widget: "hidden", default: "mieuxcomprendre"}
       - {label: "Ordre", name: "ordre", widget: "number", required: false}
@@ -170,7 +174,7 @@ collections:
           - {label: "Services - Titre", name: "servicestitle", widget: "string"}
           - {label: "À propos - Gauche", name: "aboutleft", widget: "markdown"}
           - {label: "À propos - Droite", name: "aboutright", widget: "markdown"}
-          - {label: "Contact - En-têtre", name: "aboutright", widget: "markdown"} 
+          - {label: "Contact - Entête", name: "contact", widget: "markdown"} 
           - {label: "Texte du bouton", name: "btntext", widget: "string"}  
       - name: "services"
         label: "Services"
