@@ -1,8 +1,6 @@
 <!-- OPEN GRAPH PROTOCOL http://ogp.me/ -->
 <meta property="fb:pages" content="cliniquetandem" />
-{{ if or .IsHome .IsNode }}
 <meta property="og:type"   content="website" />
-{{ end }}
 <!-- Article-namespace metadata for OGP -->
 <!-- {{- if .IsPage -}}
 	<meta property="og:type" content="article" />
@@ -16,6 +14,7 @@
 		{{- end -}}
 	{{- end -}}
 {{ end }} -->
+<meta property="og:url" content="{{ .Permalink }}" />
 <meta property="og:locale" content="en_US">
 <meta property="og:title" content="{{ if .Title }}{{ .Title }}{{ else }}{{ .Site.Title }}{{ end }}">
 <meta property="og:image" content="https://www.cliniquetandem.ca{{.Params.image | default .Site.Data.settings.defaultsocialimage }}">
