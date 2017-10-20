@@ -1,37 +1,33 @@
 ---
-title: Formation sur les troubles neurodéveloppementaux complexes
+title: Formation sur les troubles psychotiques
 description: >-
-  Démystifier les comorbidités des troubles neurodéveloppementaux et mentaux de
+  Démystifier les premiers épisodes psychotiques et les troubles comorbides de
   l’enfance et de l’adolescence: outils d’évaluation et interventions ciblées
-slug: troubles-neurodeveloppementaux-complexes
-identifiant: troubles-neurodeveloppementaux-complexes
-image: 'https://source.unsplash.com/random/600x600'
+slug: troubles-psychotiques
+identifiant: troubles-psychotiques
+image: /assets/images/uploads/Schizo.jpg
 resume:
   note: Outils d’évaluation et interventions ciblées
-  titre: Troubles neurodéveloppementaux complexes
+  titre: Premiers épisodes psychotiques et troubles associés
 lieu:
-  link: '#no'
-  need: true
-  text: Clinique tandem
+  need: false
 toplink:
-  link: '#no'
-  need: true
-  text: Ressources sur le sujet
+  need: false
 teacher:
-  - tdesc: Cette formation est donnée par Dre. Nadia Lessard
-    timage: /assets/images/quart/nadia-carre.jpg
+  - tdesc: Cette formation est donnée par Dre Nadia Lessard
+    timage: /assets/images/uploads/DSC_7121_Edit_Nadia.jpg
 i18nlanguage: fr
 draft: false
 ---
 
-### Démystifier les comorbidités des troubles neurodéveloppementaux et mentaux de l’enfance et de l’adolescence 
+### Démystifier les premiers épisodes psychotiques et les troubles comorbides de l'enfance et de l'adolescence 
 ##### Outils d’évaluation et interventions ciblées.
 
 **Formatrice**: Dre Nadia Lessard, Ph.D. 
 
-**Clientèle**: Cette formation s’adresse aux psychothérapeutes, psychologues, neuropsychologues, infirmiers et médecins œuvrant auprès d’une clientèle d’enfants et d’adolescents.
+**Clientèle**: Cette formation aux professionnels œuvrant auprès d’une clientèle d’enfants et d’adolescents.
 
-**Durée de l’activité**: 12 heures reconnues par l’Ordre des psychologues aux fins de la formation continue en psychothérapie.
+**Durée de l’activité**: 6 heures
 
 **Problématique**: Nombreux sont les jeunes, enfants et adolescents, qui sont aux prises avec une condition neurodéveloppementale et/ou une problématique de santé mentale en présence de multiples facteurs de risque confrontant les professionnels à se sentir peu outillés pour effectuer un diagnostic différentiel et intervenir auprès de ces jeunes qui présentent un tableau clinique complexe. Une compréhension des enjeux en pédopsychiatrie et des mesures de détection précoce de ces troubles comorbides visant à améliorer l’intervention auprès de ces enfants et adolescents s’avère nécessaire. Les professionnels doivent acquérir une connaissance plus approfondie de la présentation et des mécanismes sous-jacents impliqués dans la complexité de la symptomatologie, afin de mieux cibler leurs interventions lors de traitements instaurés précocement, le tout dans une vision écosystémique tout en considérant l’apport récent des neurosciences et de la neuropsychiatrie.
 
@@ -42,13 +38,12 @@ draft: false
 
 **Objectifs**:
 
-1. Maîtriser les critères diagnostics du DSM-5 des troubles neurodéveloppementaux et mentaux de l’enfance et de l’adolescence (prévalence, étiologie, symptomatologie, facteurs de risque, pronostic, etc.) à partir des modèles conceptuels en neuroscience et pédopsychiatrie;			
+1. Maîtriser les critères diagnostics du DSM-5 sur le spectre de la schizophrénie et autres troubles psychotiques de l’enfance et de l’adolescence (prévalence, étiologie, symptomatologie, facteurs de risque, pronostic, etc.) à partir des modèles conceptuels en neurosciences et pédopsychiatrie;			
 2. Décrire, reconnaître et différencier les manifestations cliniques des troubles neurodéveloppementaux et de santé mentale parallèlement aux jalons de développement de l’enfance.
 3. Identifier les concepts utiles à partir de l’évaluation des troubles neurodéveloppementaux et mentaux pour orienter de façon spécifique les interventions et le travail en psychothérapie.
 4. Identifier l’impact des comorbidités sur l’évaluation des troubles de l’enfance et de l’adolescence et sur l’atteinte des objectifs psychothérapeutiques.
 
-**Préalables**: Aucun préalable. Cette formation s’adresse aux psychothérapeutes, psychologues, neuropsychologues, infirmiers et médecins désirant développer leurs compétences aux plans du diagnostic et de l’intervention auprès d’une clientèle d’enfants et d’adolescents. Cependant, cette formation est considérée de niveau « intermédiaire / avancée » et s’adresse davantage aux professionnels ayant une expérience auprès de la clientèle en santé mentale jeunesse.
-
+**Préalables**: Aucun préalable. Cette formation est considérée de niveau intermédiaire et s’adresse davantage aux professionnels ayant une expérience auprès de la clientèle en santé mentale jeunesse.
 
 
 
