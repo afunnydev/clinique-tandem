@@ -1,8 +1,9 @@
 ---
-title: "Notre équipe"
-description: "Ceci est une description"
-layout: equipe
+title: Notre équipe
+description: Vraiment une belle équipe!
+titre: Équipe
 slug: equipe
-titre: "Équipe"
-image:
+layout: equipe
+image: null
 ---
+
