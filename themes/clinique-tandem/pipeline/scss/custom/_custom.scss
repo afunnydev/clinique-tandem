@@ -68,6 +68,9 @@ ul.specialisations {
 		margin-bottom: 20px;
 		display: block;
 	}
+	ul li {
+		font-size: 16px;
+	}
 }
 
 #homepage #services {
@@ -116,7 +119,7 @@ ul.specialisations {
 		}
 		p.note {
 			position: absolute;
-			bottom: -40px;
+			bottom: -100px;
 			opacity: 0.5;
 			color: white;
 			font-size: 16px;
