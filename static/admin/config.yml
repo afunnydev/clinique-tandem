@@ -3,7 +3,7 @@ backend:
   repo: felixdb/clinique-tandem # Path to your Github repository
   branch: development # Branch to update (master by default)
 
-media_folder: "static/img/uploads" # Folder where user uploaded files should go
+media_folder: "themes/clinique-tandem/static/assets/images/uploads" # Folder where user uploaded files should go
 public_folder: "/assets/images/uploads" # The src attribute for uploaded media will begin with
 
 publish_mode: editorial_workflow
@@ -50,7 +50,7 @@ collections:
               - {label: "Titre", name: "titre", widget: "string"}
               - {label: "Description", name: "description", widget: "text", required: false}
               - {label: "Image", name: "photo", widget: "image"}
-              - {label: "Ordre", name: "ordre", widget: "number"}
+              - {label: "Ordre", name: "ordre", widget: "number", required: false}
   - name: "services" # Used in routes, e.g. /admin/collections/blog
     label: "Services" # Used in the UI
     folder: "content/services" # The path to the folder where the documents are stored
@@ -61,7 +61,7 @@ collections:
       value: "fr"
     fields: # The fields for each document, usually in front matter
       - {label: "Titre SEO", name: "title", widget: "string"}
-      - {label: "Description SEO", name: "description", widget: "text"}
+      - {label: "Description SEO", name: "description", widget: "text", required: false}
       - {label: "Lien", name: "slug", widget: "string", default: "ceci-est-un-example", pattern: ["^[a-z0-9]+(?:-[a-z0-9/]+)*$", "Svp utilisez le format ceci-est-un-test"]}
       - {label: "Identifiant", name: "identifiant", default: "04-exemple-article", pattern: ["^[a-z0-9]+(?:-[a-z0-9]+)*$", "Svp utilisez le format 04-exemple-article"], widget: "string"}
       - label: "Aperçu" 
@@ -73,6 +73,7 @@ collections:
       - {label: "Image", name: "image", widget: "image"}
       - {label: "Langue", name: "i18nlanguage", widget: "hidden", default: "fr"}
       - {label: "Retirer le bouton?", name: "removebutton", widget: "boolean", required: false, default: false}
+      - {label: "Ordre", name: "ordre", widget: "number", required: false}
       - {label: "Rendre le service invisible?", name: "draft", widget: "boolean", required: false, default: false}
       - {label: "Texte", name: "body", widget: "markdown"}
   - name: "formations" # Used in routes, e.g. /admin/collections/blog
@@ -87,7 +88,7 @@ collections:
       value: "fr"
     fields: # The fields for each document, usually in front matter
       - {label: "Titre SEO", name: "title", widget: "string"}
-      - {label: "Description SEO", name: "description", widget: "text"}
+      - {label: "Description SEO", name: "description", widget: "text", required: false}
       - {label: "Lien", name: "slug", widget: "string", default: "ceci-est-un-example", pattern: ["^[a-z0-9]+(?:-[a-z0-9/]+)*$", "Svp utilisez le format ceci-est-un-test"]}
       - {label: "Identifiant", name: "identifiant", default: "04-exemple-article", pattern: ["^[a-z0-9]+(?:-[a-z0-9]+)*$", "Svp utilisez le format 04-exemple-article"], widget: "string"}
       - {label: "Image", name: "image", widget: "image"}
@@ -97,6 +98,7 @@ collections:
         fields:
           - {label: "Titre", name: "titre", widget: "string"}
           - {label: "Note", name: "note", widget: "string"}
+          - {label: "Brandcrumbs - Titre", name: "btitre", widget: "string"}
       - label: "Lieu" 
         name: "lieu" 
         widget: "object" 
@@ -119,6 +121,7 @@ collections:
           - {label: "Image", name: "timage", widget: "image"}
           - {label: "Description", name: "tdesc", widget: "string"} 
       - {label: "Langue", name: "i18nlanguage", widget: "hidden", default: "fr"}
+      - {label: "Ordre", name: "ordre", widget: "number", required: false}
       - {label: "Rendre le service invisible?", name: "draft", widget: "boolean", required: false, default: false}
       - {label: "Texte", name: "body", widget: "markdown"}
   - name: "mieux-comprendre" # Used in routes, e.g. /admin/collections/blog
@@ -131,13 +134,14 @@ collections:
       value: "fr"
     fields: # The fields for each document, usually in front matter
       - {label: "Titre SEO", name: "title", widget: "string"}
-      - {label: "Description SEO", name: "description", widget: "text"}
+      - {label: "Description SEO", name: "description", widget: "text", required: false}
       - {label: "Lien", name: "slug", widget: "string", default: "ceci-est-un-example", pattern: ["^[a-z0-9]+(?:-[a-z0-9/]+)*$", "Svp utilisez le format ceci-est-un-test"]}
       - {label: "Identifiant", name: "identifiant", default: "04-exemple-article", pattern: ["^[a-z0-9]+(?:-[a-z0-9]+)*$", "Svp utilisez le format 04-exemple-article"], widget: "string"}
       - {label: "Titre", name: "titre", widget: "string"}
       - {label: "Image", name: "image", widget: "image"}
       - {label: "Langue", name: "i18nlanguage", widget: "hidden", default: "fr"}
       - {label: "Type", name: "type", widget: "hidden", default: "mieuxcomprendre"}
+      - {label: "Ordre", name: "ordre", widget: "number", required: false}
       - {label: "Rendre le service invisible?", name: "draft", widget: "boolean", required: false, default: false}
       - {label: "Texte", name: "body", widget: "markdown"}
   - name: "pages"
@@ -150,77 +154,86 @@ collections:
         file: "content/_index.md"
         fields:
           - {label: "Titre SEO", name: "title", widget: "string"}
-          - {label: "Description SEO", name: "description", widget: "text"}
-          - {label: "Image", name: "image", widget: "image"}
+          - {label: "Description SEO", name: "description", widget: "text", required: false}
+          - {label: "Image", name: "image", widget: "image", required: false}
+          - label: "Image du haut" 
+            name: "slider" 
+            widget: "object" 
+            fields:
+              - {label: "Image", name: "image", widget: "image"}
+              - {label: "Texte", name: "quote", widget: "markdown"}
+          - {label: "Services - Titre", name: "servicestitle", widget: "string"}
+          - {label: "À propos - Gauche", name: "aboutleft", widget: "markdown"}
+          - {label: "À propos - Droite", name: "aboutright", widget: "markdown"}  
       - name: "services"
         label: "Services"
         file: "content/services/_index.md"
         fields:
           - {label: "Titre SEO", name: "title", widget: "string"}
-          - {label: "Description SEO", name: "description", widget: "text"}
+          - {label: "Description SEO", name: "description", widget: "text", required: false}
           - {label: "Root page", name: "rootPage", widget: "hidden", default: "true"}
-          - {label: "Image", name: "image", widget: "image"}
+          - {label: "Image", name: "image", widget: "image", required: false}
       - name: "formations"
         label: "Formations"
         file: "content/formations/_index.md"
         fields:
           - {label: "Titre SEO", name: "title", widget: "string"}
-          - {label: "Description SEO", name: "description", widget: "text"}
-          - {label: "Image", name: "image", widget: "image"}
+          - {label: "Description SEO", name: "description", widget: "text", required: false}
+          - {label: "Image", name: "image", widget: "image", required: false}
           - {label: "Texte", name: "body", widget: "markdown"}
       - name: "a-propos"
         label: "À propos"
         file: "content/singles/a-propos.md"
         fields:
           - {label: "Titre SEO", name: "title", widget: "string"}
-          - {label: "Description SEO", name: "description", widget: "text"}
+          - {label: "Description SEO", name: "description", widget: "text", required: false}
           - {label: "Titre", name: "titre", widget: "string"}
           - {label: "Lien", name: "slug", widget: "string", default: "ceci-est-un-example", pattern: ["^[a-z0-9]+(?:-[a-z0-9/]+)*$", "Svp utilisez le format ceci-est-un-test"]}
           - {label: "Layout", name: "layout", widget: "hidden", default: "a-propos"}
-          - {label: "Image", name: "image", widget: "image"}
+          - {label: "Image", name: "image", widget: "image", required: false}
           - {label: "Texte", name: "body", widget: "markdown"}
       - name: "equipe"
         label: "Équipe"
         file: "content/singles/equipe.md"
         fields:
           - {label: "Titre SEO", name: "title", widget: "string"}
-          - {label: "Description SEO", name: "description", widget: "text"}
+          - {label: "Description SEO", name: "description", widget: "text", required: false}
           - {label: "Titre", name: "titre", widget: "string"}
           - {label: "Lien", name: "slug", widget: "string", default: "ceci-est-un-example", pattern: ["^[a-z0-9]+(?:-[a-z0-9/]+)*$", "Svp utilisez le format ceci-est-un-test"]}
           - {label: "Layout", name: "layout", widget: "hidden", default: "equipe"}
-          - {label: "Image", name: "image", widget: "image"}
+          - {label: "Image", name: "image", widget: "image", required: false}
           - {label: "Texte", name: "body", widget: "markdown"}
       - name: "liens-utiles"
         label: "Liens utiles"
         file: "content/ressources/liens-utiles.md"
         fields:
           - {label: "Titre SEO", name: "title", widget: "string"}
-          - {label: "Description SEO", name: "description", widget: "text"}
+          - {label: "Description SEO", name: "description", widget: "text", required: false}
           - {label: "Titre", name: "titre", widget: "string"}
           - {label: "Lien", name: "slug", widget: "string", default: "ceci-est-un-example", pattern: ["^[a-z0-9]+(?:-[a-z0-9/]+)*$", "Svp utilisez le format ceci-est-un-test"]}
           - {label: "Layout", name: "layout", widget: "hidden", default: "liens-utiles"}
-          - {label: "Image", name: "image", widget: "image"}
+          - {label: "Image", name: "image", widget: "image", required: false}
           - {label: "Texte", name: "body", widget: "markdown"}
       - name: "faq"
         label: "FAQ"
         file: "content/ressources/faq.md"
         fields:
           - {label: "Titre SEO", name: "title", widget: "string"}
-          - {label: "Description SEO", name: "description", widget: "text"}
+          - {label: "Description SEO", name: "description", widget: "text", required: false}
           - {label: "Titre", name: "titre", widget: "string"}
           - {label: "Lien", name: "slug", widget: "string", default: "ceci-est-un-example", pattern: ["^[a-z0-9]+(?:-[a-z0-9/]+)*$", "Svp utilisez le format ceci-est-un-test"]}
           - {label: "Layout", name: "layout", widget: "hidden", default: "faq"}
-          - {label: "Image", name: "image", widget: "image"}
+          - {label: "Image", name: "image", widget: "image", required: false}
           - {label: "Texte", name: "body", widget: "markdown"}
       - name: "contact"
         label: "Page contact"
         file: "content/singles/contact.md"
         fields:
           - {label: "Titre SEO", name: "title", widget: "string"}
-          - {label: "Description SEO", name: "description", widget: "text"}
+          - {label: "Description SEO", name: "description", widget: "text", required: false}
           - {label: "Titre", name: "titre", widget: "string"}
           - {label: "Lien", name: "slug", widget: "string", default: "ceci-est-un-example", pattern: ["^[a-z0-9]+(?:-[a-z0-9/]+)*$", "Svp utilisez le format ceci-est-un-test"]}
           - {label: "Layout", name: "layout", widget: "hidden", default: "contact"}
           - {label: "Heures d'ouverture", name: "heures", widget: "string"}
           - {label: "Services - Menu déroulant", name: "services", widget: "list"}
-          - {label: "Image", name: "image", widget: "image"}
+          - {label: "Image", name: "image", widget: "image", required: false}
