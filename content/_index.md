@@ -5,8 +5,8 @@ image: null
 slider:
   image: /assets/images/tandem-slider-2.jpg
   quote: >-
-    Dédiée à la réussite scolaire et au mieux-être de <span>l'enfant</span> et
-    de <span>l'adolescent</span>
+    Dédiée à la réussite scolaire et au mieux-être de **l'enfant** et de
+    **l'adolescent**
 servicestitle: Clinique Tandem - Services de psychologie et de pédopsychologie
 aboutleft: >-
   ### Clinique Tandem
@@ -29,4 +29,5 @@ aboutright: >-
   pédopsychiatrie permettant l’évaluation et/ou la prise en charge de diverses
   problématiques neuro-développementales et de santé mentale:
 ---
+
 
