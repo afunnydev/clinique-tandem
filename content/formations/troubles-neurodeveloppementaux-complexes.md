@@ -24,6 +24,9 @@ teacher:
 i18nlanguage: fr
 draft: false
 ordre: 2
+ressources:
+  need: false
+  text: 
 ---
 
 ### Démystifier les comorbidités des troubles neurodéveloppementaux et mentaux de l’enfance et de l’adolescence 

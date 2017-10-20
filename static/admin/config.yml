@@ -120,6 +120,12 @@ collections:
         fields:
           - {label: "Image", name: "timage", widget: "image"}
           - {label: "Description", name: "tdesc", widget: "string"} 
+      - label: "Ressources - Sidebar" 
+        name: "ressources" 
+        widget: "object" 
+        fields:
+          - {label: "Visible?", name: "need", required: false, default: false}
+          - {label: "Texte", name: "text", widget: "markdown"}
       - {label: "Langue", name: "i18nlanguage", widget: "hidden", default: "fr"}
       - {label: "Ordre", name: "ordre", widget: "number", required: false}
       - {label: "Rendre le service invisible?", name: "draft", widget: "boolean", required: false, default: false}

@@ -20,6 +20,9 @@ teacher:
 i18nlanguage: fr
 draft: false
 ordre: 3
+ressources:
+  need: false
+  text:
 ---
 
 ### Démystifier les premiers épisodes psychotiques et les troubles comorbides de l'enfance et de l'adolescence 

@@ -26,6 +26,15 @@ teacher:
 i18nlanguage: fr
 draft: false
 ordre: 1
+ressources:
+  need: true
+  text: >-
+    ### Ressources
+
+    - [Testing those links](/)
+
+    - [Testing it again](/equipe)
+
 ---
 
 ### Intervenir auprès de l'enfant et de l’adolescent présentant un trouble du spectre de l’autisme (TSA)
