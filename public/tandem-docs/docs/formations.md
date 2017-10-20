@@ -30,6 +30,7 @@ Exemple en anglais: "this-is-my-example" donnera http://www.cliniquetandem.ca/en
 - *Identifiant* : Nous en avons discuté dans l'introduction. C'est l'identifiant unique de cette formation, qui doit être le même dans toutes les langues traduites. Il peut contenir seulement des chiffes, lettres et tirets.
 - *Aperçu > Titre* : Ceci est le titre du formation, que tout le monde pourra voir dans la liste et sur la page d'une formation individuel. Il est officiellement votre H1 (voir la portion sur le référencement).
 - *Aperçu > Note* : Ceci est la petite note sous le titre de la formation dans la page qui contient toutes les formations, que tout le monde pourra voir dans la liste.
+- *Aperçu > Breadcrumbs - Titre* : Ceci est le titre qui sera utilisé dans le breadcrumbs (Accueil | Formations | Ce titre que vous écrivez ici)
 - *Image*: Choisissez votre image dans votre ordinateur. Je vous conseille de changer le nom du fichier de l'image pour le même que celui de l'identifiant, ce sera plus facile à retrouver. Cette fonctionnalité sera améliorée avec le temps :) **AUCUN ESPACE, CARACTÈRE SPÉCIAUX OU ACCENT DANS LE NOM DU FICHIER**
 
 ```hint|directive

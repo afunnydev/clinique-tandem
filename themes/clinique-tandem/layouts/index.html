@@ -1,42 +1,26 @@
 {{ define "main" }}
 <main class="main" id="homepage">
 	<section class="intro_section page_mainslider ds">
-		<div class="flexslider">
-			<ul class="slides" style="position:relative;">
-				<li style="max-height: 400px;">
-					<img src="/assets/images/tandem-slider-2.jpg" alt="clinique psychologie">
-					<div class="container">
-						<div class="row">
-							<div class="col-sm-12 text-right">
-								<div class="slide_description_wrapper" style="height: 75%; top: inherit; right: 50px;">
-									<div class="slide_description">
-										<div class="intro-layer" data-animation="fadeInLeft">
-											<p class="small-text grey" style="
-    font-family: 'Muli';
-    font-weight: 400;
-    width: 400px;
-    text-transform: none;
-    font-size: 25px;
-                                  "><i class="fa fa-quote-left" style="font-size: 3rem; padding-right: 30px;"></i>
-    Dédiée à la réussite scolaire et au mieux-être de <span style="font-size: 30px; font-weight: 700;">l'enfant</span> et de <span style="font-size: 30px; font-weight: 700;">l'adolescent</span> 
-											<i class="fa fa-quote-right" style="
-    font-size: 3rem;
-    padding-left: 30px;
-"></i></p>
-										</div>
-									</div>
-									<!-- eof .slide_description -->
+		<div class="" style="position: relative; max-height: 400px">
+			<img src="{{.Params.slider.image}}" alt="clinique psychologie">
+			<div class="container">
+				<div class="row">
+					<div class="col-sm-12 text-right">
+						<div class="slide_description_wrapper">
+							<div class="slide_description">
+								<div class="intro-layer" data-animation="fadeInLeft">
+									<p class="small-text grey"><i class="fa fa-quote-left"></i>{{.Params.slider.quote}}Dédiée à la réussite scolaire et au mieux-être de <span>l'enfant</span> et de <span>l'adolescent</span><i class="fa fa-quote-right"></i></p>
 								</div>
-								<!-- eof .slide_description_wrapper -->
 							</div>
-							<!-- eof .col-* -->
+							<!-- eof .slide_description -->
 						</div>
-						<!-- eof .row -->
+						<!-- eof .slide_description_wrapper -->
 					</div>
-					<!-- eof .container -->
-				</li>
-
-			</ul>
+					<!-- eof .col-* -->
+				</div>
+				<!-- eof .row -->
+			</div>
+			<!-- eof .container -->
 		</div>
 		<!-- eof flexslider -->
 	</section>
@@ -45,7 +29,7 @@
 		<div class="container">
 			<div class="row">
 				<div class="col-sm-12 text-center">
-					<h2 class="section_header with_icon">Nos services</h2>
+					<h2 class="section_header with_icon">{{.Params.servicestitle}}</h2>
 				</div>
 			</div>
 			<div class="row columns_padding_0 columns_margin_0 fontsize_16 services-container">
@@ -77,38 +61,43 @@
 	<section id="about" class="cs page_about section_padding_top_50 columns_margin_bottom_30">
 		<div class="container">
 			<div class="row">
-				<div class="col-md-6 text-left">
-					<h3 class="section_header">Clinique Tandem</h3>
-					<p class="bold fontsize_18">La Clinique Tandem, située dans le quartier Ste-Rose à Laval, offre des services spécialisés d’évaluation et d’intervention pour une clientèle d’enfants et d’adolescents aux prises avec des difficultés scolaires, affectives et/ou comportementales.</p>
-					<p class="fontsize_18">
+				<div class="col-md-6 text-left about-left">
+					<h3>Clinique Tandem</h3>
+					<p>La Clinique Tandem, située dans le quartier Ste-Rose à Laval, offre des services spécialisés d’évaluation et d’intervention pour une clientèle d’enfants et d’adolescents aux prises avec des difficultés scolaires, affectives et/ou comportementales.</p>
+					<p>
 						Notre équipe multidisciplinaire vise une compréhension clinique globale de la problématique du jeune et offre la possibilité d’un suivi adapté aux besoins de la famille, le tout à une même adresse.
 					</p>
 					<div class="with_icon topmargin_30">
 						<h5 class="small-text text-uppercase inline-block"><img src="/assets/images/logo-blanc-bleu.png" alt="clinique tandem logo" style="max-width: 300px;"></h5>
 					</div>
 				</div>
-				<div class="col-md-6 text-right specialisations">
-					<h3 class="section_header">Nos spécialisations</h3>
-					<p class="fontsize_18">
+				<div class="col-md-6 text-right specialisations about-right">
+					<h3>Nos spécialisations</h3>
+					<p>
 						L’ensemble des professionnels bénéficie d’une formation dans le domaine de la pédopsychiatrie permettant l’évaluation et/ou la prise en charge de diverses problématiques neuro-développementales et de santé mentale: 
 					</p>
 					<div class="row">
 						<div class="col-md-6 col-sm-12 text-left">
 							<ul class="specialisations">
-								<li>TDA/H</li>
-								<li>Autisme</li>
-								<li>Difficultés d’apprentissage</li>
-								<li>Syndrome de Gilles de la Tourette</li>
-								<li>Trouble disruptif/opposition</li>
+								{{ range $i, $e := sort (where $.Site.Pages "Type" "mieuxcomprendre") ".Params.ordre" "asce" }}
+									{{ if modBool $i 2}}
+									<li>
+										<a href="{{$e.Permalink}}">{{$e.Params.titre}}</a>
+									</li>
+									{{ end }}
+								{{ end }}
 							</ul>
 						</div>
 						<div class="col-md-6 col-sm-12 text-left">
 							<ul class="specialisations">
-								<li>Trouble obsessionnel-compulsif</li>
-								<li>Difficultés d’adaptation</li>
-								<li>Trouble de l’attachement</li>
-								<li>Anxiété</li>
-								<li>Dépression</li>
+								{{ range $i, $e := sort (where $.Site.Pages "Type" "mieuxcomprendre") ".Params.ordre" "asce" }}
+									{{ if modBool $i 2}}
+									{{ else }}
+									<li>
+										<a href="{{$e.Permalink}}">{{$e.Params.titre}}</a>
+									</li>
+									{{ end }}
+								{{ end }}
 							</ul>
 						</div>
 					</div>

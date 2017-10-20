@@ -8383,13 +8383,11 @@ body.active-side-header.slide-right .page_header_side {
 	}
 
 	.intro_section .slide_description {
-		padding: 30px 0 60px;
-		display: block;
+		padding: 100px 0 60px;
 	}
 
 	.intro_section .slide_description_wrapper {
 		padding: 0;
-		position: static;
 	}
 
 	.intro_section .flex-direction-nav .flex-prev {
@@ -9522,6 +9520,17 @@ h2.search-title {
 	}
 }
 
+@media (max-width: 650px) {
+	.intro_section .slide_description {
+		padding-top: 70px;
+	}
+}
+
+@media (max-width: 550px) {
+	.intro_section .slide_description {
+		display: none;
+	}
+}
 .reply a {
 	position: absolute;
 	right: 0;

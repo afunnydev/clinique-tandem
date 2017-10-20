@@ -9,6 +9,7 @@ image: 'https://source.unsplash.com/random/600x600'
 resume:
   note: Outils d’évaluation et interventions ciblées
   titre: Troubles neurodéveloppementaux complexes
+  btitre: Troubles neurodéveloppementaux complexes
 lieu:
   link: '#no'
   need: true
@@ -22,6 +23,7 @@ teacher:
     timage: /assets/images/quart/nadia-carre.jpg
 i18nlanguage: fr
 draft: false
+ordre: 2
 ---
 
 ### Démystifier les comorbidités des troubles neurodéveloppementaux et mentaux de l’enfance et de l’adolescence 

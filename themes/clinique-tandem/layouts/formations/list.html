@@ -23,7 +23,7 @@
 				{{ .Content}}
 			</div>
 			<div class="row columns_padding_20 fontsize_16 formations-container">
-			{{ range $i, $e := .Pages  }}
+			{{ range $i, $e := sort .Pages ".Params.ordre" "asce" }}
 			{{ $mod1 := modBool $i 1}}
 			{{ $mod2 := modBool $i 2}}
 			{{ $mod3 := modBool $i 3}}

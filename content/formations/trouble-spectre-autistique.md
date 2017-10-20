@@ -9,6 +9,7 @@ image: 'https://source.unsplash.com/collection/190727/600x600'
 resume:
   note: Intervenir auprès de l'enfant et de l’adolescent présentant un TSA
   titre: Trouble du spectre de l’autisme
+  btitre: Trouble du spectre de l’autisme
 lieu:
   link: '#no'
   need: true
@@ -24,6 +25,7 @@ teacher:
     timage: /assets/images/quart/nadia-carre.jpg
 i18nlanguage: fr
 draft: false
+ordre: 1
 ---
 
 ### Intervenir auprès de l'enfant et de l’adolescent présentant un trouble du spectre de l’autisme (TSA)

@@ -8,6 +8,7 @@ identifiant: tda-h
 slug: tda-h
 draft: false
 type: mieuxcomprendre
+ordre: 6
 ---
 
 ### Le déficit de l’attention/hyperactivité (TDA/H) est un trouble d’origine neurologique qui se manifeste par des symptômes d’inattention et/ou d’hyperactivité/impulsivité. 

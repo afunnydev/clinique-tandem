@@ -9,6 +9,7 @@ i18nlanguage: fr
 identifiant: pedopsychiatrie
 slug: pedopsychiatrie
 draft: false
+ordre: 3
 ---
 
 ## Qu’est-ce que la pédopsychiatrie?

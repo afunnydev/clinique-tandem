@@ -8,4 +8,5 @@ identifiant: syndrome-gilles-tourette
 slug: syndrome-gilles-tourette
 draft: false
 type: mieuxcomprendre
+ordre: 5
 ---

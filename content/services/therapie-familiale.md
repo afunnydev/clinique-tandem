@@ -9,6 +9,7 @@ i18nlanguage: fr
 identifiant: therapie-familiale
 slug: therapie-familiale
 draft: false
+ordre: 6
 ---
 
 ## Qu’est-ce que la thérapie familiale?

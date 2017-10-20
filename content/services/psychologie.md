@@ -9,6 +9,7 @@ i18nlanguage: fr
 identifiant: psychologie
 slug: psychologie
 draft: false
+ordre: 5
 ---
 
 ## Qu’est-ce que la psychologie?

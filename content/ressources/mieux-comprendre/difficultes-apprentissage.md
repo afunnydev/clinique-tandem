@@ -8,4 +8,5 @@ identifiant: difficultes-apprentissage
 slug: difficultes-apprentissage
 draft: false
 type: mieuxcomprendre
+ordre: 4
 ---

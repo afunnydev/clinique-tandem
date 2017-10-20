@@ -43,7 +43,7 @@
 						</div>
 
 						<div class="col-md-3 text-center text-md-right bottommargin_0">
-							<a href="{{ if .IsHome }}#appointment{{ else }}/nous-joindre{{ end }}" class="theme_button color1 margin_0">Prendre rendez-vous</a>
+							<a href="{{ if .IsHome }}#appointment{{ else }}{{$.Site.BaseURL}}nous-joindre{{ end }}" class="theme_button color1 margin_0">Prendre rendez-vous</a>
 						</div>
 
 					</div>
@@ -71,9 +71,9 @@
 									</li> -->
 									<!-- services -->
 									<li>
-										<a href="/services">Services</a>
+										<a href="{{$.Site.BaseURL}}services">Services</a>
 										<ul>
-											{{ range $i, $e := where $.Site.Pages "Type" "services"  }}
+											{{ range $i, $e := sort (where $.Site.Pages "Type" "services") ".Params.ordre" "asce" }}
 												{{ if $e.Params.resume.titre }}
 												<li>
 													<a href="{{ .Permalink }}">{{ $e.Params.resume.titre }}</a>
@@ -85,69 +85,44 @@
 									<!-- eof services -->
 									<!-- formation -->
 									<li>
-										<a href="/formations">Formations</a>
+										<a href="{{$.Site.BaseURL}}formations">Formations</a>
 									</li>
 									<!-- eof formation -->
 									<li>
-										<a href="#">Ressources</a>
+										<a href="#nothing">Ressources</a>
 										<ul>
 											<li>
-												<a href="/ressources/liens-utiles">Liens utiles</a>
+												<a href="{{$.Site.BaseURL}}ressources/liens-utiles">Liens utiles</a>
 											</li>
 											<li>
-												<a href="#">Mieux comprendre</a>
+												<a href="#nothing">Mieux comprendre</a>
 												<ul id="sous-menu">
+													{{ range sort (where $.Site.Pages "Type" "mieuxcomprendre") ".Params.ordre" "asce" }}
 													<li>
-														<a href="/ressources/mieux-comprendre/tda-h">TDA/H</a>
+														<a href="{{.Permalink}}">{{.Params.titre}}</a>
 													</li>
-													<li>
-														<a href="/ressources/mieux-comprendre/difficultes-apprentissage">Difficultés d'apprentissage</a>
-													</li>
-													<li>
-														<a href="/ressources/mieux-comprendre/trouble-spectre-autisme">Trouble du spectre de l'autisme</a>
-													</li>
-													<li>
-														<a href="/ressources/mieux-comprendre/syndrome-gilles-tourette">Syndrome de Gilles de la Tourette</a>
-													</li>
-													<li>
-														<a href="/ressources/mieux-comprendre/trouble-disruptif-opposition">Trouble disruptif/opposition</a>
-													</li>
-													<li>
-														<a href="/ressources/mieux-comprendre/trouble-obsessionnel-compulsif">Trouble obsessionnel-compulsif</a>
-													</li>
-													<li>
-														<a href="/ressources/mieux-comprendre/difficultes-adaptation">Difficultés d'adaption</a>
-													</li>
-													<li>
-														<a href="/ressources/mieux-comprendre/trouble-attachement">Trouble de l'attachement</a>
-													</li>
-													<li>
-														<a href="/ressources/mieux-comprendre/anxiété">Anxiété</a>
-													</li>
-													<li>
-														<a href="/ressources/mieux-comprendre/dépression">Dépression</a>
-													</li>
+													{{ end }}
 												</ul>
 											</li>
 											<li>
-												<a href="/ressources/foire-aux-questions">Foire aux questions</a>
+												<a href="{{$.Site.BaseURL}}ressources/foire-aux-questions">Foire aux questions</a>
 											</li>
 										</ul>
 									</li>
 									<!-- eof resssources -->
 									<!-- equipe -->
 									<li>
-										<a href="/equipe">Équipe</a>
+										<a href="{{$.Site.BaseURL}}equipe">Équipe</a>
 									</li>
 									<!-- eof equipe -->
 									<!-- a-propos -->
 									<li>
-										<a href="/a-propos">À propos</a>
+										<a href="{{$.Site.BaseURL}}a-propos">À propos</a>
 									</li>
 									<!-- eof a-propos -->
 									<!-- contacts -->
 									<li>
-										<a href="/nous-joindre">Nous joindre</a>
+										<a href="{{$.Site.BaseURL}}nous-joindre">Nous joindre</a>
 									</li>
 									<!-- eof contacts -->
 								</ul>
@@ -161,22 +136,22 @@
 							<div class="page_social_icons divided_content">
 								{{with .Site.Data.settings.socials.twitterhandle}}
 								<span>
-									<a class="social-icon soc-twitter" href="{{.}}" title="Twitter"></a>
+									<a class="color-icon border-icon rounded-icon social-icon soc-twitter" href="{{.}}" title="Twitter" target="_blank"></a>
 								</span>
 								{{end}}
 								{{with .Site.Data.settings.socials.facebookurl}}
 								<span>
-									<a class="social-icon color-icon border-icon rounded-icon soc-facebook" href="{{.}}" title="Facebook"></a>
+									<a class="social-icon color-icon border-icon rounded-icon soc-facebook" href="{{.}}" title="Facebook" target="_blank"></a>
 								</span>								
 								{{end}}
 								{{with .Site.Data.settings.socials.linkedinurl}}
 								<span>
-									<a class="social-icon soc-linkedin" href="{{.}}" title="LinkedIn"></a>
+									<a class="color-icon border-icon rounded-icon social-icon soc-linkedin" href="{{.}}" title="LinkedIn" target="_blank"></a>
 								</span>
 								{{end}}
 								{{with .Site.Data.settings.socials.googleurl}}
 								<span>
-									<a class="social-icon soc-google" href="{{.}}" title="Google"></a>
+									<a class="color-icon border-icon rounded-icon social-icon soc-google" href="{{.}}" title="Google" target="_blank"></a>
 								</span>
 								{{end}}
 							</div>

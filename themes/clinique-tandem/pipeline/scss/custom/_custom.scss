@@ -2,6 +2,35 @@
 	padding: 3px 0;
 }
 /* Accueil */
+#homepage .intro_section .slide_description_wrapper {
+	height: 75%; 
+	top: inherit; 
+	right: 50px;
+}
+.slide_description {
+	.intro-layer {
+		p.grey {
+			font-family: 'Muli';
+			font-weight: 400;
+			width: 400px;
+			text-transform: none;
+			font-size: 25px;
+			i.fa-quote-left {
+				font-size: 3rem; 
+				padding-right: 30px
+			}
+			i.fa-quote-right {
+				font-size: 3rem;
+				padding-left: 30px;
+			}
+			span {
+				font-size: 30px; 
+				font-weight: 700;
+			}
+		}
+	}
+}
+
 #services {
 	.services-container {
 		div.services {
@@ -36,6 +65,18 @@
 }
 #about {
 	background-color: $scolor;
+	.about-left,
+	.about-right {
+		h2,h3,h4 {
+			margin: 10px 0 24px;
+    		font-size: 45px;
+    		text-align: center
+		}
+		p {
+			font-size: 18px;
+			text-align: justify;
+		}
+	}
 }
 
 /* Services */

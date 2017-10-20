@@ -9,6 +9,7 @@ i18nlanguage: fr
 identifiant: psychoeducation
 slug: psychoeducation
 draft: false
+ordre: 4
 ---
 
 ## Qu’est-ce que la psychoéducation?

@@ -9,6 +9,7 @@ image: /assets/images/uploads/Schizo.jpg
 resume:
   note: Outils d’évaluation et interventions ciblées
   titre: Premiers épisodes psychotiques et troubles associés
+  btitre: Troubles psychotiques
 lieu:
   need: false
 toplink:
@@ -18,6 +19,7 @@ teacher:
     timage: /assets/images/uploads/DSC_7121_Edit_Nadia.jpg
 i18nlanguage: fr
 draft: false
+ordre: 3
 ---
 
 ### Démystifier les premiers épisodes psychotiques et les troubles comorbides de l'enfance et de l'adolescence 

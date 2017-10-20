@@ -43,16 +43,6 @@ defaultContentLanguageInSubdir = false
 [permalinks]
   singles = "/:slug/"
 
-# [taxonomies]
-#   category = "categories"
-#   tag = "tags"
-
-[Languages]
-[Languages.en]
-[Languages.en.Taxonomies]
-# category = "categories"
-# creator = "creators"
-
 [Languages.fr]
 [Languages.fr.Taxonomies]
 # category = "categories"
