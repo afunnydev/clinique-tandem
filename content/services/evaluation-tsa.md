@@ -9,7 +9,8 @@ resume:
 image: /assets/images/uploads/learning-homework.jpg
 i18nlanguage: fr
 ordre: 1
-draft: true
+draft: false
 ---
 
 ## Contenu à venir!!
+
