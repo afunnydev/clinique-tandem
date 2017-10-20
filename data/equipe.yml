@@ -28,14 +28,14 @@ equipe:
   - description: ''
     nom: Anne Seni
     ordre: 8
-    photo: "/assets/images/placeholder-team.jpeg"
+    photo: /assets/images/placeholder-team.jpeg
     titre: Doctorante en neuropsychologie
   - description: ''
     nom: 'Dre Andréane Mcnally-Gagnon, Ph.D'
     ordre: 6
-    photo: "/assets/images/placeholder-team.jpeg"
+    photo: /assets/images/placeholder-team.jpeg
     titre: Neuropsychologue
-  - description: ''
+  - description: Description test!
     nom: Johanna Navarro
     ordre: 5
     photo: /assets/images/half/johanna.jpg
@@ -56,7 +56,7 @@ equipe:
   - description: ''
     nom: 'Kim Boissonneault, MSc.'
     ordre: 7
-    photo: "/assets/images/placeholder-team.jpeg"
+    photo: /assets/images/placeholder-team.jpeg
     titre: Psychoéducatrice
   - description: >-
       Dre Provencher cumule 30 ans d’expérience en tant que pédopsychiatre au
