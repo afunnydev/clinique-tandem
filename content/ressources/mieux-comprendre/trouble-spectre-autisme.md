@@ -1,6 +1,6 @@
 ---
 title: Trouble du spectre de l'autisme
-description: desc
+description: Présentation du trouble du spectre de l'autisme et de ses manifestations
 slug: trouble-spectre-autisme
 identifiant: trouble-spectre-autisme
 titre: Trouble du spectre de l'autisme
@@ -10,4 +10,5 @@ type: mieuxcomprendre
 ordre: 10
 draft: false
 ---
+
 
