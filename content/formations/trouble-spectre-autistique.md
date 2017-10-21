@@ -12,17 +12,17 @@ resume:
   titre: Trouble du spectre de l’autisme
 lieu:
   link: '#no'
-  need: true
-  text: Clinique tandem
+  need: false
+  text: Clinique Tandem
 toplink:
   link: '#no'
-  need: true
+  need: false
   text: Ressources sur le sujet
 teacher:
-  - tdesc: Cette formation est donnée conjointement par Dre Nadia Lessard
+  - tdesc: Cette formation est donnée par Dre Nadia Lessard
     timage: /assets/images/uploads/DSC_7121_Edit_Nadia carre.jpg
 ressources:
-  need: true
+  need: false
   text: |-
     ### Ressources
     - [Testing those links](/)
@@ -54,6 +54,7 @@ draft: false
 3. Orienter et réaliser de façon spécifique les interventions cognitives et le travail en psychothérapie auprès de jeunes présentant des troubles neurodéveloppementaux et mentaux complexes.
 
 **Préalables**: Aucun préalable.
+
 
 
 
