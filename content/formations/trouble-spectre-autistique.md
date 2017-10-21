@@ -20,9 +20,7 @@ toplink:
   text: Ressources sur le sujet
 teacher:
   - tdesc: Cette formation vous est donnée par Nadia Lessard
-    timage: /assets/images/quart/nadia-carre.jpg
-  - tdesc: Ou votre formatrice préférée
-    timage: /assets/images/quart/nadia-carre.jpg
+    timage: /assets/images/uploads/DSC_7121_Edit_Nadia carre.jpg
 ressources:
   need: true
   text: |-
@@ -56,5 +54,6 @@ draft: false
 3. Orienter et réaliser de façon spécifique les interventions cognitives et le travail en psychothérapie auprès de jeunes présentant des troubles neurodéveloppementaux et mentaux complexes.
 
 **Préalables**: Aucun préalable.
+
 
 
