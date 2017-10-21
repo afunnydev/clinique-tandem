@@ -1,6 +1,10 @@
 ---
 title: Trouble du spectre de l'autisme
-description: Présentation du trouble du spectre de l'autisme et de ses manifestations
+description: >-
+  Présentation du trouble du spectre de l'autisme (TSA) et de ses
+  manifestations. Le trouble du spectre de l’autisme (TSA) est un trouble
+  neurodéveloppemental qui se caractérise par un développement atypique des
+  habiletés sociales et de la communication et des comportements inhabituels.
 slug: trouble-spectre-autisme
 identifiant: trouble-spectre-autisme
 titre: Trouble du spectre de l'autisme
@@ -31,6 +35,7 @@ Le TSA est présent dès la petite enfance, mais peut apparaître de façon évi
 - Tolère mal, devient anxieux lors des changements ou situations nouvelles
 - Besoin excessif de respecter des routines
 - Particularités au niveau sensoriel (hypersensibilité ou indifférence à certaines stimulations)
+
 
 
 
