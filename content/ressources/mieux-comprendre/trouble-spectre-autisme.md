@@ -1,12 +1,13 @@
 ---
-title: "Trouble du spectre autistique"
-description: "desc"
-titre: "Trouble du spectre autistique"
-image:
-i18nlanguage: fr
-identifiant: trouble-spectre-autisme
+title: Trouble du spectre de l'autisme
+description: desc
 slug: trouble-spectre-autisme
-draft: false
+identifiant: trouble-spectre-autisme
+titre: Trouble du spectre de l'autisme
+image: null
+i18nlanguage: fr
 type: mieuxcomprendre
 ordre: 10
+draft: false
 ---
+
