@@ -1,8 +1,4 @@
 ---
-contact: |-
-  #### Nous joindre
-
-  Texte qui parle des différents services
 title: Clinique Tandem
 description: ''
 image: null
@@ -11,7 +7,7 @@ slider:
   quote: >-
     Dédiée à la réussite scolaire et au mieux-être de <span>l'enfant</span> et
     de <span>l'adolescent</span>
-servicestitle: Nos services en santé mentale
+servicestitle: Nos services multidisciplinaires
 aboutleft: >-
   ### Clinique Tandem
 
@@ -32,7 +28,12 @@ aboutright: >-
   L’ensemble des professionnels bénéficie d’une formation dans le domaine de la
   pédopsychiatrie permettant l’évaluation et/ou la prise en charge de diverses
   problématiques neuro-développementales et de santé mentale:
+contact: |-
+  #### Nous joindre
+
+  Texte qui parle des différents services
 btntext: Envoyer un message
 ---
+
 
 
