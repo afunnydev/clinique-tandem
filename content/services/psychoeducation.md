@@ -1,15 +1,15 @@
 ---
-title: "Psychoéducation"
-description: "Description"
-resume:
-  titre: "Psychoéducation"
-  court: "Ceci est la courte description"
-image:
-i18nlanguage: fr
-identifiant: psychoeducation
+title: Psychoéducation
+description: Description
 slug: psychoeducation
-draft: false
+identifiant: psychoeducation
+resume:
+  court: Évaluations et interventions dans les milieux de vie de l’enfant
+  titre: Psychoéducation
+image: null
+i18nlanguage: fr
 ordre: 4
+draft: false
 ---
 
 ## Qu’est-ce que la psychoéducation?
@@ -34,3 +34,4 @@ Le psychoéducateur peut venir en aide afin de:
 - Mieux outiller les parents et l’entourage pour soutenir un enfant qui présente des difficultés au quotidien
 - Appliquer un plan d’intervention et mettre en place des moyens rééducatifs dans les différents milieux de vie
 - Traverser une crise familiale ou retrouver un équilibre suite à une période plus difficile
+
