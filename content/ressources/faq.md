@@ -7,8 +7,7 @@ layout: faq
 image: null
 ---
 
-### Les frais d’évaluation ou de suivi sont-ils couverts par la Régie d’Assurances
-Maladie du Québec (RAMQ) ?
+### Les frais d’évaluation ou de suivi sont-ils couverts par la Régie d’Assurances Maladie du Québec (RAMQ) ?
 
 À la Clinique Tandem, seules les consultations pédopsychiatriques sont couvertes par la RAMQ. Lors d’une rencontre de suivi ou d’évaluation en neuropsychologie, psychologie, travail social ou psychoéducation les parents doivent débourser des frais sur place. Des reçus sont fournis par le professionnel.
 
@@ -20,5 +19,6 @@ Nos services sont couverts par la majorité des compagnies d’assurances privé
 
 Nos professionnels peuvent être payés par
 l’entremise d’un chèque, en argent comptant ou via un virement Interac.
+
 
 
