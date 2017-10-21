@@ -6,7 +6,7 @@ slug: foire-aux-questions
 layout: faq
 image: null
 ---
-#### Foire aux questions
+### Foire aux questions
 
 
 **Les frais d’évaluation ou de suivi sont-ils couverts par la Régie d’Assurances
@@ -22,3 +22,4 @@ Nos services sont couverts par la majorité des compagnies d’assurances privé
 
 Nos professionnels peuvent être payés par
 l’entremise d’un chèque, en argent comptant ou via un virement Interac.
+
