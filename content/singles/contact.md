@@ -1,9 +1,12 @@
 ---
-title: "Contact"
-description: "desc"
-layout: contact
+title: Contact
+description: >-
+  Joignez la Clinique Tandem pour toute demande d'informations ou pour prendre
+  un rendez-vous
+titre: Nous joindre
 slug: nous-joindre
-titre: "Nous joindre"
+layout: contact
+heures: Lundi au vendredi 8h à 19h
 services:
   - Choisissez votre service
   - Neuropsychologie
@@ -12,6 +15,6 @@ services:
   - Psychoéducation
   - Évaluation TSA
   - Autres
-heures: "Lundi au vendredi 8h à 19h"
-image:
+image: null
 ---
+
