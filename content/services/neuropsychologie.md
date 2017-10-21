@@ -1,12 +1,12 @@
 ---
 title: Neuropsychologie
-description: >-
-  Évaluation des fonctions cognitives, éclairage diagnostique et recommandations
-  adaptées
+description: 'Services d''évaluation neuropsychologique  '
 slug: neuropsychologie
 identifiant: neuropsychologie
 resume:
-  court: Ceci est la courte description
+  court: >-
+    Évaluation des fonctions cognitives, éclairage diagnostique et
+    recommandations adaptées
   titre: Neuropsychologie
 image: null
 i18nlanguage: fr
@@ -46,4 +46,5 @@ Au terme de l’évaluation neuropsychologique, le parent reçoit un rapport dé
 - Des conseils éducatifs pour les parents afin d’aider l’enfant dans ses apprentissages et mieux gérer les particularités comportementales et/ou sociales.
 - Des références vers d’autres professionnels de la Clinique Tandem afin d’offrir un complément d’évaluation ou des interventions à l’enfant et sa famille.
 - Des recommandations à l’intention du médecin traitant afin d’orienter ses interventions sur la base d’un diagnostic différentiel.
+
 
