@@ -1,15 +1,15 @@
 ---
-title: "Thérapie Familiale"
-description: "Description"
-resume:
-  titre: "Thérapie familiale"
-  court: "Ceci est la courte description"
-image:
-i18nlanguage: fr
-identifiant: therapie-familiale
+title: Thérapie Familiale
+description: Description
 slug: therapie-familiale
-draft: false
+identifiant: therapie-familiale
+resume:
+  court: Services d’évaluation et de thérapie orientés autour de la famille
+  titre: Thérapie familiale
+image: null
+i18nlanguage: fr
 ordre: 6
+draft: false
 ---
 
 ## Qu’est-ce que la thérapie familiale?
@@ -33,3 +33,4 @@ La thérapie familiale s’adresse à tous les types de famille (monoparentale, 
 - Échecs scolaires
 - Cheminement suite à un diagnostic
 - Etc.
+
