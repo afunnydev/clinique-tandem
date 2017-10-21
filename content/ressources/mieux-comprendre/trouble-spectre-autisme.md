@@ -25,9 +25,11 @@ draft: false
 -Difficulté à saisir les intentions d’autrui
 
 **Manifestations sur le plan des comportements et des intérêts**:
+
 -Mouvements répétitifs du corps (balancement, gestes des mains)
 -Intérêt spécifique et d’intensité inhabituelle pour certains sujets ou objets
 -Tolère mal, devient anxieux lors des changements ou situations nouvelles
 -Besoin excessif de respecter des routines
 -Particularités au niveau sensoriel (hypersensibilité ou indifférence à certaines stimulations)
+
 
