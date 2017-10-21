@@ -4,7 +4,7 @@ description: Description
 slug: psychoeducation
 identifiant: psychoeducation
 resume:
-  court: Évaluations et interventions dans les milieux de vie de l’enfant
+  court: Évaluation et intervention dans les milieux de vie de l’enfant
   titre: Psychoéducation
 image: null
 i18nlanguage: fr
@@ -34,4 +34,5 @@ Le psychoéducateur peut venir en aide afin de:
 - Mieux outiller les parents et l’entourage pour soutenir un enfant qui présente des difficultés au quotidien
 - Appliquer un plan d’intervention et mettre en place des moyens rééducatifs dans les différents milieux de vie
 - Traverser une crise familiale ou retrouver un équilibre suite à une période plus difficile
+
 
