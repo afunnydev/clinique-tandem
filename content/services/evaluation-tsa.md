@@ -4,7 +4,7 @@ description: Description
 slug: evaluation-tsa
 identifiant: evaluation-tsa
 resume:
-  court: Ceci est la courte description
+  court: Évaluation diagnostique du Trouble du Spectre de l’Autisme
   titre: Évaluation TSA
 image: /assets/images/uploads/learning-homework.jpg
 i18nlanguage: fr
@@ -13,4 +13,5 @@ draft: false
 ---
 
 ## Contenu à venir!!
+
 
