@@ -7,7 +7,7 @@ slider:
   quote: >-
     Dédiée à la réussite scolaire et au mieux-être de <span>l'enfant</span> et
     de <span>l'adolescent</span>
-servicestitle: Nos services multidisciplinaires
+servicestitle: Nos services
 aboutleft: >-
   ### Clinique Tandem
 
@@ -36,6 +36,7 @@ contact: >-
   d'informations suivants :
 btntext: Envoyer un message
 ---
+
 
 
 
