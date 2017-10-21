@@ -5,11 +5,11 @@ description: >-
   l’enfance et de l’adolescence: outils d’évaluation et interventions ciblées
 slug: troubles-psychotiques
 identifiant: troubles-psychotiques
-image: /assets/images/uploads/Schizo.jpg
+image: /assets/images/uploads/girl-afraid-of-her-reflection-PEW35JH.jpg
 resume:
+  btitre: Troubles psychotiques
   note: Outils d’évaluation et interventions ciblées
   titre: Premiers épisodes psychotiques et troubles associés
-  btitre: Troubles psychotiques
 lieu:
   need: false
 toplink:
@@ -17,12 +17,12 @@ toplink:
 teacher:
   - tdesc: Cette formation est donnée par Dre Nadia Lessard
     timage: /assets/images/uploads/DSC_7121_Edit_Nadia.jpg
-i18nlanguage: fr
-draft: false
-ordre: 3
 ressources:
   need: false
-  text:
+  text: null
+i18nlanguage: fr
+ordre: 3
+draft: false
 ---
 
 ### Démystifier les premiers épisodes psychotiques et les troubles comorbides de l'enfance et de l'adolescence 
@@ -49,6 +49,7 @@ ressources:
 4. Identifier l’impact des comorbidités sur l’évaluation des troubles de l’enfance et de l’adolescence et sur l’atteinte des objectifs psychothérapeutiques.
 
 **Préalables**: Aucun préalable. Cette formation est considérée de niveau intermédiaire et s’adresse davantage aux professionnels ayant une expérience auprès de la clientèle en santé mentale jeunesse.
+
 
 
 
