@@ -1,14 +1,11 @@
-phone: "450-490-3214"
-mphone: "+14504903214"
-email: "info@cliniquetandem.ca"
-## Default and Home description tag
-sitedescription: ""
-## Path for default sharing image
-defaultsocialimage: "/"
-## Setting this to true will add a "noindex" to *every* page on the site
-removefromexternalsearch: true
 socials:
-  twitterhandle: ""
-  facebookurl: "http://www.facebook.com/cliniquetandem"
-  linkedinurl: ""
-  youtubeurl: ""
+  facebookurl: 'http://www.facebook.com/cliniquetandem'
+  linkedinurl: 'http://www.facebook.com/cliniquetandem'
+  twitterhandle: ''
+  youtubeurl: ''
+phone: 450-490-3214
+mphone: '+14504903214'
+email: info@cliniquetandem.ca
+sitedescription: ''
+defaultsocialimage: /
+removefromexternalsearch: true
