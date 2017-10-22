@@ -1,5 +1,5 @@
 ---
-title: Formation sur les troubles du spectre de l’autisme
+title: Formation sur le troubles du spectre de l’autisme
 description: >-
   Intervenir auprès de l'enfant et de l’adolescent présentant un trouble du
   spectre de l’autisme
@@ -54,6 +54,7 @@ draft: false
 3. Orienter et réaliser de façon spécifique les interventions cognitives et le travail en psychothérapie auprès de jeunes présentant des troubles neurodéveloppementaux et mentaux complexes.
 
 **Préalables**: Aucun préalable.
+
 
 
 
