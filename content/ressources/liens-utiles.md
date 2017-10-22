@@ -2,7 +2,7 @@
 title: Liens utiles
 description: >-
   Liens à l'intention des parents et des professionnels au sujet des différents
-  troubles du développement et de santé mentale. Camps de jour et maison de
+  troubles du développement et de santé mentale. Camps de jour et maisons de
   répit.
 titre: Liens utiles
 slug: liens-utiles
@@ -79,5 +79,6 @@ image: null
 #### Troubles d’apprentissages
 
 - [Institut des troubles d’apprentissages (AQETA)](http://www.institutta.com)
+
 
 
