@@ -19,7 +19,7 @@ toplink:
   need: false
   text: Ressources sur le sujet
 teacher:
-  - tdesc: Cette formation est donnée par Dre. Nadia Lessard
+  - tdesc: 'Cette formation est donnée par Dre. Nadia Lessard, neuropsychologue.'
     timage: /assets/images/uploads/DSC_7121_Edit_Nadia carre.jpg
 ressources:
   need: 'false'
@@ -53,6 +53,7 @@ draft: false
 4. Identifier l’impact des comorbidités sur l’évaluation des troubles de l’enfance et de l’adolescence et sur l’atteinte des objectifs psychothérapeutiques.
 
 **Préalables**: Aucun préalable. Cette formation s’adresse aux psychothérapeutes, psychologues, neuropsychologues, infirmiers et médecins désirant développer leurs compétences aux plans du diagnostic et de l’intervention auprès d’une clientèle d’enfants et d’adolescents. Cependant, cette formation est considérée de niveau « intermédiaire / avancée » et s’adresse davantage aux professionnels ayant une expérience auprès de la clientèle en santé mentale jeunesse.
+
 
 
 
