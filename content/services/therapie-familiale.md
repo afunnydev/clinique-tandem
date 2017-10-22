@@ -1,6 +1,6 @@
 ---
 title: Thérapie Familiale
-description: "Services d’évaluation et de thérapie orientés autour de la famille"
+description: Services d’évaluation et de thérapie orientés autour de la famille
 slug: therapie-familiale
 identifiant: therapie-familiale
 resume:
@@ -24,7 +24,7 @@ Les consultations en thérapie familiale sont offertes par une travailleuse soci
 
 ## Pourquoi consulter en thérapie familiale
 
-La thérapie familiale s’adresse à tous les types de famille (monoparentale, recomposée, élargie (ex. grand-parents) ou traditionnelle). Plusieurs motifs peuvent amener à consulter en thérapie familiale, parmi celles-ci:
+La thérapie familiale s’adresse à tous les types de famille (monoparentale, recomposée, élargie (ex. grand-parents) ou traditionnelle). Plusieurs motifs peuvent amener à consulter en thérapie familiale, parmi ceux-ci:
 
 - Conflits parents-enfants
 - Conflits en contexte de famille recomposée
@@ -33,4 +33,5 @@ La thérapie familiale s’adresse à tous les types de famille (monoparentale, 
 - Échecs scolaires
 - Cheminement suite à un diagnostic
 - Etc.
+
 
