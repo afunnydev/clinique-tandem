@@ -1,6 +1,9 @@
 ---
 title: Clinique Tandem
-description: "services spécialisés d’évaluation et d’intervention pour une clientèle d’enfants et d’adolescents aux prises avec des difficultés scolaires, affectives et/ou comportementales"
+description: >-
+  services spécialisés d’évaluation et d’intervention pour une clientèle
+  d’enfants et d’adolescents aux prises avec des difficultés scolaires,
+  affectives et/ou comportementales
 image: null
 slider:
   image: /assets/images/tandem-slider-2.jpg
@@ -22,12 +25,12 @@ aboutleft: >-
   problématique du jeune et offre la possibilité d’un suivi adapté aux besoins
   de la famille, le tout à une même adresse.
 aboutright: >-
-  ### Nos spécialisations
+  ### Nos champs d'expertise
 
 
   L’ensemble des professionnels bénéficie d’une formation dans le domaine de la
   pédopsychiatrie permettant l’évaluation et/ou la prise en charge de diverses
-  problématiques neuro-développementales et de santé mentale:
+  problématiques neurodéveloppementales et de santé mentale:
 contact: >-
   #### Nous joindre
 
@@ -36,6 +39,8 @@ contact: >-
   d'informations suivants :
 btntext: Envoyer un message
 ---
+
+
 
 
 
