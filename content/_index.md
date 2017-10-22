@@ -30,7 +30,7 @@ aboutright: >-
 
   L’ensemble des professionnels bénéficie d’une formation dans le domaine de la
   pédopsychiatrie permettant l’évaluation et/ou la prise en charge de diverses
-  problématiques neurodéveloppementales et de santé mentale:
+  problématiques neuro-développementales et de santé mentale, telles que :
 contact: >-
   #### Nous joindre
 
@@ -39,6 +39,7 @@ contact: >-
   d'informations suivants :
 btntext: Envoyer un message
 ---
+
 
 
 
