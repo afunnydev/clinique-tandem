@@ -1,10 +1,10 @@
 ---
 title: Liens utiles
 description: desc
-layout: liens-utiles
 titre: Liens utiles
 slug: liens-utiles
-image:
+layout: liens-utiles
+image: null
 ---
 
 #### Anxiété
@@ -51,6 +51,9 @@ image:
 - [Ordre des psychologues du Québec](https://www.ordrepsy.qc.ca/)
 - [Ordre des psychoéducateurs du Québec](http://www.ordrepsed.qc.ca/)
 
+#### Psychose
+
+- [Association Québécoise des Programmes pour Premiers Épisodes Psychotiques](http://www.aqppep.ca/)
 
 #### Syndrome de Gilles de La Tourette
 
@@ -73,3 +76,4 @@ image:
 #### Troubles d’apprentissages
 
 - [Institut des troubles d’apprentissages (AQETA)](http://www.institutta.com)
+
