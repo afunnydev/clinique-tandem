@@ -22,7 +22,7 @@ aboutleft: >-
   problématique du jeune et offre la possibilité d’un suivi adapté aux besoins
   de la famille, le tout à une même adresse.
 aboutright: >-
-  ### Nos spécialisations
+  ### Nos champs d'expertise
 
 
   L’ensemble des professionnels bénéficie d’une formation dans le domaine de la
@@ -36,6 +36,7 @@ contact: >-
   d'informations suivants :
 btntext: Envoyer un message
 ---
+
 
 
 
