@@ -1,10 +1,14 @@
 ---
-title: "À propos"
-description: "desc"
-layout: a-propos
+title: À propos
+description: >-
+  La Clinique Tandem est un centre spécialisé en neuropsychologie et en santé
+  mentale jeunesse. Nous offrons des services d’évaluation et de traitement pour
+  les enfants et adolescents aux prises avec des difficultés scolaires ainsi que
+  des problématiques comportementales et émotionnelles. 
+titre: À propos
 slug: a-propos
-titre: "À propos"
-image:
+layout: a-propos
+image: null
 ---
 
 #### La clinique Tandem est un centre spécialisé dans l’évaluation et le traitement des enfants et adolescents aux prises avec des difficultés scolaires ainsi que des problématiques comportementales et émotionnelles. 
@@ -18,3 +22,4 @@ La clinique Tandem est née du désir d’offrir un service d’évaluation et d
 ### La Clinique Tandem : Un lieu de formation
  
 La clinique vise également la formation de professionnels qui veulent parfaire leur expertise dans l’évaluation neuropsychologique et la compréhension des troubles neurodéveloppementaux et mentaux. Des journées de formation reconnues par l'OPQ et des séances de supervision cliniques sont offertes aux intervenants, psychologues, neuropsychologues, pédopsychiatres et médecins.
+
