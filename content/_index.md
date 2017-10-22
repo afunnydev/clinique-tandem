@@ -12,10 +12,10 @@ aboutleft: >-
   ### Clinique Tandem
 
 
-  La Clinique Tandem, située dans le quartier Ste-Rose à Laval, offre des
-  services spécialisés d’évaluation et d’intervention pour une clientèle
-  d’enfants et d’adolescents aux prises avec des difficultés scolaires,
-  affectives et/ou comportementales.
+  La Clinique Tandem, située sur le Boul. Ste-Rose à Laval, offre des services
+  spécialisés d’évaluation et d’intervention pour une clientèle d’enfants et
+  d’adolescents aux prises avec des difficultés scolaires, affectives et/ou
+  comportementales.
 
 
   Notre équipe multidisciplinaire vise une compréhension clinique globale de la
@@ -36,6 +36,7 @@ contact: >-
   d'informations suivants :
 btntext: Envoyer un message
 ---
+
 
 
 
