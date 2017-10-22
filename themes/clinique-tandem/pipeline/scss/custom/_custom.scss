@@ -70,6 +70,8 @@
 	background-color: $scolor;
 	.about-left,
 	.about-right {
+		padding-right: 25px;
+		padding-left: 25px;
 		h2,h3,h4 {
 			margin: 10px 0 24px;
     		font-size: 38px;
@@ -121,13 +123,14 @@ ul.specialisations {
 	}
 	ul li {
 		font-size: 16px;
+		list-style-type: none;
 	}
 }
 
 #homepage #services {
-	.text-center {
-		text-align: left;
-	}
+	// .text-center {
+	// 	text-align: left;
+	// }
 	.section_header {
 		padding-left: 25px;
 	}

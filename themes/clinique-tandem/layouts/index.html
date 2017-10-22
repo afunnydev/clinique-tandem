@@ -33,9 +33,10 @@
 				</div>
 			</div>
 			<div class="row columns_padding_0 columns_margin_0 fontsize_16 services-container">
-			{{ range $i, $e := where $.Site.Pages "Type" "services" }}
+			{{ range $i, $e := sort (where $.Site.Pages "Type" "services") ".Params.ordre" "asce"}}
+			{{ $t := sub $i 1 }}
 				{{ if $e.Params.resume.titre }}
-				<div class="col-md-4 col-sm-6 services {{if eq $i 2 }}clear-sm{{ else if eq $i 3}}clear-lg clear-md{{ end }}">
+				<div class="col-md-4 col-sm-6 services {{ if modBool $t 2}}clear-sm{{ else if modBool $t 3}}clear-lg clear-md{{ end }}">
 					<a href="{{ .Permalink }}">
 						<div class="with_padding text-center teaser hover_shadow">
 							<h4>
