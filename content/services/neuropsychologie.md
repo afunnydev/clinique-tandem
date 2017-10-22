@@ -35,13 +35,14 @@ Plusieurs motifs peuvent amener un parent ou un adolescent à consulter en neuro
 * La présence de difficultés de comportement (tics, opposition, agressivité, etc.).
 * Des particularités au plan de la socialisation (maladresse sociale, isolement, intérêts atypiques, etc.).
 
-Notre équipe de neuropsychologues est formée pour dépister les différents troubles neuropsychologiques et de santé mentale afin de bien départager la source des difficultés de l’enfant et orienter vers les interventions les plus pertinentes.
+Notre équipe de neuropsychologues est formée pour dépister les différents troubles neuropsychologiques et de santé mentale afin de bien cerner la source des difficultés de l’enfant et orienter vers les interventions les plus pertinentes.
 
 ## Ce que permet l’évaluation neuropsychologique
 
-Au terme de l’évaluation neuropsychologique, le parent reçoit un rapport détaillé qui présente l’ensemble des résultats et précise la nature des diagnostics si il y a lieu. De plus, plusieurs types de recommandations peuvent découler de l’évaluation neuropsychologique telles que:
+Au terme de l’évaluation neuropsychologique, le parent reçoit un rapport détaillé qui présente l’ensemble des résultats et précise la nature des diagnostics s'il y a lieu. De plus, plusieurs types de recommandations peuvent découler de l’évaluation neuropsychologique telles que:
 
 * Des suggestions pour le plan d’intervention en milieu scolaire afin d’offrir à l’enfant les accommodations nécessaires et orienter les approches pédagogiques.
 * Des conseils éducatifs pour les parents afin d’aider l’enfant dans ses apprentissages et mieux gérer les particularités comportementales et/ou sociales.
 * Des références vers d’autres professionnels de la Clinique Tandem afin d’offrir un complément d’évaluation ou des interventions à l’enfant et sa famille.
 * Des recommandations à l’intention du médecin traitant afin d’orienter ses interventions sur la base d’un diagnostic différentiel.
+
