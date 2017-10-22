@@ -1,6 +1,6 @@
 ---
 title: Psychologie
-description: Description
+description: "Psychothérapie et interventions visant un mieux-être psychologique"
 slug: psychologie
 identifiant: psychologie
 resume:

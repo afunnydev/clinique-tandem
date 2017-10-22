@@ -1,6 +1,6 @@
 ---
 title: Pédopsychiatrie
-description: Description
+description: "Consultation auprès d'un pédopsychiatre pour une orientation pharmacologique"
 slug: pedopsychiatrie
 identifiant: pedopsychiatrie
 resume:

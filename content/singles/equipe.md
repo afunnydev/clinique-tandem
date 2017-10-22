@@ -1,6 +1,6 @@
 ---
 title: Notre équipe
-description: Vraiment une belle équipe!
+description: Votre équipe de professionels en psychologie
 titre: Équipe
 slug: equipe
 layout: equipe

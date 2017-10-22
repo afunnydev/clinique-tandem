@@ -1,6 +1,6 @@
 ---
 title: FAQ
-description: desc
+description: Les questions les plus fréquemment posé quant à la psychologie clinique
 titre: Foire aux questions
 slug: foire-aux-questions
 layout: faq

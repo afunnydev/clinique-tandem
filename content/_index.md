@@ -1,6 +1,6 @@
 ---
 title: Clinique Tandem
-description: ''
+description: "services spécialisés d’évaluation et d’intervention pour une clientèle d’enfants et d’adolescents aux prises avec des difficultés scolaires, affectives et/ou comportementales"
 image: null
 slider:
   image: /assets/images/tandem-slider-2.jpg

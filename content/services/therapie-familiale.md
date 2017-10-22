@@ -1,6 +1,6 @@
 ---
 title: Thérapie Familiale
-description: Description
+description: "Services d’évaluation et de thérapie orientés autour de la famille"
 slug: therapie-familiale
 identifiant: therapie-familiale
 resume:

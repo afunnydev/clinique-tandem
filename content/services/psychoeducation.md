@@ -1,6 +1,7 @@
 ---
 title: Psychoéducation
-description: Description
+description: "Évaluation psychoéducative et interventions dans les milieux de vie de
+    l’enfant"
 slug: psychoeducation
 identifiant: psychoeducation
 resume:
