@@ -32,6 +32,7 @@ collections:
           - {label: "Numéro de téléphone", name: "phone", widget: "string"}
           - {label: "Numéro de téléphone, version web", name: "mphone", widget: "string", description: "Gardez le même format"}
           - {label: "Courriel", name: "email", widget: "string"}
+          - {label: "Titre de la page d'accueil", name: "sitetitle", widget: "string"}
           - {label: "Description par défaut du site", name: "sitedescription", widget: "string", description: "Utilisez moins de 160 caractères", required: false}
           - {label: "Image par défaut pour les réseaux sociaux", name: "defaultsocialimage", widget: "image", required: false}
           - {label: "Retirer des moteurs de recherche", name: "removefromexternalsearch", widget: "boolean", required: false, default: false}
