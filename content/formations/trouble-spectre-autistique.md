@@ -1,11 +1,11 @@
 ---
-title: Formation sur les troubles du spectre de l’autisme
+title: Formation sur le troubles du spectre de l’autisme
 description: >-
   Intervenir auprès de l'enfant et de l’adolescent présentant un trouble du
   spectre de l’autisme
 slug: trouble-spectre-autistique
 identifiant: trouble-spectre-autistique
-image: /assets/images/uploads/sad-girl-with-friends-P7Q6LB3.jpg
+image: /assets/images/uploads/TSA_LQ.jpg
 resume:
   btitre: Trouble du spectre de l’autisme
   note: Intervenir auprès de l'enfant et de l’adolescent présentant un TSA
@@ -54,6 +54,8 @@ draft: false
 3. Orienter et réaliser de façon spécifique les interventions cognitives et le travail en psychothérapie auprès de jeunes présentant des troubles neurodéveloppementaux et mentaux complexes.
 
 **Préalables**: Aucun préalable.
+
+
 
 
 
