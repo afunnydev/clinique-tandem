@@ -23,12 +23,12 @@ equipe:
       l’enfant et l’adolescent. 
     nom: Vincent Chiasson
     ordre: 2
-    photo: /assets/images/half/vincent.jpg
+    photo: /assets/images/uploads/IMG_8981.JPG
     titre: Co-fondateur
   - description: ''
     nom: Anne Seni
     ordre: 8
-    photo: /assets/images/uploads/DSC_7061_Edit_Anne copie.jpg
+    photo: /assets/images/uploads/Anne.jpg
     titre: Doctorante en neuropsychologie
   - description: >-
       Dre Mcnally-Gagnon est neuropsychologue au Centre de réadaptation en
@@ -41,7 +41,7 @@ equipe:
       services d’évaluation neuropsychologique. 
     nom: 'Dre Andréane Mcnally-Gagnon, Ph.D'
     ordre: 6
-    photo: /assets/images/placeholder-team.jpeg
+    photo: /assets/images/uploads/AMG2.jpg
     titre: Neuropsychologue
   - description: >-
       Johanna Navarro, doctorante en psychologie, est détentrice d’un doctorat
@@ -83,7 +83,7 @@ equipe:
       auprès des différents milieux de vie de l’enfant (école, garderie).
     nom: 'Kim Boissonneault, MSc.'
     ordre: 7
-    photo: /assets/images/placeholder-team.jpeg
+    photo: /assets/images/uploads/Kim.JPG
     titre: Psychoéducatrice
   - description: >-
       Dre Provencher cumule 30 ans d’expérience en tant que pédopsychiatre au
