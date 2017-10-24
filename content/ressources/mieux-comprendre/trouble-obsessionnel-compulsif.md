@@ -1,12 +1,13 @@
 ---
-title: "Trouble obsessionnel compulsif"
-description: "desc"
-titre: "Trouble obsessionnel compulsif"
-image:
-i18nlanguage: fr
-identifiant: trouble-obsessionnel-compulsif
+title: Trouble obsessionnel compulsif | Clinique Tandem
+description: ''
 slug: trouble-obsessionnel-compulsif
-draft: false
+identifiant: trouble-obsessionnel-compulsif
+titre: Trouble obsessionnel compulsif
+image: null
+i18nlanguage: fr
 type: mieuxcomprendre
 ordre: 8
+draft: false
 ---
+
