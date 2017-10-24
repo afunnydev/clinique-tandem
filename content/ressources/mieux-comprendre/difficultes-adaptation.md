@@ -1,12 +1,13 @@
 ---
-title: "Difficultés d'adaptation"
-description: "desc"
-titre: "Difficultés d'adaptation"
-image:
-i18nlanguage: fr
-identifiant: difficultes-adaptation
+title: Difficultés d'adaptation | Clinique Tandem
+description: ''
 slug: difficultes-adaptation
-draft: false
+identifiant: difficultes-adaptation
+titre: Difficultés d'adaptation
+image: null
+i18nlanguage: fr
 type: mieuxcomprendre
 ordre: 3
+draft: false
 ---
+
