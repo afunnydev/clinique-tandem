@@ -1,9 +1,9 @@
 ---
-title: Pédopsychiatrie
+title: Clinique Tandem - Pédopsychiatrie
 description: >-
   La Clinique Tandem à Laval offre pour ses clients et médecins des
   consultations avec un pédopscychiatre pour des recommandations au sujet de la
-  médication et des avis diagnostiques.
+  médication et des avis diagnostiques chez l'enfant et l'adolescent.
 slug: pedopsychiatrie
 identifiant: pedopsychiatrie
 resume:
@@ -18,6 +18,7 @@ draft: false
 ## Qu’est-ce que la pédopsychiatrie?
  
 La pédopsychiatrie est la discipline médicale spécialisée dans l’évaluation et le traitement des problématiques liées à la santé mentale. À la Clinique Tandem, notre pédopsychiatre agit comme consultante afin d’orienter l’intervention psychopharmacologique auprès des enfants/adolescents ayant été préalablement suivis ou évalués par un professionnel de l’équipe. Le rapport d’évaluation permet au médecin de famille ou au pédiatre de bénéficier de recommandations pour la prise en charge pharmacologique.
+
 
 
 
