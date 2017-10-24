@@ -1,12 +1,13 @@
 ---
-title: "Anxiété"
-description: "desc"
-titre: "Anxiété"
-image:
-i18nlanguage: fr
-identifiant: anxiete
+title: Anxiété | Clinique Tandem
+description: ''
 slug: anxiete
-draft: false
+identifiant: anxiete
+titre: Anxiété
+image: null
+i18nlanguage: fr
 type: mieuxcomprendre
 ordre: 1
+draft: false
 ---
+
