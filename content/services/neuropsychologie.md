@@ -1,6 +1,9 @@
 ---
 title: Neuropsychologie
-description: 'Services d''évaluation neuropsychologique  '
+description: >-
+  La Clinique Tandem à Laval offre des services d'évaluation neuropsychologique
+  pour enfants et adolescents, dont l'évaluation du TDAH, des troubles
+  d'apprentissages et du trouble du spectre de l'autisme.
 slug: neuropsychologie
 identifiant: neuropsychologie
 resume:
@@ -45,3 +48,4 @@ Au terme de l’évaluation neuropsychologique, le parent reçoit un rapport dé
 * Des conseils éducatifs pour les parents afin d’aider l’enfant dans ses apprentissages et mieux gérer les particularités comportementales et/ou sociales.
 * Des références vers d’autres professionnels de la Clinique Tandem afin d’offrir un complément d’évaluation ou des interventions à l’enfant et sa famille.
 * Des recommandations à l’intention du médecin traitant afin d’orienter ses interventions sur la base d’un diagnostic différentiel.
+
