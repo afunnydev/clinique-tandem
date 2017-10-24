@@ -1,12 +1,13 @@
 ---
-title: "Trouble d'opposition"
-description: "desc"
-titre: "Trouble d'opposition"
-image:
-i18nlanguage: fr
-identifiant: trouble-opposition
+title: Trouble d'opposition | Clinique Tandem
+description: desc
 slug: trouble-opposition
-draft: false
+identifiant: trouble-opposition
+titre: Trouble d'opposition
+image: null
+i18nlanguage: fr
 type: mieuxcomprendre
 ordre: 9
+draft: false
 ---
+
