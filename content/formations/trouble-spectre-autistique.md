@@ -1,8 +1,11 @@
 ---
-title: Formation sur le troubles du spectre de l’autisme
+title: Clinique Tandem - Formation sur le troubles du spectre de l’autisme
 description: >-
   Intervenir auprès de l'enfant et de l’adolescent présentant un trouble du
-  spectre de l’autisme
+  spectre de l’autisme : Dépistage, troubles concomitants et stratégies
+  d’intervention ciblées sur les troubles cognitifs et les comportements
+  perturbateurs. Une formation offerte par Dre Nadia Lessard et Dre Catherine
+  Dumont.
 slug: trouble-spectre-autistique
 identifiant: trouble-spectre-autistique
 image: /assets/images/uploads/TSA_LQ.jpg
@@ -54,6 +57,7 @@ draft: false
 3. Orienter et réaliser de façon spécifique les interventions cognitives et le travail en psychothérapie auprès de jeunes présentant des troubles neurodéveloppementaux et mentaux complexes.
 
 **Préalables**: Aucun préalable.
+
 
 
 
