@@ -1,12 +1,13 @@
 ---
-title: "Troubles d'attachement"
-description: "desc"
-titre: "Troubles d'attachement"
-image:
-i18nlanguage: fr
-identifiant: trouble-attachement
+title: Les troubles de l'attachement | Clinique Tandem
+description: desc
 slug: trouble-attachement
-draft: false
+identifiant: trouble-attachement
+titre: Troubles d'attachement
+image: null
+i18nlanguage: fr
 type: mieuxcomprendre
 ordre: 7
+draft: false
 ---
+
