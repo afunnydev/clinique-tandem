@@ -7,7 +7,8 @@ titre: Troubles psychotiques
 image: null
 i18nlanguage: fr
 type: mieuxcomprendre
-ordre: null
+ordre: '10'
 draft: false
 ---
 null
+
