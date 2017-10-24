@@ -1,12 +1,13 @@
 ---
-title: "Dépression"
-description: "desc"
-titre: "Dépression"
-image:
-i18nlanguage: fr
-identifiant: depression
+title: Dépression | Clinique Tandem
+description: ''
 slug: depression
-draft: false
+identifiant: depression
+titre: Dépression
+image: null
+i18nlanguage: fr
 type: mieuxcomprendre
 ordre: 2
+draft: false
 ---
+
