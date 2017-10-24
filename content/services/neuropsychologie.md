@@ -49,3 +49,4 @@ Au terme de l’évaluation neuropsychologique, le parent reçoit un rapport dé
 * Des références vers d’autres professionnels de la Clinique Tandem afin d’offrir un complément d’évaluation ou des interventions à l’enfant et sa famille.
 * Des recommandations à l’intention du médecin traitant afin d’orienter ses interventions sur la base d’un diagnostic différentiel.
 
+
