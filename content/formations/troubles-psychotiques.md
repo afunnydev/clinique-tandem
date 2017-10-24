@@ -1,8 +1,9 @@
 ---
-title: Formation sur les troubles psychotiques
+title: Clinique Tandem - Formation sur les troubles psychotiques
 description: >-
   Démystifier les premiers épisodes psychotiques et les troubles comorbides de
-  l’enfance et de l’adolescence: outils d’évaluation et interventions ciblées
+  l’enfance et de l’adolescence: outils d’évaluation et interventions ciblées.
+  Formation donnée par Dre Nadia Lessard, neuropsychologue.
 slug: troubles-psychotiques
 identifiant: troubles-psychotiques
 image: /assets/images/uploads/Psychose_LQ.jpg
@@ -49,6 +50,7 @@ draft: false
 4. Identifier l’impact des comorbidités sur l’évaluation des troubles de l’enfance et de l’adolescence et sur l’atteinte des objectifs psychothérapeutiques.
 
 **Préalables**: Aucun préalable. Cette formation est considérée de niveau intermédiaire et s’adresse davantage aux professionnels ayant une expérience auprès de la clientèle en santé mentale jeunesse.
+
 
 
 
