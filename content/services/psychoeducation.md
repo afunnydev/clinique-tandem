@@ -1,5 +1,5 @@
 ---
-title: Psychoéducation
+title: Clinique Tandem - Psychoéducation
 description: >-
   La Clinique Tandem à Laval offre des services en psychoéducation (évaluation
   et interventions à domicile) afin d'outiller les parents et l'entourage à
@@ -39,6 +39,7 @@ Le psychoéducateur peut venir en aide afin de:
 - Mieux outiller les parents et l’entourage pour soutenir un enfant qui présente des difficultés au quotidien
 - Appliquer un plan d’intervention et mettre en place des moyens rééducatifs dans les différents milieux de vie
 - Traverser une crise familiale ou retrouver un équilibre suite à une période plus difficile
+
 
 
 
