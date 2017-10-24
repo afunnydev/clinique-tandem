@@ -1,9 +1,10 @@
 ---
-title: Liens utiles
+title: Liens utiles | Clinique Tandem
 description: >-
-  Liens à l'intention des parents et des professionnels au sujet des différents
-  troubles du développement et de santé mentale. Camps de jour et maisons de
-  répit.
+  Liens et ressources à l'intention des parents et des professionnels au sujet
+  des différents troubles du développement et de santé mentale. Vous trouverez
+  aussi une liste de camps de jours et de maisons de répit pour enfants et
+  adolescents.
 titre: Liens utiles
 slug: liens-utiles
 layout: liens-utiles
@@ -79,6 +80,7 @@ image: null
 #### Troubles d’apprentissages
 
 - [Institut des troubles d’apprentissages (AQETA)](http://www.institutta.com)
+
 
 
 
