@@ -1,5 +1,5 @@
 ---
-title: Trouble du spectre de l'autisme
+title: Trouble du spectre de l'autisme | Clinique Tandem
 description: >-
   Présentation du trouble du spectre de l'autisme (TSA) et de ses
   manifestations. Le trouble du spectre de l’autisme (TSA) est un trouble
@@ -36,6 +36,7 @@ Le TSA est présent dès la petite enfance, mais peut apparaître de façon évi
 - Tolère mal, devient anxieux lors des changements ou situations nouvelles
 - Besoin excessif de respecter des routines
 - Particularités au niveau sensoriel (hypersensibilité ou indifférence à certaines stimulations)
+
 
 
 
