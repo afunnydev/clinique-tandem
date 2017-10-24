@@ -1,5 +1,5 @@
 ---
-title: Thérapie Familiale
+title: Clinique Tandem - Évaluation et Thérapie Familiale
 description: >-
   Des services d’évaluation et de thérapie orientés autour de la famille
   (thérapie familiale, conjugale) sont offerts à la Clinique Tandem à Laval
@@ -35,5 +35,6 @@ La thérapie familiale s’adresse à tous les types de famille (monoparentale, 
 - Échecs scolaires
 - Cheminement suite à un diagnostic
 - Etc.
+
 
 
