@@ -1,5 +1,5 @@
 ---
-title: Services
+title: Services | Clinique Tandem
 description: >-
   La Clinique Tandem à Laval adopte une approche multidisciplinaire et offre des
   services de neuropsychologie, psychologie, psychoéducation, thérapie familiale
@@ -7,5 +7,6 @@ description: >-
 rootPage: true
 image: null
 ---
+
 
 
