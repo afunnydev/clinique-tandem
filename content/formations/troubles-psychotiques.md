@@ -1,5 +1,5 @@
 ---
-title: Clinique Tandem - Formation sur les troubles psychotiques
+title: Formation sur les troubles psychotiques
 description: >-
   Démystifier les premiers épisodes psychotiques et les troubles comorbides de
   l’enfance et de l’adolescence: outils d’évaluation et interventions ciblées.

@@ -1,5 +1,5 @@
 ---
-title: Psychose | Clinique Tandem
+title: Psychose
 description: null
 slug: psychose
 identifiant: psychose
@@ -9,6 +9,7 @@ i18nlanguage: fr
 type: mieuxcomprendre
 ordre: '10'
 draft: false
+noindex: true
 ---
 Contenu à venir..
 

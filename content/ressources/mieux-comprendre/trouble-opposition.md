@@ -1,5 +1,5 @@
 ---
-title: Trouble d'opposition | Clinique Tandem
+title: Trouble d'opposition
 description: desc
 slug: trouble-opposition
 identifiant: trouble-opposition
@@ -9,5 +9,6 @@ i18nlanguage: fr
 type: mieuxcomprendre
 ordre: 9
 draft: false
+noindex: true
 ---
 

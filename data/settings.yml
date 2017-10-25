@@ -6,7 +6,10 @@ socials:
 phone: 450-490-3214
 mphone: '+14504903214'
 email: info@cliniquetandem.ca
-sitedescription: ''
-sitetitle: "Services en psychologie à Laval"
-defaultsocialimage: /
-removefromexternalsearch: true
+sitedescription: "La Clinique Tandem, située sur la Rive-Nord de Laval, offre une gamme de
+  services spécialisés pour enfants et adolescents en neuropsychologie,
+  psychologie, pédopsychiatrie et psychoéducation. Des évaluations pour TDA/H,
+  autisme et troubles d'apprentissages sont offertes."
+sitetitle: "Neuropsychologie et santé mentale"
+defaultsocialimage: "/assets/images/logo.png"
+removefromexternalsearch: false

@@ -1,5 +1,5 @@
 ---
-title: Trouble obsessionnel compulsif | Clinique Tandem
+title: Trouble obsessionnel compulsif
 description: ''
 slug: trouble-obsessionnel-compulsif
 identifiant: trouble-obsessionnel-compulsif
@@ -9,5 +9,6 @@ i18nlanguage: fr
 type: mieuxcomprendre
 ordre: 8
 draft: false
+noindex: true
 ---
 

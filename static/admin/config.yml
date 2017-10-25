@@ -73,11 +73,14 @@ collections:
           - {label: "Titre", name: "titre", widget: "string"}
           - {label: "Description", name: "court", widget: "string"}
       - {label: "Image", name: "image", widget: "image" ,required: false}
+      - {label: "Image visible sur la page?", name: "needimage", widget: "boolean", required: false, default: false}
       - {label: "Langue", name: "i18nlanguage", widget: "hidden", default: "fr"}
       - {label: "Retirer le bouton?", name: "removebutton", widget: "boolean", required: false, default: false}
       - {label: "Ordre", name: "ordre", widget: "number", required: false}
+      - {label: "Retirer des moteurs de recherche", name: "noindex", widget: "boolean", required: false, default: false}
       - {label: "Rendre le service invisible?", name: "draft", widget: "boolean", required: false, default: false}
       - {label: "Texte", name: "body", widget: "markdown", required: false}
+
   - name: "formations" # Used in routes, e.g. /admin/collections/blog
     label: "Formations" # Used in the UI
     folder: "content/formations" # The path to the folder where the documents are stored
@@ -130,6 +133,7 @@ collections:
           - {label: "Texte", name: "text", widget: "markdown", required: false}
       - {label: "Langue", name: "i18nlanguage", widget: "hidden", default: "fr"}
       - {label: "Ordre", name: "ordre", widget: "number", required: false}
+      - {label: "Retirer des moteurs de recherche", name: "noindex", widget: "boolean", required: false, default: false}
       - {label: "Rendre le service invisible?", name: "draft", widget: "boolean", required: false, default: false}
       - {label: "Texte", name: "body", widget: "markdown", required: false}
   - name: "mieux-comprendre" # Used in routes, e.g. /admin/collections/blog
@@ -152,6 +156,7 @@ collections:
       - {label: "Langue", name: "i18nlanguage", widget: "hidden", default: "fr"}
       - {label: "Type", name: "type", widget: "hidden", default: "mieuxcomprendre"}
       - {label: "Ordre", name: "ordre", widget: "number", required: false}
+      - {label: "Retirer des moteurs de recherche", name: "noindex", widget: "boolean", required: false, default: false}
       - {label: "Rendre le service invisible?", name: "draft", widget: "boolean", required: false, default: false}
       - {label: "Texte", name: "body", widget: "markdown", required: false}
   - name: "pages"

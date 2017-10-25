@@ -1,5 +1,5 @@
 ---
-title: Troubles d'apprentissage | Clinique Tandem
+title: Troubles d'apprentissage
 description: desc
 slug: difficultes-apprentissage
 identifiant: difficultes-apprentissage
@@ -9,5 +9,6 @@ i18nlanguage: fr
 type: mieuxcomprendre
 ordre: 4
 draft: false
+noindex: true
 ---
 

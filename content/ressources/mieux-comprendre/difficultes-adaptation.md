@@ -1,5 +1,5 @@
 ---
-title: Difficultés d'adaptation | Clinique Tandem
+title: Difficultés d'adaptation
 description: desc
 slug: difficultes-adaptation
 identifiant: difficultes-adaptation
@@ -9,5 +9,6 @@ i18nlanguage: fr
 type: mieuxcomprendre
 ordre: 3
 draft: false
+noindex: true
 ---
 

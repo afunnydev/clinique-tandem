@@ -1,5 +1,5 @@
 ---
-title: Nous joindre | Clinique Tandem
+title: Nous joindre
 description: >-
   Joignez la Clinique Tandem à Laval pour toute demande d'informations ou pour
   prendre un rendez-vous pour les services suivants : neuropsychologie,

@@ -1,5 +1,5 @@
 ---
-title: Trouble du spectre de l'autisme | Clinique Tandem
+title: Trouble du spectre de l'autisme 
 description: >-
   Présentation du trouble du spectre de l'autisme (TSA) et de ses
   manifestations. Le trouble du spectre de l’autisme (TSA) est un trouble

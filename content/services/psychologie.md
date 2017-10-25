@@ -1,5 +1,5 @@
 ---
-title: Clinique Tandem - Psychologie
+title: Psychologie
 description: Psychothérapie et interventions visant un mieux-être psychologique
 slug: psychologie
 identifiant: psychologie
@@ -7,6 +7,7 @@ resume:
   court: Psychothérapie et interventions visant un mieux-être psychologique
   titre: Psychologie
 image: null
+needimage: false
 i18nlanguage: fr
 ordre: 5
 draft: false

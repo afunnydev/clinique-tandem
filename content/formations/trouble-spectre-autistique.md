@@ -1,5 +1,5 @@
 ---
-title: Clinique Tandem - Formation sur le troubles du spectre de l’autisme
+title: Formation sur le troubles du spectre de l’autisme
 description: >-
   Intervenir auprès de l'enfant et de l’adolescent présentant un trouble du
   spectre de l’autisme : Dépistage, troubles concomitants et stratégies

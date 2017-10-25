@@ -1,5 +1,5 @@
 ---
-title: Clinique Tandem - Thérapie Familiale
+title: Thérapie Familiale
 description: Services d’évaluation et de thérapie orientés autour de la famille
 slug: therapie-familiale
 identifiant: therapie-familiale
@@ -7,6 +7,7 @@ resume:
   court: Services d’évaluation et de thérapie orientés autour de la famille
   titre: Thérapie familiale
 image: null
+needimage: false
 i18nlanguage: fr
 ordre: 6
 draft: false

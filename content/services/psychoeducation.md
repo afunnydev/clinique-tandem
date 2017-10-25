@@ -1,5 +1,5 @@
 ---
-title: Clinique Tandem - Psychoéducation
+title: Psychoéducation
 description: >-
   Évaluation psychoéducative et interventions dans les milieux de vie de
   l’enfant
@@ -11,6 +11,7 @@ resume:
     l’enfant
   titre: Psychoéducation
 image: null
+needimage: false
 i18nlanguage: fr
 ordre: 4
 draft: false

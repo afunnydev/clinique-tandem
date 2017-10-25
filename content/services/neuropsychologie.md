@@ -9,6 +9,7 @@ resume:
     recommandations adaptées
   titre: Neuropsychologie
 image: null
+needimage: false
 i18nlanguage: fr
 ordre: 2
 draft: false

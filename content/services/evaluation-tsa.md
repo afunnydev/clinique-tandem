@@ -1,5 +1,5 @@
 ---
-title: Clinique Tandem - Évaluation du Trouble du spectre de l'autisme
+title: Évaluation du Trouble du spectre de l'autisme
 description: >-
   La Clinique Tandem à Laval offre des services d'évaluation diagnostique du
   Trouble du Spectre de l’Autisme (TSA, Asperger, etc.). Cette démarche clinique
@@ -10,6 +10,7 @@ resume:
   court: Évaluation diagnostique du Trouble du Spectre de l’Autisme
   titre: Évaluation TSA
 image: /assets/images/uploads/learning-homework.jpg
+needimage: true
 i18nlanguage: fr
 ordre: '6'
 draft: false
