@@ -1,5 +1,5 @@
 ---
-title: Anxiété
+title: Anxiété | Clinique Tandem
 description: ''
 slug: anxiete
 identifiant: anxiete
@@ -8,7 +8,8 @@ image: null
 i18nlanguage: fr
 type: mieuxcomprendre
 ordre: 1
-draft: false
 noindex: true
+draft: false
 ---
+
 
