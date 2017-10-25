@@ -1,5 +1,5 @@
 ---
-title: Psychologie
+title: Clinique Tandem - Psychologie
 description: Psychothérapie et interventions visant un mieux-être psychologique
 slug: psychologie
 identifiant: psychologie
@@ -29,5 +29,6 @@ La formation du psychologue est centrée sur la compréhension du comportement h
 L’enfance et l’adolescence sont des périodes de développement et de changements significatifs qui placent certaines personnes dans une situation de vulnérabilité. L’école, les relations sociales et le milieu familial sont des contextes qui peuvent amener leur lot de stress et de défis pour le jeune et sa famille. Les difficultés de l’enfant/adolescent peuvent se manifester sous la forme de symptômes émotionnels (anxiété, humeur dépressive, faible estime de soi, etc.) ou de comportements inadaptés (opposition, consommation de drogues, intimidation, décrochage, troubles alimentaires, etc.)
 
 Les parents se sentent parfois démunis pour venir en aide à leur enfant aux prises avec de telles difficultés ou faisant face à des évènements de vie nouveaux ou difficiles. Les psychologues de la Clinique Tandem sont là pour aider l’enfant et son entourage à mieux comprendre ces manifestations et trouver des stratégies pour parvenir à des changements durables et positifs.
+
 
 
