@@ -1,6 +1,6 @@
 ---
-title: Thérapie Familiale
-description: "Services d’évaluation et de thérapie orientés autour de la famille"
+title: Clinique Tandem - Thérapie Familiale
+description: Services d’évaluation et de thérapie orientés autour de la famille
 slug: therapie-familiale
 identifiant: therapie-familiale
 resume:
@@ -33,4 +33,5 @@ La thérapie familiale s’adresse à tous les types de famille (monoparentale, 
 - Échecs scolaires
 - Cheminement suite à un diagnostic
 - Etc.
+
 
