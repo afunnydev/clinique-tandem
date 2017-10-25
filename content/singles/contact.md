@@ -1,9 +1,9 @@
 ---
 title: Nous joindre | Clinique Tandem
 description: >-
-  Joignez la Clinique Tandem pour toute demande d'informations ou pour prendre
-  un rendez-vous pour les services suivants : neuropsychologie, psychologie,
-  psychoéducation, thérapie familiale et pédopsychiatrie.
+  Joignez la Clinique Tandem à Laval pour toute demande d'informations ou pour
+  prendre un rendez-vous pour les services suivants : neuropsychologie,
+  psychologie, psychoéducation, thérapie familiale et pédopsychiatrie.
 titre: Nous joindre
 slug: nous-joindre
 layout: contact
@@ -18,5 +18,7 @@ services:
   - Autres
 image: null
 ---
+
+
 
 
