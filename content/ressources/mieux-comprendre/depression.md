@@ -1,5 +1,5 @@
 ---
-title: Dépression
+title: Dépression | Clinique Tandem
 description: ''
 slug: depression
 identifiant: depression
@@ -8,7 +8,8 @@ image: null
 i18nlanguage: fr
 type: mieuxcomprendre
 ordre: 2
-draft: false
 noindex: true
+draft: false
 ---
+
 
