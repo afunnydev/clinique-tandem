@@ -1,12 +1,13 @@
 ---
-title: "Difficultés d'apprentissage"
-description: "desc"
-titre: "Difficultés d'apprentissage"
-image:
-i18nlanguage: fr
-identifiant: difficultes-apprentissage
+title: Troubles d'apprentissage | Clinique Tandem
+description: desc
 slug: difficultes-apprentissage
-draft: false
+identifiant: difficultes-apprentissage
+titre: Difficultés d'apprentissage
+image: null
+i18nlanguage: fr
 type: mieuxcomprendre
 ordre: 4
+draft: false
 ---
+

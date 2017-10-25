@@ -7,28 +7,36 @@ equipe:
       dans le diagnostic différentiel des troubles neurodéveloppementaux et
       mentaux. Dre Lessard est superviseure, chargée d’enseignement clinique et
       conférencière auprès des professionnels et médecins se spécialisant dans
-      l’enfance et dans l’adolescence. 
+      l’enfance et dans l’adolescence.
     nom: 'Dre Nadia Lessard, Ph.D'
     ordre: 1
     photo: /assets/images/half/nadia.jpeg
     titre: Co-fondatrice et Neuropsychologue
   - description: >-
       M. Chiasson est le co-fondateur de la Clinique Tandem. Il termine des
-      études doctorales en neuropsychologie clinique. Ses travaux de recherche
-      ont porté sur le développement de la cognition sociale chez l’enfant avec
-      et sans atteinte neurologique. Sa formation clinique en pédopsychiatrie à
-      l’Hôpital du Sacré-Cœur de Montréal et en neurologie à l’Hôpital de
-      Montréal pour Enfants lui confère une double expertise pour l’évaluation
-      et le dépistage de problématiques neurologiques et de santé mentale chez
-      l’enfant et l’adolescent. 
+      études doctorales en neuropsychologie clinique à l'Université de Montréal.
+      Ses travaux de recherche ont porté sur le développement de la cognition
+      sociale chez l’enfant avec et sans atteinte neurologique. Sa formation
+      clinique en pédopsychiatrie à l’Hôpital du Sacré-Cœur et en neurologie à
+      l’Hôpital de Montréal pour Enfants lui confère une double expertise pour
+      l’évaluation et le dépistage de problématiques neurologiques et de santé
+      mentale chez l’enfant et l’adolescent. 
     nom: Vincent Chiasson
     ordre: 2
-    photo: /assets/images/half/vincent.jpg
-    titre: Co-fondateur
-  - description: ''
+    photo: /assets/images/uploads/Vincent.jpg
+    titre: Co-fondateur et doctorant en neuropsychologie
+  - description: >-
+      Mme. Anne Seni termine des études doctorales en neuropsychologie clinique
+      à l’Université de Montréal. Ses travaux de recherche portent sur le
+      développement de la cognition sociale chez les enfants et les adolescents.
+      Ses internats cliniques en pédopsychiatrie à l’Hôpital Sacré-Cœur de
+      Montréal et en traumatologie à l’Hôpital Général de Montréal lui confèrent
+      un large éventail de compétences cliniques. À la Clinique Tandem, Mme.
+      Seni offre des services bilingues d’évaluation neuropsychologique (anglais
+      et français).
     nom: Anne Seni
     ordre: 8
-    photo: /assets/images/uploads/DSC_7061_Edit_Anne copie.jpg
+    photo: /assets/images/uploads/Anne.jpg
     titre: Doctorante en neuropsychologie
   - description: >-
       Dre Mcnally-Gagnon est neuropsychologue au Centre de réadaptation en
@@ -41,22 +49,22 @@ equipe:
       services d’évaluation neuropsychologique. 
     nom: 'Dre Andréane Mcnally-Gagnon, Ph.D'
     ordre: 6
-    photo: /assets/images/placeholder-team.jpeg
+    photo: /assets/images/uploads/IMG_8989.JPG
     titre: Neuropsychologue
   - description: >-
-      Johanna Navarro, doctorante en psychologie, est détentrice d’un doctorat
-      en psychologie clinique (D.Ps.). Elle a développé ses compétences
+      Mme. Johanna Navarro, doctorante en psychologie, est détentrice d’un
+      doctorat en psychologie clinique (D.Ps.). Elle a développé ses compétences
       cliniques auprès d’enfants, d’adolescents et de familles en milieu
       hospitalier (pédopsychiatrie), au CLSC (santé mentale jeunesse), ainsi
       qu’en milieu scolaire. À la Clinique Tandem, elle offre des services
       d’évaluation psychologique et de psychothérapie auprès d'enfants,
       d’adolescents et de jeunes adultes présentant diverses problématiques.
-      Johanna Navarro privilégie une approche intégrative, adaptant ses outils
+      Mme. Navarro privilégie une approche intégrative, adaptant ses outils
       thérapeutiques aux besoins spécifiques de ses clients. Elle place la
       relation thérapeutique au coeur de sa pratique.
     nom: Johanna Navarro
     ordre: 5
-    photo: /assets/images/half/johanna.jpg
+    photo: /assets/images/uploads/DSC_7061_Edit_Johanna.jpg
     titre: Doctorante en psychologie
   - description: >-
       Mme. Lyse Bessette est travailleuse sociale, thérapeute conjugale et
@@ -67,23 +75,23 @@ equipe:
       l’enseignement auprès d’autres professionnels depuis 15 ans. À la Clinique
       Tandem, elle offre des services d’accompagnement parental et familial en
       lien avec une problématique chez l’enfant.
-    nom: 'Lyse Bessette, MSc'
+    nom: 'Lyse Bessette, MSc.'
     ordre: 4
-    photo: /assets/images/half/lyse.jpg
+    photo: /assets/images/uploads/DSC_7067_Edit_Lyse.jpg
     titre: Travailleuse sociale
   - description: >-
       Mme. Boissonneault est psychoéducatrice au CIUSS du Nord de l’Île de
       Montréal au sein de l’équipe développement et stimulation (0 à 5 ans).
       Détentrice d’une maitrise en psychoéducation de l’UQO, elle a effectué son
       stage principal auprès d’enfants avec un Syndrome de Gilles de la Tourette
-      y développant une expertise. À la Clinque Tandem, Mme. Boissonneault offre
-      des services d’accompagnement pour l’enfant aux prises avec des
+      y développant une expertise. À la Clinique Tandem, Mme. Boissonneault
+      offre des services d’accompagnement pour l’enfant aux prises avec des
       difficultés développementales et comportementales, du soutien aux parents
       dans les pratiques à mettre en place au quotidien et un rôle-conseil
       auprès des différents milieux de vie de l’enfant (école, garderie).
     nom: 'Kim Boissonneault, MSc.'
     ordre: 7
-    photo: /assets/images/placeholder-team.jpeg
+    photo: /assets/images/uploads/Kim.jpg
     titre: Psychoéducatrice
   - description: >-
       Dre Provencher cumule 30 ans d’expérience en tant que pédopsychiatre au
