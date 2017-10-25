@@ -1,10 +1,10 @@
 ---
-title: Clinique Tandem | Neuropsychologie et santé mentale
+title: Neuropsychologie et santé mentale
 description: >-
   La Clinique Tandem sur la Rive-Nord de Laval offre une gamme de services
   spécialisés pour les enfants et les adolescents en neuropsychologie,
-  psychologie, pédopsychiatrie et psychoéducation. Des évaluations pour le
-  TDA/H, l'autisme et les troubles d'apprentissages sont offerts.
+  psychologie, pédopsychiatrie et psychoéducation. Des évaluations pour TDA/H,
+  autisme et troubles d'apprentissages sont offertes.
 image: null
 slider:
   image: /assets/images/tandem-slider-2.jpg
@@ -40,6 +40,7 @@ contact: >-
   d'informations suivants :
 btntext: Envoyer un message
 ---
+
 
 
 
