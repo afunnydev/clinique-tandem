@@ -1,5 +1,5 @@
 ---
-title: TDA/H
+title: Trouble déficitaire de l'attention (TDA/H) | Clinique Tandem
 description: >-
   Définition et manifestations du trouble déficitaire de l'attention (TDA/H). Le
   déficit de l’attention/hyperactivité (TDA/H) est un trouble d’origine
@@ -48,3 +48,4 @@ En fonction de la présentation du tableau clinique, il est possible de retenir 
 - Impose sa présence dans une conversation ou un jeu
 - Débute une tâche rapidement sans planifier au préalable
 - Recherche les sensations fortes
+
