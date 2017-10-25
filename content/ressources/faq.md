@@ -1,6 +1,8 @@
 ---
-title: FAQ
-description: Les questions les plus fréquemment posé quant à la psychologie clinique
+title: Foire aux questions
+description: >-
+  Les questions les plus fréquemment posées par les parents concernant les frais
+  d'évaluation et les assurances à la Clinique Tandem
 titre: Foire aux questions
 slug: foire-aux-questions
 layout: faq
@@ -19,6 +21,7 @@ Nos services sont couverts par la majorité des compagnies d’assurances privé
 
 Nos professionnels peuvent être payés par
 l’entremise d’un chèque, en argent comptant ou via un virement Interac.
+
 
 
 
