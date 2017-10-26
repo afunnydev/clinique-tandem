@@ -1,4 +1,8 @@
 <meta charset="utf-8" />
 <meta name="viewport" content="width=device-width, initial-scale=1" />
 <meta name="description" content="{{ if .IsHome }}{{ .Site.Data.settings.sitedescription }}{{ else if .Description }}{{ .Description }}{{ else }}{{ .Site.Data.settings.sitedescription }}{{ end }}" />
+{{ if eq .Params.type "mieuxcomprendre" }}
+<title>{{.Title}}</title>
+{{ else }}
 <title>{{.Site.Title}}{{if not .IsHome}} | {{.Title}}{{ else }} | {{.Site.Data.settings.sitetitle}}{{end}}</title>
+{{ end }}

@@ -1,4 +1,6 @@
-<!-- Google Tag Manager -->
-{{ if .Site.Params.addgtm}}
-
-{{end}}
+{{ if getenv "IS_PROD" }}
+    <!-- Google Tag Manager (noscript) -->
+		<noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-PK3WNS2"
+		height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+		<!-- End Google Tag Manager (noscript) -->
+{{ end }}
