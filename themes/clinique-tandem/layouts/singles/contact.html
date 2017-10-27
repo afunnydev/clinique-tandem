@@ -23,7 +23,7 @@
 
 				<div class="col-md-8 to_animate" data-animation="scaleAppear">
 
-					<h3 class="module-header">Contactez la clinique Tandem</h3>
+					<h3 class="module-header">{{ .Params.sectiontitle }}</h3>
 
 					<form class="contact-form row columns_margin_bottom_40" method="post" action="/merci" name="formulaire-contact" netlify>
 
@@ -77,7 +77,7 @@
 
 
 					</form>
-					<p style="margin-top: 20px;">La Clinique Tandem est toujours à la recherche de professionnels dynamiques et compétents qui souhaitent se joindre à notre équipe multidisciplinaire. Si vous êtes intéressés, écrivez-nous un courriel à <a href="mailto:info@cliniquetandem.ca">info@cliniquetandem.ca</a>.</p>
+					<p style="margin-top: 20px;">La Clinique Tandem est toujours à la recherche de professionnels dynamiques et compétents qui souhaitent se joindre à notre équipe multidisciplinaire. Si vous êtes intéressés, écrivez-nous un courriel à <a href="mailto:{{ $.Site.Data.settings.email }}">{{ $.Site.Data.settings.email }}</a>.</p>
 				</div>
 
 				<div class="col-md-4 to_animate" data-animation="scaleAppear">

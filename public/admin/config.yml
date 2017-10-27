@@ -252,4 +252,6 @@ collections:
           - {label: "Layout", name: "layout", widget: "hidden", default: "contact"}
           - {label: "Heures d'ouverture", name: "heures", widget: "string"}
           - {label: "Services - Menu déroulant", name: "services", widget: "list"}
+          - {label: "Titre du formulaire", name: "sectiontitle", widget: "string"}
+          - {label: "Description sous le formulaire", name: "sectiondescription", widget: "text"}
           - {label: "Image", name: "image", widget: "image", required: false}
