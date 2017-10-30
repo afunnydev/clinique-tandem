@@ -25,6 +25,7 @@ La formation du psychologue est centrée sur la compréhension du comportement h
 * Obsessions, compulsions
 * Faible estime de soi
 * Gestion des émotions, impulsivité
+* Troubles d’attachement
 * Etc.
 
 ## Pourquoi consulter en psychologie?
