@@ -41,7 +41,7 @@ Plusieurs motifs peuvent amener un parent ou un adolescent à consulter en neuro
 
 Notre équipe de neuropsychologues est formée pour dépister les différents troubles neuropsychologiques et de santé mentale afin de bien départager la source des difficultés de l’enfant et orienter vers les interventions les plus pertinentes.
 
-## Ce que permet l’évaluation neuropsychologique
+## Ce que permet l’évaluation neuropsychologique?
 
 Au terme de l’évaluation neuropsychologique, le parent reçoit un rapport détaillé qui présente l’ensemble des résultats et précise la nature des diagnostics s’il y a lieu. De plus, plusieurs types de recommandations peuvent découler de l’évaluation neuropsychologique telles que:
 
