@@ -26,7 +26,7 @@ travail s’effectue généralement sur le terrain (garderie, école et maison) 
 met à profit l’implication des différentes personnes impliquées dans la vie de
 l’enfant. Pour mener à bien ses interventions, le psychoéducateur procède à
 l’évaluation des capacités d’adaptation de l’enfant, détermine un plan
-d’intervention et assure le suivi de ce dernier auprès des intervenants.
+d’intervention et assure le suivi de ce dernier auprès de l’entourage.
 
 ## Pourquoi consulter en psychoéducation?
 
