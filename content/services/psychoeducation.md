@@ -34,7 +34,7 @@ Plusieurs motifs peuvent conduire à une
 consultation en psychoéducation, parmi ceux-ci :
 
 * Mieux comprendre la source des comportements
-  problématiques de l’enfant et aider à la mise en place des moyens d’interventions à
+  problématiques de l’enfant et aider à la mise en place de moyens d’interventions à
   domicile
 * Intervenir en situation de crise ou dans le cadre
   d’événements de vie difficiles
