@@ -45,7 +45,7 @@ Notre équipe de neuropsychologues est formée pour dépister les différents tr
 ## Ce que permet l’évaluation neuropsychologique
 
 Une fois le processus d’évaluation complétée, le
-parent est invité à une séance bilan au cours de laquelle les principaux
+parent est invité à une rencontre bilan au cours de laquelle les principaux
 résultats sont présentés et la nature des diagnostics précisée, s’il y a
 lieu. Le rapport neuropsychologique est également remis dans le cadre de cette
 rencontre. Plusieurs types de recommandations peuvent découler de l’évaluation neuropsychologique, telles que:
