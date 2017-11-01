@@ -34,7 +34,7 @@ Les raisons pour envisager une consultation en
 neuropsychologie sont nombreuses, parmi celles-ci notons :
 
 * Des difficultés à porter attention/se concentrer en classe ou lors de la période des devoirs.
-* Des inquiétudes au niveau du rendement scolaire
+* Des inquiétudes au niveau du rendement scolaire.
 * Évaluation de l’efficacité d’une médication pour le TDA/H.
 * Des changements observés suite à une commotion cérébrale.
 * La présence de difficultés de comportement (tics, opposition, agressivité, etc.).
