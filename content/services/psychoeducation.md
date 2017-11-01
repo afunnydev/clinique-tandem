@@ -37,7 +37,7 @@ consultation en psychoéducation, parmi ceux-ci :
   problématiques de l’enfant et aider à la mise en place de moyens d’interventions à
   domicile
 * Intervenir en situation de crise ou dans le cadre
-  d’événements de vie difficiles
+  d’événements de vie difficiles (séparation, changement d’école, deuil, etc.)
 * Offrir un complément d’observations à une évaluation
   ou un suivi en cours à la Clinique
 * Soutenir et conseiller le milieu de garde/scolaire ou  le centre jeunesse de l’enfant sur les interventions à privilégier
