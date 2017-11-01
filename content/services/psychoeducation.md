@@ -21,7 +21,7 @@ draft: false
 ## Qu’est-ce que la psychoéducation?
 
 Le psychoéducateur est un professionnel qui œuvre
-auprès des enfants/adolescents avec des difficultés d’adaptation et/ou de comportement. Son
+auprès des enfants/adolescents avec des difficultés d’adaptation et/ou de comportement. Par exemple, il peut être appelé à intervenir auprès des personnes qui présentent un TDA/H, un TSA, un Syndrome de Gilles de la Tourette, des limitations intellectuelles, un manque d’autonomie, etc. Son
 travail s’effectue généralement sur le terrain (garderie, école et maison) et
 met à profit l’implication des différentes personnes impliquées dans la vie de
 l’enfant. Pour mener à bien ses interventions, le psychoéducateur procède à
