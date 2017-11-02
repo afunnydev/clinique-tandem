@@ -30,6 +30,6 @@ La formation du psychologue est centrée sur la compréhension du comportement h
 
 ## Pourquoi consulter en psychologie?
 
-L’enfance et l’adolescence sont des périodes de développement et de changements significatifs qui placent certaines personnes dans une situation de vulnérabilité. Les contextes scolaire, familial et social peuvent être sources de stress pour le jeune et sa famille. Les difficultés de l’enfant/adolescent peuvent se manifester sous la forme d’anxiété, de troubles de l’humeur ou de problèmes de comportements.
+L’enfance, l’adolescence et le début de l’âge adulte sont des périodes de développement et de changements significatifs qui placent certaines personnes dans une situation de vulnérabilité psychologique. L’école, l’environnement familial ou les relations sociales sont parmi les  sources de stress potentiels pour le jeune et sa famille. Les difficultés de l’individu peuvent se manifester, par exemple, sous la forme d’anxiété, de troubles de l’humeur ou de problèmes de comportements.
 
-Les parents se sentent parfois démunis pour venir en aide à leur enfant aux prises avec de telles difficultés ou faisant face à des évènements de vie nouveaux ou difficiles. Les psychologues de la Clinique Tandem sont là pour aider l’enfant et son entourage à mieux comprendre ces manifestations et trouver des stratégies pour parvenir à des changements durables et positifs.
+Les parents se sentent parfois démunis pour venir en aide à leur enfant aux prises avec de telles difficultés ou faisant face à des évènements de vie nouveaux ou difficiles. Les psychologues de la Clinique Tandem sont là pour aider la personne et son entourage à mieux comprendre ces manifestations et trouver des stratégies pour parvenir à des changements durables et positifs.
