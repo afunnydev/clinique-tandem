@@ -68,13 +68,14 @@ equipe:
     titre: Doctorante en psychologie
   - description: >-
       Mme. Lyse Bessette est travailleuse sociale, thérapeute conjugale et
-      familiale et psychothérapeute. Depuis 30 ans, elle œuvre au CIUSSS du Nord
-      de L’Île de Montréal auprès des familles en santé mentale jeunesse. Au fil
-      des ans, Mme. Bessette a développé une expertise pointue dans le domaine
-      de l’évaluation et de la thérapie familiales. Elle en fait d’ailleurs
-      l’enseignement auprès d’autres professionnels depuis 15 ans. À la Clinique
-      Tandem, elle offre des services d’accompagnement parental et familial en
-      lien avec une problématique chez l’enfant.
+      familiale et psychothérapeute. Depuis 30 ans, elle œuvre à l’Hôpital en
+      santé mentale Albert-Prévost du CIUSSS NIM du Nord de L’Île de Montréal
+      auprès des familles en santé mentale jeunesse. Au fil des ans, Mme.
+      Bessette a développé une expertise pointue dans le domaine de l’évaluation
+      et de la thérapie familiales. Elle en fait d’ailleurs l’enseignement
+      auprès d’autres professionnels depuis 15 ans. À la Clinique Tandem, elle
+      offre des services d’accompagnement parental et familial en lien avec une
+      problématique chez l’enfant.
     nom: 'Lyse Bessette, MSc.'
     ordre: 4
     photo: /assets/images/uploads/DSC_7067_Edit_Lyse.jpg
@@ -94,14 +95,15 @@ equipe:
     photo: /assets/images/uploads/Kim.jpg
     titre: Psychoéducatrice
   - description: >-
-      Dre Provencher cumule 30 ans d’expérience en tant que pédopsychiatre au
-      CIUSS du Nord de l’Île de Montréal. Elle travaille actuellement à la
-      Clinique externe des adolescents (14 à 18 ans) du Pavillon Albert-Prévost
-      après avoir longtemps œuvré auprès d’une clientèle âgée de 6 à 13 ans.
-      Elle est également chargée d’enseignement clinique à l’Université de
-      Montréal. À la Clinique Tandem, elle agit comme consultante auprès de
-      l'équipe pour les aspects en lien avec le diagnostic pédopsychiatrique et
-      pour des recommandations pharmacologiques spécifiques au médecin référant.
+      Dre Provencher cumule 30 ans d’expérience en tant que pédopsychiatre à
+      l’Hôpital en santé mentale Albert-Prévost du CIUSS du Nord de l’Île de
+      Montréal. Elle travaille actuellement à la Clinique externe des
+      adolescents (14 à 18 ans) après avoir longtemps œuvré auprès d’une
+      clientèle âgée de 6 à 13 ans. Elle est également chargée d’enseignement
+      clinique à l’Université de Montréal. À la Clinique Tandem, elle agit comme
+      consultante auprès de l'équipe pour les aspects en lien avec le diagnostic
+      pédopsychiatrique et pour des recommandations pharmacologiques spécifiques
+      au médecin référant.
     nom: Dre Anne-Marie Provencher
     ordre: 3
     photo: /assets/images/half/amprovencher.jpg
