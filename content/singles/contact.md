@@ -16,10 +16,14 @@ services:
   - Psychoéducation
   - Évaluation TSA
   - Autres
+sectiontitle: Contactez la Clinique Tandem
+sectiondescription: >-
+  La Clinique Tandem est toujours à la recherche de professionnels dynamiques et
+  compétents qui souhaitent se joindre à notre équipe multidisciplinaire. Si
+  vous êtes intéressés, écrivez-nous un courriel à
 image: null
-sectiontitle: Contactez la clinique Tandem
-sectiondescription: "La Clinique Tandem est toujours à la recherche de professionnels dynamiques et compétents qui souhaitent se joindre à notre équipe multidisciplinaire. Si vous êtes intéressés, écrivez-nous un courriel à"
 ---
+
 
 
 
