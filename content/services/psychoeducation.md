@@ -18,32 +18,26 @@ i18nlanguage: fr
 ordre: 4
 draft: false
 ---
-
 ## Qu’est-ce que la psychoéducation?
 
-La psychoéducation est une discipline qui cherche à trouver des moyens concrets pour permettre à l’enfant et sa famille de mieux s’adapter à un contexte de vie difficile. L’intervention psychoéducative peut être de nature préventive ou rééducative. Elle vise à développer les capacités adaptatives de l’enfant et à rétablir l’équilibre entre celui-ci et son environnement. Le psychoéducateur œuvre généralement dans l’environnement de l’enfant (famille, école, garderie) et s’appuie sur les moments du quotidien pour intervenir.
-
-Le psychoéducateur qui travaille auprès des enfants et des adolescents est souvent appelé à intervenir auprès des parents, car ceux-ci sont les principaux acteurs porteurs de changement. Un travail d’équipe avec le parent et l’enfant est donc grandement privilégié afin de résoudre efficacement les problématiques identifiées. 
-
-La démarche en psychoéducation comprend généralement:
-
-- Évaluation des capacités adaptatives de la personne et de la dynamique familiale via un entretien avec les parents, des observations et des questionnaires ou tests standardisés lorsqu’approprié à la situation.
-- Élaboration d’un plan d’intervention.
-- Application et révision du plan d’intervention à travers des activités éducatives et rééducatives dans le milieu de vie de l’enfant.
+Le psychoéducateur est un professionnel qui œuvre
+auprès des enfants/adolescents avec des difficultés d’adaptation et/ou de comportement. Par exemple, il peut être appelé à intervenir auprès des personnes qui présentent un TDA/H, un TSA, un Syndrome de Gilles de la Tourette, des limitations intellectuelles, un manque d’autonomie, etc. Son
+travail s’effectue généralement sur le terrain (garderie, école et maison) et
+met à profit l’implication des différentes personnes impliquées dans la vie de
+l’enfant. Pour mener à bien ses interventions, le psychoéducateur procède à
+l’évaluation des capacités d’adaptation de l’enfant, détermine un plan
+d’intervention et assure le suivi de ce dernier auprès de l’entourage.
 
 ## Pourquoi consulter en psychoéducation?
 
-Plusieurs situations peuvent amener à faire appel à un psychoéducateur. Il s’agit d’un professionnel capable de soutenir le développement personnel de l’enfant, tout en favorisant une mobilisation des différents acteurs dans son milieu de vie.
+Plusieurs motifs peuvent conduire à une
+consultation en psychoéducation, parmi ceux-ci :
 
-Le psychoéducateur peut venir en aide afin de:
-
-- Mieux comprendre la source des comportements qui nuisent à l’adaptation de l’enfant et ses relations sociales
-- Mieux outiller les parents et l’entourage pour soutenir un enfant qui présente des difficultés au quotidien
-- Appliquer un plan d’intervention et mettre en place des moyens rééducatifs dans les différents milieux de vie
-- Traverser une crise familiale ou retrouver un équilibre suite à une période plus difficile
-
-
-
-
-
-
+* Mieux comprendre la source des comportements
+  problématiques de l’enfant et aider à la mise en place de moyens d’interventions à
+  domicile
+* Intervenir en situation de crise ou dans le cadre
+  d’événements de vie déstabilisants (séparation, changement d’école, deuil, etc.)
+* Offrir un complément d’observations à une évaluation
+  ou un suivi en cours à la Clinique
+* Soutenir et conseiller le milieu de garde/scolaire ou  le centre jeunesse de l’enfant sur les interventions à privilégier

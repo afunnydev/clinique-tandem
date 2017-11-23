@@ -30,10 +30,11 @@ L’évaluation clinique en neuropsychologie vise une compréhension globale du 
 
 ## Pourquoi consulter en neuropsychologie?
 
-Plusieurs motifs peuvent amener un parent ou un adolescent à consulter en neuropsychologie. Parmi ceux-ci notons:
+Les raisons pour envisager une consultation en
+neuropsychologie sont nombreuses, parmi celles-ci notons :
 
-* L’obtention de résultats scolaires qui ne reflètent pas les efforts investis ou le potentiel de l’enfant.
 * Des difficultés à porter attention/se concentrer en classe ou lors de la période des devoirs.
+* Des inquiétudes au niveau du rendement scolaire.
 * Évaluation de l’efficacité d’une médication pour le TDA/H.
 * Des changements observés suite à une commotion cérébrale.
 * La présence de difficultés de comportement (tics, opposition, agressivité, etc.).
@@ -43,12 +44,13 @@ Notre équipe de neuropsychologues est formée pour dépister les différents tr
 
 ## Ce que permet l’évaluation neuropsychologique
 
-Au terme de l’évaluation neuropsychologique, le parent reçoit un rapport détaillé qui présente l’ensemble des résultats et précise la nature des diagnostics si il y a lieu. De plus, plusieurs types de recommandations peuvent découler de l’évaluation neuropsychologique telles que:
+Une fois le processus d’évaluation complétée, le
+parent est invité à une rencontre bilan au cours de laquelle les principaux
+résultats sont présentés et la nature des diagnostics précisée, s’il y a
+lieu. Le rapport neuropsychologique est également remis dans le cadre de cette
+rencontre. Plusieurs types de recommandations peuvent découler de l’évaluation neuropsychologique, telles que:
 
 * Des suggestions pour le plan d’intervention en milieu scolaire afin d’offrir à l’enfant les accommodations nécessaires et orienter les approches pédagogiques.
 * Des conseils éducatifs pour les parents afin d’aider l’enfant dans ses apprentissages et mieux gérer les particularités comportementales et/ou sociales.
 * Des références vers d’autres professionnels de la Clinique Tandem afin d’offrir un complément d’évaluation ou des interventions à l’enfant et sa famille.
 * Des recommandations à l’intention du médecin traitant afin d’orienter ses interventions sur la base d’un diagnostic différentiel.
-
-
-

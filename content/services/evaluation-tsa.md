@@ -15,17 +15,10 @@ i18nlanguage: fr
 ordre: '6'
 draft: false
 ---
-
 ## Évaluation du Trouble du Spectre de l'Autisme
 
 Les neuropsychologues de la Clinique Tandem sont formés pour conduire une évaluation diagnostique du Trouble du Spectre de l’Autisme. Cette démarche clinique est reconnue et s’adresse aux individus de 5 à 25 ans. Elle comprend, notamment :
 
-- Un entretien avec les parents afin d’obtenir des informations au sujet du développement et des comportements actuels de l’enfant.
-- Une évaluation du fonctionnement cognitif et social de l’enfant à l’aide d’outils de dépistage standardisés.
-- Une entrevue de bilan afin de présenter les résultats, discuter des interventions à favoriser et diriger l’enfant et sa famille vers les services appropriés.
-
-
-
-
-
-
+* Un entretien avec les parents afin d’obtenir des informations au sujet du développement et des comportements actuels de l’enfant.
+* Une évaluation du fonctionnement cognitif et social de l’enfant à l’aide d’outils de dépistage standardisés.
+* Une entrevue de bilan afin de présenter les résultats de l’évaluation, discuter des pistes d’interventions à favoriser et diriger l’enfant et sa famille vers les ressources appropriées.
