@@ -1016,48 +1016,39 @@ $window.on('load', function(){
 			var styles = [{"featureType": "administrative","elementType": "labels.text.fill","stylers": [{"color": "#444444"}]},{"featureType": "landscape","elementType": "all","stylers": [{"color": "#f2f2f2"}]},{"featureType": "poi","elementType": "all","stylers": [{"visibility": "off"}]},{"featureType": "road","elementType": "all","stylers": [{"saturation": -100},{"lightness": 45}]},{"featureType": "road.highway","elementType": "all","stylers": [{"visibility": "simplified"}]},{"featureType": "road.arterial","elementType": "labels.icon","stylers": [{"visibility": "off"}]},{"featureType": "transit","elementType": "all","stylers": [{"visibility": "off"}]},{"featureType": "water","elementType": "all","stylers": [{"color": "#91d0cc"},{"visibility": "on"}]}];
 			
 			//map settings
-			var address = $map.data('address') ? $map.data('address') : 'Montréal, QC, Canada';
+			var lat = $map.data('lat');
+			var lng = $map.data('lng');
 			var zoomnb = $map.data('zoom') ? $map.data('zoom') : 14;
 			var markerDescription = $map.find('.map_marker_description').prop('outerHTML');
 
 			//if you do not provide map title inside #map (.page_map) section inside H3 tag - default titile (Map Title) goes here:
 			var markerTitle = $map.find('h3').first().text() ? $map.find('h3').first().text() : 'Map Title';
 			var markerIconSrc = $map.find('.map_marker_icon').first().attr('src');
-
-			//type your address after "address="
-			jQuery.getJSON('https://maps.googleapis.com/maps/api/geocode/json?address=' + address, function(data) {
 				
-				lat = data.results[0].geometry.location.lat;
-				lng = data.results[0].geometry.location.lng;
+			var center = new google.maps.LatLng(lat, lng);
+			var settings = {
+				mapTypeId: google.maps.MapTypeId.ROADMAP,
+				zoom: zoomnb,
+				draggable: true,
+				scrollwheel: false,
+				center: center,
+				styles: styles 
+			};
+			map = new google.maps.Map($map[0], settings);
 
-			}).complete(function(){
-				
-				var center = new google.maps.LatLng(lat, lng);
-				var settings = {
-					mapTypeId: google.maps.MapTypeId.ROADMAP,
-					zoom: zoomnb,
-					draggable: true,
-					scrollwheel: false,
-					center: center,
-					styles: styles 
-				};
-				map = new google.maps.Map($map[0], settings);
+			var marker = new google.maps.Marker({
+				position: center,
+				title: markerTitle,
+				map: map,
+				icon: markerIconSrc,
+			});
 
-				var marker = new google.maps.Marker({
-					position: center,
-					title: markerTitle,
-					map: map,
-					icon: markerIconSrc,
-				});
-
-				var infowindow = new google.maps.InfoWindow({ 
-					content: markerDescription
-				});
-				
-				google.maps.event.addListener(marker, 'click', function() {
-					infowindow.open(map,marker);
-				});
-
+			var infowindow = new google.maps.InfoWindow({ 
+				content: markerDescription
+			});
+			
+			google.maps.event.addListener(marker, 'click', function() {
+				infowindow.open(map,marker);
 			});
 		}); //each
 	}//google map length
