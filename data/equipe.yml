@@ -107,3 +107,18 @@ equipe:
     ordre: 3
     photo: /assets/images/half/amprovencher.jpg
     titre: Pédopsychiatre
+  - description: >-
+      Mme. Gabrielle Lalonde travaille en tant que doctorante en
+      neuropsychologie à la Clinique Tandem. Ses travaux de recherche portent
+      sur l’impact des traumatismes crânio-cérébrales légers à l’âge préscolaire
+      sur la relation parent-enfant. Elle s’est spécialisée auprès d’une
+      clientèle pédiatrique diversifiée dans le cadre de ses internats à
+      l’Hôpital de Montréal pour Enfants ainsi qu’au Centre de Réadaptation
+      Marie-Enfant du CHU Sainte-Justine. Elle a également une formation en
+      traumatologie à l’Hôpital Général de Montréal. Le tout lui confère une
+      expertise clinique pour l’évaluation des troubles neurodéveloppementaux et
+      des séquelles d’atteintes neurologiques.
+    nom: Gabrielle Lalande
+    ordre: '9'
+    photo: /assets/images/uploads/Gabrielle_Final.png
+    titre: Doctorante en neuropsychologie
