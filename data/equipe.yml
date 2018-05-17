@@ -37,7 +37,7 @@ equipe:
       Seni offre des services bilingues d’évaluation neuropsychologique (anglais
       et français).
     nom: Anne G. Seni
-    ordre: 8
+    ordre: '9'
     photo: /assets/images/uploads/Anne.jpg
     titre: Doctorante en neuropsychologie
   - description: >-
@@ -50,7 +50,7 @@ equipe:
       Sacré-Cœur de Montréal. À la Clinique Tandem, Dre Mcnally-Gagnon offre des
       services d’évaluation neuropsychologique. 
     nom: 'Dre Andréane Mcnally-Gagnon, Ph.D'
-    ordre: 6
+    ordre: '7'
     photo: /assets/images/uploads/IMG_8989.JPG
     titre: Neuropsychologue
   - description: >-
@@ -92,7 +92,7 @@ equipe:
       dans les pratiques à mettre en place au quotidien et un rôle-conseil
       auprès des différents milieux de vie de l’enfant (école, garderie).
     nom: 'Kim Boissonneault, MSc.'
-    ordre: 7
+    ordre: '6'
     photo: /assets/images/uploads/Kim.jpg
     titre: Psychoéducatrice
   - description: >-
@@ -105,13 +105,13 @@ equipe:
       consultante auprès de l'équipe pour les aspects en lien avec le diagnostic
       pédopsychiatrique et pour des recommandations pharmacologiques spécifiques
       au médecin référant.
-    nom: Dre Anne-Marie Provencher
+    nom: 'Dre Anne-Marie Provencher, M.D.'
     ordre: 3
     photo: /assets/images/half/amprovencher.jpg
     titre: Pédopsychiatre
   - description: >-
-      Mme Lalonde travaille en tant que doctorante en neuropsychologie à la
-      Clinique Tandem. Ses travaux de recherche portent sur l’impact des
+      Dre Lalonde travaille en tant que doctorante en neuropsychologie à la
+      Clinique Tandem. Ses travaux de recherche ont porté sur l’impact des
       traumatismes crânio-cérébrales légers à l’âge préscolaire sur la relation
       parent-enfant. Elle s’est spécialisée auprès d’une clientèle pédiatrique
       diversifiée dans le cadre de ses internats à l’Hôpital de Montréal pour
@@ -120,7 +120,7 @@ equipe:
       l’Hôpital Général de Montréal. Le tout lui confère une expertise clinique
       pour l’évaluation des troubles neurodéveloppementaux et des séquelles
       d’atteintes neurologiques.
-    nom: Gabrielle Lalonde
-    ordre: '9'
+    nom: 'Dre Gabrielle Lalonde, Ph.D'
+    ordre: '8'
     photo: /assets/images/uploads/Gabrielle_Final.png
     titre: Doctorante en neuropsychologie
