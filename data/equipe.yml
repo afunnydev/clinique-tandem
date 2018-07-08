@@ -77,7 +77,7 @@ equipe:
       d’autres professionnels depuis 15 ans. À la Clinique Tandem, elle offre
       des services d’accompagnement parental et familial en lien avec une
       problématique chez l’enfant.
-    nom: 'Lyse Bessette, MSc.'
+    nom: 'Lyse Bessette, M.Sc'
     ordre: 4
     photo: /assets/images/uploads/DSC_7067_Edit_Lyse.jpg
     titre: Travailleuse sociale
@@ -91,7 +91,7 @@ equipe:
       difficultés développementales et comportementales, du soutien aux parents
       dans les pratiques à mettre en place au quotidien et un rôle-conseil
       auprès des différents milieux de vie de l’enfant (école, garderie).
-    nom: 'Kim Boissonneault, MSc.'
+    nom: 'Kim Boissonneault, M.Sc'
     ordre: '6'
     photo: /assets/images/uploads/Kim.jpg
     titre: Psychoéducatrice
@@ -121,5 +121,12 @@ equipe:
       neurodéveloppementaux et des séquelles d’atteintes neurologiques.
     nom: 'Dre Gabrielle Lalonde, Ph.D'
     ordre: '8'
-    photo: /assets/images/uploads/Gabrielle_Final.png
+    photo: /assets/images/uploads/gabrielle2.jpg
     titre: Neuropsychologue
+  - nom: Charlotte Gagner
+    photo: /assets/images/uploads/charlotte.jpg
+    titre: Doctorante en neuropsychologie
+  - nom: 'Dre Véronique Richard, D.Ps'
+    ordre: '5'
+    photo: /assets/images/uploads/veronique2.jpg
+    titre: Psychologue
