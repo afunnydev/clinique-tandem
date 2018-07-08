@@ -127,5 +127,6 @@ equipe:
     photo: /assets/images/uploads/charlotte.jpg
     titre: Doctorante en neuropsychologie
   - nom: 'Dre Véronique Richard, D.Ps'
+    ordre: '5'
     photo: /assets/images/uploads/veronique2.jpg
     titre: Psychologue
