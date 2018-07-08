@@ -124,6 +124,7 @@ equipe:
     photo: /assets/images/uploads/gabrielle2.jpg
     titre: Neuropsychologue
   - nom: Charlotte Gagner
+    ordre: '11'
     photo: /assets/images/uploads/charlotte.jpg
     titre: Doctorante en neuropsychologie
   - nom: 'Dre Véronique Richard, D.Ps'
