@@ -36,7 +36,7 @@ equipe:
       un large éventail de compétences cliniques. À la Clinique Tandem, Mme.
       Seni offre des services bilingues d’évaluation neuropsychologique (anglais
       et français).
-    nom: Anne G. Seni
+    nom: 'Anne G. Seni, B.Sc'
     ordre: '9'
     photo: /assets/images/uploads/Anne.jpg
     titre: Doctorante en neuropsychologie
@@ -123,11 +123,29 @@ equipe:
     ordre: '8'
     photo: /assets/images/uploads/gabrielle2.jpg
     titre: Neuropsychologue
-  - nom: Charlotte Gagner
+  - description: >-
+      Mme Gagner est doctorante en neuropsychologie à la Clinique Tandem. Elle
+      termine des études doctorales en neuropsychologie clinique à l'Université
+      de Montréal. Ses travaux de recherche portent sur les difficultés
+      comportementales des enfants avec un traumatisme crâni-cérébral en bas
+      âge. Sa formation clinique en pédopsychiatrie à Sacré-Coeur, en neurologie
+      au CHUM et en réadaptation au CRDP-Bouclier lui confère un champ de
+      compétences diversifiées pour l'évaluation des problématiques
+      neuropsychologiques de l'enfance et de l'adolescence.  
+    nom: 'Charlotte Gagner, B.Sc'
     ordre: '11'
     photo: /assets/images/uploads/charlotte.jpg
     titre: Doctorante en neuropsychologie
-  - nom: 'Dre Véronique Richard, D.Ps'
+  - description: >-
+      Dre Richard est psychologue à la Clinique Tandem. Détentrice d’un doctorat
+      en psychologie de l’UQAM, ses travaux de recherche ont porté sur
+      l’implantation d’un programme d’intervention favorisant le développement
+      des interactions sociales et le jeu symbolique chez des enfants ayant un
+      trouble du spectre de l’autisme. Elle possède une vaste expérience
+      clinique en milieu scolaire et en centre de réadaptation auprès d’enfants
+      et d’adolescents (0 à 18 ans) aux prises avec des difficultés de
+      comportement, d’habiletés sociales, de langage et d’anxiété. 
+    nom: 'Dre Véronique Richard, D.Ps'
     ordre: '5'
     photo: /assets/images/uploads/veronique2.jpg
     titre: Psychologue
