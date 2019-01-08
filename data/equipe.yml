@@ -36,8 +36,8 @@ equipe:
       un large éventail de compétences cliniques. À la Clinique Tandem, Mme.
       Seni offre des services bilingues d’évaluation neuropsychologique (anglais
       et français).
-    nom: Anne G. Seni
-    ordre: 8
+    nom: 'Anne G. Seni, B.Sc'
+    ordre: '9'
     photo: /assets/images/uploads/Anne.jpg
     titre: Doctorante en neuropsychologie
   - description: >-
@@ -50,8 +50,8 @@ equipe:
       Sacré-Cœur de Montréal. À la Clinique Tandem, Dre Mcnally-Gagnon offre des
       services d’évaluation neuropsychologique. 
     nom: 'Dre Andréane Mcnally-Gagnon, Ph.D'
-    ordre: 6
-    photo: /assets/images/uploads/IMG_8989.JPG
+    ordre: '7'
+    photo: /assets/images/uploads/AMG_FINAL.jpg
     titre: Neuropsychologue
   - description: >-
       Dre Navarro est détentrice d’un doctorat en psychologie clinique (D.Ps.).
@@ -77,7 +77,7 @@ equipe:
       d’autres professionnels depuis 15 ans. À la Clinique Tandem, elle offre
       des services d’accompagnement parental et familial en lien avec une
       problématique chez l’enfant.
-    nom: 'Lyse Bessette, MSc.'
+    nom: 'Lyse Bessette, M.Sc'
     ordre: 4
     photo: /assets/images/uploads/DSC_7067_Edit_Lyse.jpg
     titre: Travailleuse sociale
@@ -91,8 +91,8 @@ equipe:
       difficultés développementales et comportementales, du soutien aux parents
       dans les pratiques à mettre en place au quotidien et un rôle-conseil
       auprès des différents milieux de vie de l’enfant (école, garderie).
-    nom: 'Kim Boissonneault, MSc.'
-    ordre: 7
+    nom: 'Kim Boissonneault, M.Sc'
+    ordre: '6'
     photo: /assets/images/uploads/Kim.jpg
     titre: Psychoéducatrice
   - description: >-
@@ -105,22 +105,47 @@ equipe:
       consultante auprès de l'équipe pour les aspects en lien avec le diagnostic
       pédopsychiatrique et pour des recommandations pharmacologiques spécifiques
       au médecin référant.
-    nom: Dre Anne-Marie Provencher
+    nom: 'Dre Anne-Marie Provencher, M.D.'
     ordre: 3
     photo: /assets/images/half/amprovencher.jpg
     titre: Pédopsychiatre
   - description: >-
-      Mme Lalonde travaille en tant que doctorante en neuropsychologie à la
-      Clinique Tandem. Ses travaux de recherche portent sur l’impact des
-      traumatismes crânio-cérébrales légers à l’âge préscolaire sur la relation
-      parent-enfant. Elle s’est spécialisée auprès d’une clientèle pédiatrique
-      diversifiée dans le cadre de ses internats à l’Hôpital de Montréal pour
-      Enfants ainsi qu’au Centre de Réadaptation Marie-Enfant du CHU
-      Sainte-Justine. Elle a également une formation en traumatologie à
-      l’Hôpital Général de Montréal. Le tout lui confère une expertise clinique
-      pour l’évaluation des troubles neurodéveloppementaux et des séquelles
-      d’atteintes neurologiques.
-    nom: Gabrielle Lalonde
-    ordre: '9'
-    photo: /assets/images/uploads/Gabrielle_Final.png
+      Dre Lalonde est neuropsychologue à la Clinique Tandem. Ses travaux de
+      recherche ont porté sur l’impact des traumatismes crânio-cérébrales légers
+      à l’âge préscolaire sur la relation parent-enfant. Elle s’est spécialisée
+      auprès d’une clientèle pédiatrique diversifiée dans le cadre de ses
+      internats à l’Hôpital de Montréal pour Enfants ainsi qu’au Centre de
+      Réadaptation Marie-Enfant du CHU Sainte-Justine. Elle a également une
+      formation en traumatologie à l’Hôpital Général de Montréal. Le tout lui
+      confère une expertise clinique pour l’évaluation des troubles
+      neurodéveloppementaux et des séquelles d’atteintes neurologiques.
+    nom: 'Dre Gabrielle Lalonde, Ph.D'
+    ordre: '8'
+    photo: /assets/images/uploads/gabrielle2.jpg
+    titre: Neuropsychologue
+  - description: >-
+      Mme Gagner est doctorante en neuropsychologie à la Clinique Tandem. Elle
+      termine des études doctorales en neuropsychologie clinique à l'Université
+      de Montréal. Ses travaux de recherche portent sur les difficultés
+      comportementales des enfants avec un traumatisme crânio-cérébral en bas
+      âge. Sa formation clinique en pédopsychiatrie à Sacré-Coeur, en neurologie
+      au CHUM et en réadaptation au CRDP-Bouclier lui confère un champ de
+      compétences diversifiées pour l'évaluation des problématiques
+      neuropsychologiques de l'enfance et de l'adolescence.  
+    nom: 'Charlotte Gagner, B.Sc'
+    ordre: '11'
+    photo: /assets/images/uploads/charlotte.jpg
     titre: Doctorante en neuropsychologie
+  - description: >-
+      Dre Richard est psychologue à la Clinique Tandem. Détentrice d’un doctorat
+      en psychologie de l’UQAM, ses travaux de recherche ont porté sur
+      l’implantation d’un programme d’intervention favorisant le développement
+      des interactions sociales et le jeu symbolique chez des enfants ayant un
+      trouble du spectre de l’autisme. Elle possède une vaste expérience
+      clinique en milieu scolaire et en centre de réadaptation auprès d’enfants
+      et d’adolescents (0 à 18 ans) aux prises avec des difficultés de
+      comportement, d’habiletés sociales, de langage et d’anxiété. 
+    nom: 'Dre Véronique Richard, D.Ps'
+    ordre: '5'
+    photo: /assets/images/uploads/veronique2.jpg
+    titre: Psychologue
