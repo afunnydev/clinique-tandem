@@ -1,13 +1,14 @@
 ---
 title: Pédopsychiatrie (enfants et adolescents)
 description: >-
-  La Clinique Tandem à Laval offre pour ses clients et médecins des
-  consultations avec un pédopscychiatre pour des recommandations au sujet de la
-  médication et des avis diagnostiques chez l'enfant et l'adolescent.
+  La Clinique Tandem à Laval compte au sein de son équipe une pédopsychiatre qui
+  agit comme consultante pour les professionnels.
 slug: pedopsychiatrie
 identifiant: pedopsychiatrie
 resume:
-  court: Consultation auprès d'un pédopsychiatre pour une orientation pharmacologique
+  court: >-
+    Pédopsychiatre consultant pour l'équipe de professionnels de la Clinique
+    Tandem
   titre: Pédopsychiatrie
 image: null
 needimage: false
