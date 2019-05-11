@@ -16,7 +16,7 @@ La clinique a été co-fondée par Dr Vincent Chiasson et Dre Nadia Lessard. Ell
 
 ### Pourquoi fonder la clinique?
 
-La Clinique Tandem est née du désir d’offrir un service d’évaluation et d’accompagnement pour les jeunes en difficultés et leurs parents sous une même adresse. Notre équipe multidisciplinaire constituée de neuropsychologues, psychologues, pédopsychiatres, travailleurs sociaux et psychoéducateurs bénéficie d’une formation en santé mentale et travaille ensemble afin d’offrir aux familles un service unique et personnalisée.
+La Clinique Tandem est née du désir d’offrir un service d’évaluation et d’accompagnement pour les jeunes en difficultés et leurs parents sous une même adresse. Notre équipe multidisciplinaire constituée de neuropsychologues, psychologues, pédopsychiatres, travailleurs sociaux et psychoéducateurs bénéficie d’une formation en santé mentale et travaille ensemble afin d’offrir aux familles un service unique et personnalisé.
 
 ### La Clinique Tandem : Un lieu de formation
 
