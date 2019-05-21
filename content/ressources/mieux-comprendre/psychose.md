@@ -5,7 +5,7 @@ description: >-
   schizophrénie et des troubles psychotiques
 slug: psychose
 identifiant: psychose
-titre: Spectre de la schizophrénie et autres troubles psychotiques
+titre: Troubles psychotiques
 image: null
 i18nlanguage: fr
 type: mieuxcomprendre
@@ -74,3 +74,4 @@ Il ne faut surtout pas tarder à consulter lorsqu’un jeune exprime un dysfonct
 * Consommation abusive de drogues
 
 Mentionnons que les symptômes associés aux troubles psychotiques peuvent également apparaître de façon concomitante à d'autres conditions, soit neurodéveloppementale (tels que le TSA) ou de santé mentale (tels que les troubles anxieux ou de l'humeur, les troubles de personnalité, etc.) ou les problèmes de consommation, sans qu'il s'agisse dans tous les cas d'un trouble psychotique comme tel.
+
