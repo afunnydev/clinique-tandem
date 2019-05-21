@@ -5,7 +5,7 @@ description: >-
   schizophrénie et des troubles psychotiques
 slug: psychose
 identifiant: psychose
-titre: Spectre de la schizophrénie et autres troubles psychotiques
+titre: Troubles psychotiques
 image: null
 i18nlanguage: fr
 type: mieuxcomprendre
@@ -13,6 +13,8 @@ ordre: '10'
 noindex: false
 draft: false
 ---
+### Spectre de la schizophrénie et autres troubles psychotiques
+
 Les troubles psychotiques font partie des troubles de santé mentale et touchent environ 3 % de la population. Les troubles psychotiques surviennent le plus souvent à l’adolescence et au début de l’âge adulte (15-25 ans). Ils peuvent passer inaperçus pendant plusieurs mois, voire même plusieurs années avant d’être diagnostiqués. Dans la majorité des cas, le premier épisode psychotique est la manifestation de la schizophrénie, mais peut également être rencontré dans d’autres type de problématiques de santé mentale. On estime que le pronostic à long terme est intimement lié à la durée de la psychose non traitée, d’où l’importance de dépister rapidement et de mettre en place des interventions pour favoriser un meilleur pronostic.
 
 La psychose découle d’un « dysfonctionnement » de certains circuits neuronaux du cerveauqui amène, pendant une période, une altération du contact avec la réalité. Les changements peuvent survenir à différents niveaux :
@@ -45,7 +47,7 @@ La psychose découle d’un « dysfonctionnement » de certains circuits neuron
 * Difficultés de conversation, parle peu, donne peu d’informations
 * Apathie et perte de motivationet/ou de plaisir
 
--**Troubles cognitifs** (ralentissement, manque de tolérance à l’effort, baisse de la vigilance, difficultés d’attention/concentration, de mémoire/oublis fréquents et des troubles exécutifs (s’organiser/planifier/anticiper/autocritique)). Les troubles cognitifssont les premiers symptômes qui apparaissent, et ils sont souvent des précurseurs dans la schizophrénie.Le jeune peut présenter de la difficulté à se concentrer et/ou à maintenir son attention. La mémoire de travail semble être affectée et le jeune présente alors des difficultés à exécuter des tâches quotidiennes ou encore à suivre les consignes en classe. Il peut même éprouver des difficultés dans ces apprentissages notamment ceux nécessitant une bonne mémoire à long terme et les fonctions exécutives (planification, organisation, autocorrection, autocritique, etc.)Le jeune atteint peut avoir beaucoup de difficultés à prendre des décisions, il change souvent d’idées, hésite à prendre des décisions banales et il peut sembler ambivalent voire perplexe.
+-**Troubles cognitifs** (ralentissement, manque de tolérance à l’effort, baisse de la vigilance, difficultés d’attention/concentration, de mémoire/oublis fréquents et des troubles exécutifs (s’organiser/planifier/anticiper/autocritique)). Les troubles cognitifs sont les premiers symptômes qui apparaissent et ils sont souvent des précurseurs dans la schizophrénie. Le jeune peut présenter de la difficulté à se concentrer et/ou à maintenir son attention. La mémoire de travail semble être affectée et le jeune présente alors des difficultés à exécuter des tâches quotidiennes ou encore à suivre les consignes en classe. Il peut même éprouver des difficultés dans ces apprentissages notamment ceux nécessitant une bonne mémoire à long terme et les fonctions exécutives (planification, organisation, autocorrection, autocritique, etc.). Le jeune atteint peut avoir beaucoup de difficultés à prendre des décisions, il change souvent d’idées, hésite à prendre des décisions banales et il peut sembler ambivalent voire perplexe.
 
 Tous ces symptômes peuvent mener à des dysfonctionnements dans les études, le travail et les relations interpersonnelles. Les jeunes atteints ne présentent pas tous les mêmes symptômes et il est rare qu’un jeune présente tous les symptômes au même moment, ce qui rend l’émission d’un diagnostic difficile, particulièrement lorsque les symptômes s’installent à bas bruit.
 
@@ -74,4 +76,3 @@ Il ne faut surtout pas tarder à consulter lorsqu’un jeune exprime un dysfonct
 * Consommation abusive de drogues
 
 Mentionnons que les symptômes associés aux troubles psychotiques peuvent également apparaître de façon concomitante à d'autres conditions, soit neurodéveloppementale (tels que le TSA) ou de santé mentale (tels que les troubles anxieux ou de l'humeur, les troubles de personnalité, etc.) ou les problèmes de consommation, sans qu'il s'agisse dans tous les cas d'un trouble psychotique comme tel.
-
