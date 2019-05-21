@@ -13,6 +13,8 @@ ordre: '10'
 noindex: false
 draft: false
 ---
+### Spectre de la schizophrénie et autres troubles psychotiques
+
 Les troubles psychotiques font partie des troubles de santé mentale et touchent environ 3 % de la population. Les troubles psychotiques surviennent le plus souvent à l’adolescence et au début de l’âge adulte (15-25 ans). Ils peuvent passer inaperçus pendant plusieurs mois, voire même plusieurs années avant d’être diagnostiqués. Dans la majorité des cas, le premier épisode psychotique est la manifestation de la schizophrénie, mais peut également être rencontré dans d’autres type de problématiques de santé mentale. On estime que le pronostic à long terme est intimement lié à la durée de la psychose non traitée, d’où l’importance de dépister rapidement et de mettre en place des interventions pour favoriser un meilleur pronostic.
 
 La psychose découle d’un « dysfonctionnement » de certains circuits neuronaux du cerveauqui amène, pendant une période, une altération du contact avec la réalité. Les changements peuvent survenir à différents niveaux :
@@ -74,4 +76,3 @@ Il ne faut surtout pas tarder à consulter lorsqu’un jeune exprime un dysfonct
 * Consommation abusive de drogues
 
 Mentionnons que les symptômes associés aux troubles psychotiques peuvent également apparaître de façon concomitante à d'autres conditions, soit neurodéveloppementale (tels que le TSA) ou de santé mentale (tels que les troubles anxieux ou de l'humeur, les troubles de personnalité, etc.) ou les problèmes de consommation, sans qu'il s'agisse dans tous les cas d'un trouble psychotique comme tel.
-
