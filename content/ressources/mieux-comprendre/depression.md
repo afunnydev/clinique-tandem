@@ -54,10 +54,9 @@ Dans plusieurs des problématiques vécues durant l’enfance et l’adolescence
 
 D’ailleurs, plusieurs auteurs affirment que l’irritabilité persistante au-delà d’une année chez l’enfant demeure un prédicteur de risque de développer une dépression majeure et/ou un trouble anxieux à l’adolescence. Elle doit donc être sérieusement prise en considération dans les motifs de prises de décision de consulter un professionnel.
 
-D’ailleurs, dans l’objectif d’adresser l’irritabilité chez le jeune enfant, une nouvelle catégorie diagnostique a été intégrée (**Trouble disruptif avec dysrégulation émotionnelle **TDDE) dans le Manuel diagnostique et statistique des troubles mentaux (DSM-5, 2013), dont la différenciation avec les trouble bipolaire, trouble oppositionnel avec provocation (TOP), TDAH et trouble explosif intermittent (TEI) doit être considérée.
+D’ailleurs, dans l’objectif d’adresser l’irritabilité chez le jeune enfant, une nouvelle catégorie diagnostique a été intégrée (**Trouble disruptif avec dysrégulation émotionnelle** TDDE) dans le Manuel diagnostique et statistique des troubles mentaux (DSM-5, 2013), dont la différenciation avec les trouble bipolaire, trouble oppositionnel avec provocation (TOP), TDAH et trouble explosif intermittent (TEI) doit être considérée.
 
-**Trouble disruptif avec dysrégulation émotionnelle (TDDE, en anglais DMDD) représente un trouble où l’irritabilité chronique est le symptôme clé:
-**
+**Trouble disruptif avec dysrégulation émotionnelle (TDDE, en anglais DMDD) représente un trouble où l’irritabilité chronique est le symptôme clé:**
 
 Ces enfants sont aux prises avec une humeur négative et des crises de colère excessives qui parfois n’ont pas de commune mesure avec l’âge et la nature du déclencheur. Les crises d’agressivité sont notoires et révèlent une hypersensibilité face à diverses situations. Il faut préciser que la dimension d’irritabilité est plus importante que les comportements d’opposition, et, est à ne pas confondre avec l’excitabilité souvent associée au TDAH et/ou à l’épisode de manie chez le jeune.
 
