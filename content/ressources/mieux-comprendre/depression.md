@@ -60,7 +60,9 @@ D’ailleurs, dans l’objectif d’adresser l’irritabilité chez le jeune enf
 
 Ces enfants sont aux prises avec une humeur négative et des crises de colère excessives qui parfois n’ont pas de commune mesure avec l’âge et la nature du déclencheur. Les crises d’agressivité sont notoires et révèlent une hypersensibilité face à diverses situations. Il faut préciser que la dimension d’irritabilité est plus importante que les comportements d’opposition, et, est à ne pas confondre avec l’excitabilité souvent associée au TDAH et/ou à l’épisode de manie chez le jeune.
 
-**Trouble disruptif avec dysrégulation émotionnelle (TDDE selon DSM-5, 2016) : **Voici quelques principaux critères (ne sont pas tous inscrits) :
+**Trouble disruptif avec dysrégulation émotionnelle (TDDE selon DSM-5, 2016) :**
+
+Voici quelques principaux critères (ne sont pas tous inscrits) :
 
 1. Crises de colère sévères récurrentes se manifestant verbalement (p.ex. accès de fureur verbale) et/ou dans le comportement (p.ex. agressivité physique envers des personnes ou des objets) qui sont nettement hors de proportion en intensité et en durée avec la situation ou la provocation.
 2. Les crises surviennent, en moyenne, trois fois par semaine ou plus.
