@@ -79,3 +79,8 @@ Ces jeunes enfants peuvent également sembler manquer d’inhibition et réagir 
 Parmi les méthodes reconnues comme très efficaces, mentionnons : la thérapie cognitivo-comportementale; la thérapie interpersonnelle; la thérapie psychodynamique, etc. Une utilisation judicieuse de la médication chez les jeunes peut également s’avérer nécessaire.
 
 Les troubles dépressifs marquent malheureusement l’enfance et l’adolescence : ces jeunes se sentent moins bien, se dévalorisent, n’ont plus d’estime d’eux-mêmes et connaissent des échecs, le tout provoquant une grande détresse, et peuvent ainsi tenter de commettre un geste dévastateur pour eux et leur entourage. Il faut donc dépister de façon précoce et mettre rapidement en place de l’aide visant à améliorer la confiance en soi, les relations et soutenir l’entourage familial. Rappelons que la thérapie est la première mesure à prendre pour traiter la dépression.
+
+Références :
+
+1. Mini DSM-5 Critères diagnostiques, par American Psychiatric Association. (2016). Elsevier Masson SAS.
+2. Diagnostic and statistical manual of mental disorders fifth edition DSM-5TM, American Psychiatric Association. (2013). American Psychiatry Publishing.
