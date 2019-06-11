@@ -1,6 +1,10 @@
 ---
 title: Syndrome de Gilles de la Tourette | Clinique Tandem
-description: ''
+description: >-
+  Le syndrome de Gilles de la Tourette (SGT) est un trouble neurodéveloppemental
+  qui se définit d’abord par la présence de multiples tics moteurs (qui
+  résultent en un ou des mouvements) et un ou plusieurs tics sonores (qui font
+  du bruit, comme des verbalisations).
 slug: syndrome-gilles-tourette
 identifiant: syndrome-gilles-tourette
 titre: Syndrome de Gilles de la Tourette
@@ -45,19 +49,13 @@ Bien que les tics puissent être momentanément retenus, ceci demande beaucoup d
 
 Les tics sont au cœur de la problématique du SGT. Par contre, le SGT est fréquemment accompagné d’autres troubles ou difficultés qui lui sont associées. En effet, le SGT peut être envisagé comme faisant partie d’un spectre de plusieurs manifestations d’une condition neurologique sous-jacente. Il peut aussi être en relation avec d’autres conditions neurodéveloppementales ou de santé mentale. Parmi les difficultés fréquemment rencontrées chez les enfants et adolescents aux prises avec un SGT, il y a :
 
-- Déficit de l’attention/hyperactivité (TDAH);
-
-- Présence d’anxiété ou d’un trouble anxieux;
-
-- Présence d’obsessions/compulsions (TOC) ou de traits associés;
-
-- Comportements d’opposition/provocation (TOP);
-
-- Difficultés de régulation émotionnelle et des crises de colères explosives;
-
-- Troubles des apprentissages;
-
-- Problèmes de sommeil, etc.
+* Déficit de l’attention/hyperactivité (TDAH);
+* Présence d’anxiété ou d’un trouble anxieux;
+* Présence d’obsessions/compulsions (TOC) ou de traits associés;
+* Comportements d’opposition/provocation (TOP);
+* Difficultés de régulation émotionnelle et des crises de colères explosives;
+* Troubles des apprentissages;
+* Problèmes de sommeil, etc.
 
 Les troubles concomitants viennent parfois exacerber la fréquence et l’intensité de certains tics, et dans certains cas, ils sont davantage à l’origine des dysfonctionnements de l’enfant ou de l’adolescent que les tics eux-mêmes, d’où la nécessité de bien les dépister.
 
