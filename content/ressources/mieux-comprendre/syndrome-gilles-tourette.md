@@ -49,7 +49,7 @@ Bien que les tics puissent être momentanément retenus, ceci demande beaucoup d
 
 Les tics sont au cœur de la problématique du SGT. Par contre, le SGT est fréquemment accompagné d’autres troubles ou difficultés qui lui sont associées. En effet, le SGT peut être envisagé comme faisant partie d’un spectre de plusieurs manifestations d’une condition neurologique sous-jacente. Il peut aussi être en relation avec d’autres conditions neurodéveloppementales ou de santé mentale. Parmi les difficultés fréquemment rencontrées chez les enfants et adolescents aux prises avec un SGT, il y a :
 
-* Déficit de l’attention/hyperactivité (TDAH);
+* [Déficit de l’attention/hyperactivité](https://www.cliniquetandem.ca/ressources/mieux-comprendre/tda-h/) (TDAH);
 * Présence d’anxiété ou d’un trouble anxieux;
 * Présence d’obsessions/compulsions (TOC) ou de traits associés;
 * Comportements d’opposition/provocation (TOP);
