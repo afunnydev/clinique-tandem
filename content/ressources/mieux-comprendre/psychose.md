@@ -35,7 +35,7 @@ La psychose découle d’un « dysfonctionnement » de certains circuits neuron
 
 -**Les hallucinations visuelles** peuvent être perçues comme des visions, des distorsions de la réalité, des illusions, des apparitions soudaines, des scènes plaisantes, mais plus communément désagréables. Elles peuvent apparaître également comme une impression de rêve, de déjà-vus.
 
--**Troubles de la pensée **: Ils peuvent se manifester sous forme d’idées décousues voire parfois des propos incohérents dans le discours et en conversation. La personne peut ne pas répondre, sembler absente, faire du coq à l’âne, et ce, sans percevoir l’incompréhension de son interlocuteur, etc.
+-\*\*Troubles de la pensée \*\*: Ils peuvent se manifester sous forme d’idées décousues voire parfois des propos incohérents dans le discours et en conversation. La personne peut ne pas répondre, sembler absente, faire du coq à l’âne, et ce, sans percevoir l’incompréhension de son interlocuteur, etc.
 
 -**Comportements grossièrement désorganisés ou catatoniques**: Peuvent sembler des gestes et des actions « bizarres » ou sans but précis ou encore qui vont à l’encontre de ses propres valeurs. Il peut arriver que le jeune devienne hostile et irritable lorsque confronté à ses comportements étranges ou lors de l’émission de ceux-ci. Souvent, les proches auront l’impression de ne pas reconnaître le jeune.
 
@@ -62,10 +62,10 @@ Il ne faut surtout pas tarder à consulter lorsqu’un jeune exprime un dysfonct
 **Voici quelques signaux d’alerte d’un trouble psychotique** **:**
 
 * Présence d’hallucinations (auditives, visuelles, tactiles, olfactives, etc.)
-* Fausses croyances ou idées bizarres qui ne font pas de sens,
+* Fausses croyances ou idées bizarres qui ne font pas de sens
 * Se sent persécuté et préoccupations exagérées
 * Changements dans le comportement qui peuvent paraître étranges/bizarres
-* Se parle à lui-même et argumenter de nouvelles croyances
+* Se parle à lui-même et argumente de nouvelles croyances
 * Colère sans raison apparente, irritable, tendu, déprimé
 * Jeune qui devient retiré, ne socialise plus, abandon des activités sociales
 * Négligence de l’hygiène et de l’habillement
