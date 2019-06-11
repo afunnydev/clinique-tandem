@@ -29,13 +29,13 @@ La psychose découle d’un « dysfonctionnement » de certains circuits neuron
 
 -**Idées délirantes** : Les idées délirantes sont des erreurs de jugement et de raisonnement qui mènent à de fausses croyances : s’imaginer que la personne qui nous regarde dans l’autobus ou qui nous croise dans la rue nous surveille, nous critique; être convaincu d’avoir le pouvoir d’influencer les personnes et/ou les événements, d’être contrôlé par une force/présence ou qu’on peut lire dans nos propres pensées et/ou celles des autres, etc. La distinction entre une idée délirante et une idée fixe est parfois difficile à faire et dépend du degré de conviction avec lequel la croyance est contradictoire aux preuves de la réalité. Les idées délirantes ne peuvent être ébranlables par la raison.
 
--**Hallucinations** : Les hallucinations sont de fausses perceptions de toutes sortes qui touchent un ou plusieurs sens. Elles peuvent apparaître dans toutes les modalités Les plus connues sont :
+-**Hallucinations** : Les hallucinations sont de fausses perceptions de toutes sortes qui touchent un ou plusieurs sens. Elles peuvent apparaître dans toutes les modalités. Les plus connues sont :
 
 -**Les hallucinations auditives** représentent la forme la plus commune d'hallucinations. Elles peuvent être perçues comme des voix, familières ou non, des sons, des tintements ou encore comme des paroles/discours qui vont tourmenter le jeune, d’autant plus qu’elles peuvent paraître distinctes du discours interne de la personne. Elles transmettent des ordres, des menaces ou des injures (ex. : entendre une voix qui fait des commentaires sur nos choix ou profane des insultes). Le jeune qui vit des hallucinations auditives aura tendance à dialoguer et/ou argumenter avec ces voix et elles entraveront très souvent son fonctionnement.
 
 -**Les hallucinations visuelles** peuvent être perçues comme des visions, des distorsions de la réalité, des illusions, des apparitions soudaines, des scènes plaisantes, mais plus communément désagréables. Elles peuvent apparaître également comme une impression de rêve, de déjà-vus.
 
--\*\*Troubles de la pensée \*\*: Ils peuvent se manifester sous forme d’idées décousues voire parfois des propos incohérents dans le discours et en conversation. La personne peut ne pas répondre, sembler absente, faire du coq à l’âne, et ce, sans percevoir l’incompréhension de son interlocuteur, etc.
+-**Troubles de la pensée** : Ils peuvent se manifester sous forme d’idées décousues voire parfois des propos incohérents dans le discours et en conversation. La personne peut ne pas répondre, sembler absente, faire du coq à l’âne, et ce, sans percevoir l’incompréhension de son interlocuteur, etc.
 
 -**Comportements grossièrement désorganisés ou catatoniques**: Peuvent sembler des gestes et des actions « bizarres » ou sans but précis ou encore qui vont à l’encontre de ses propres valeurs. Il peut arriver que le jeune devienne hostile et irritable lorsque confronté à ses comportements étranges ou lors de l’émission de ceux-ci. Souvent, les proches auront l’impression de ne pas reconnaître le jeune.
 
