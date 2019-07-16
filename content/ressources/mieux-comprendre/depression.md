@@ -13,9 +13,9 @@ draft: false
 ---
 ### Troubles dépressifs
 
-Les troubles dépressifs font parties des troubles de santé mentale rencontrés aussi bien chez les enfants/adolescents que chez les adultes. Ils sont le résultatde dysfonctions dans les réseaux de communication du cerveau, particulièrement ceux qui touchent à la sérotonine.Ils sont souvent caractérisés par la présence d’une humeur dépressive, triste, irritable ou un sentiment de « vide » sans espoir accompagnée également de symptômes physiques et cognitifs, altérant significativement le fonctionnement du jeune.
+Les troubles dépressifs font partie des troubles de santé mentale rencontrés aussi bien chez les enfants/adolescents que chez les adultes. Ils sont le résultat de dysfonctions dans les réseaux de communication du cerveau, particulièrement ceux qui touchent à la sérotonine. Ils sont souvent caractérisés par la présence d’une humeur dépressive, triste, irritable ou un sentiment de « vide » sans espoir accompagnée également de symptômes physiques et cognitifs, altérant significativement le fonctionnement du jeune.
 
-**Les troubles dépressifs peuvent prendre plusieurs formes selon leur apparition, la durée, et la cause présumée. Ils incluent les troubles principaux suivants :**
+**Les troubles dépressifs peuvent prendre plusieurs formes selon leur apparition, la durée et la cause présumée. Ils incluent les troubles principaux suivants :**
 
 * Trouble disruptif avec dysrégulation émotionnelle
 * Trouble dépressif caractérisé (majeur)
@@ -24,7 +24,7 @@ Les troubles dépressifs font parties des troubles de santé mentale rencontrés
 * Trouble dépressif induit par une substance/un médicament
 * Trouble dépressif lié à une condition médicale autre
 
-Souvent les des troubles dépressifs (caractérisé et persistant), sont accompagnés d’une détresse anxieuse (selon le DSM-5), i.e. qu’ils ressentent un ou plusieurs symptômes anxieux tels que :
+Souvent les  troubles dépressifs (caractérisé et persistant), sont accompagnés d’une détresse anxieuse (selon le DSM-5), c’est-à-dire que la personne ressent un ou plusieurs symptômes anxieux tels que :
 
 1. Sentiment d’énervement ou de tension
 2. Sentiment d’agitation inhabituel
@@ -34,7 +34,7 @@ Souvent les des troubles dépressifs (caractérisé et persistant), sont accompa
 
 **Trouble dépressif caractérisé (dépression majeure)**
 
-Le trouble dépressif caractérisé représente la forme la plus classique. Ce trouble se révèle par la présence soit d’une humeur dépressive ou soit par une perte d’intérêt ou de plaisir, où peuvent se greffer au moins quatre autres symptômes, depuis une période de plus de deux semaines, qui marquent un changement par rapport au fonctionnement antérieur selon le Manuel diagnostique et statistique des troubles mentaux (DSM-5, 2016) :
+Le trouble dépressif caractérisé représente la forme la plus classique. Ce trouble se révèle par la présence soit d’une humeur dépressive ou soit par une perte d’intérêt ou de plaisir, où peuvent se greffer au moins quatre autres symptômes, depuis une période de plus de deux semaines. Ces symptômes marquent un changement par rapport au fonctionnement antérieur selon le Manuel diagnostique et statistique des troubles mentaux (DSM-5, 2016) :
 
 * Perte ou gain de poids
 * Insomnie ou hypersomnie
@@ -44,7 +44,7 @@ Le trouble dépressif caractérisé représente la forme la plus classique. Ce t
 * Diminution de l’aptitude à penser ou à se concentrer
 * Pensées suicidaires, tentative de suicide
 
-Évidemment, les symptômes associés aux troubles dépressifs induisent une détresse significative ou une altération du fonctionnement dans plusieurs domaines de la vie quotidienne, social, scolaire, travail, etc.
+Évidemment, les symptômes associés aux troubles dépressifs induisent une détresse significative ou une altération du fonctionnement dans plusieurs domaines de la vie quotidienne tels que sur les sphères sociale, scolaire et du travail.
 
 Le dépistage des signes de dépression chez les jeunes enfants et les adolescents demeurent néanmoins un défi, puisqu’ils sont souvent masqués par l’apparition de comportements qui semblent coïncider avec la puberté ou vus comme des pertes de contrôle en lien avec ce que vit le jeune. Chez l’enfant, ils peuvent même se présenter par une accentuation de l’anxiété de séparation.
 
@@ -58,7 +58,7 @@ D’ailleurs, dans l’objectif d’adresser l’irritabilité chez le jeune enf
 
 **Trouble disruptif avec dysrégulation émotionnelle (TDDE, en anglais DMDD) représente un trouble où l’irritabilité chronique est le symptôme clé:**
 
-Ces enfants sont aux prises avec une humeur négative et des crises de colère excessives qui parfois n’ont pas de commune mesure avec l’âge et la nature du déclencheur. Les crises d’agressivité sont notoires et révèlent une hypersensibilité face à diverses situations. Il faut préciser que la dimension d’irritabilité est plus importante que les comportements d’opposition, et, est à ne pas confondre avec l’excitabilité souvent associée au TDAH et/ou à l’épisode de manie chez le jeune.
+Ces enfants sont aux prises avec une humeur négative et des crises de colère excessives qui parfois n’ont pas de commune mesure avec l’âge et la nature du déclencheur. Les crises d’agressivité sont notoires et révèlent une hypersensibilité face à diverses situations. Il faut préciser que la dimension d’irritabilité est plus importante que les comportements d’opposition, et, est à ne pas confondre avec l’excitabilité souvent associée au TDAH et/ou à l’épisode de manie chez un jeune.
 
 **Trouble disruptif avec dysrégulation émotionnelle (TDDE selon DSM-5, 2016) :**
 
@@ -70,9 +70,9 @@ Voici quelques principaux critères (ne sont pas tous inscrits) :
 4. Diagnostic ne doit pas être porté pour la première fois avant l’âge de 6 ans ou après l’âge de 18 ans.
 5. D’après l’anamnèse ou l’observation, l’âge de début des critères est inférieur à 10 ans.
 
-Les enfants aux prises avec un TDDE peuvent également présenter certains déficits cognitifs, entre autres, un déficit de flexibilité cognitive qui les rend donc plus susceptibles de ressentir de la frustration et de faire preuve d’irritabilité et de comportements agressifs en raison d’une rigidité cognitive récente et/ou persistante.
+Les enfants aux prises avec un TDDE peuvent également présenter certains déficits cognitifs, entre autres, un déficit de flexibilité cognitive qui les rend  plus susceptibles de ressentir de la frustration et de faire preuve d’irritabilité et de comportements agressifs en raison d’une rigidité cognitive récente et/ou persistante.
 
-Ces jeunes enfants peuvent également sembler manquer d’inhibition et réagir de façon impulsive tel qu’en présence d’un TDAH. Ainsi, la distinction TDDE et TDAH peut être parfois délicate, mais il faut savoir que l’irritabilité n’est pas un symptôme du TDAH. Le TDDE se fonde sur des symptômes thymiques (en lien avec l’humeur) contrairement au TDAH. De plus, il est souvent rencontré un pré-diagnostic de trouble oppositionnel avec provocation (TOP) avant la précision du diagnostic de TDDE. En plus, le TDDE peut se présenter de façon comorbide au TDAH et aux troubles anxieux en bas-âge. Certains enfants vont également avoir un diagnostic de trouble de dépression majeure.
+Ces  enfants peuvent également sembler manquer d’inhibition et réagir de façon impulsive tel qu’en présence d’un TDAH. Ainsi, la distinction TDDE et TDAH peut être parfois délicate, mais il faut savoir que l’irritabilité n’est pas un symptôme du TDAH. Le TDDE se fonde sur des symptômes thymiques (en lien avec l’humeur) contrairement au TDAH. De plus, il est souvent rencontré un pré-diagnostic de trouble oppositionnel avec provocation (TOP) avant la précision du diagnostic de TDDE. En plus, le TDDE peut se présenter de façon comorbide au TDAH et aux troubles anxieux en bas-âge. Certains enfants vont également avoir un diagnostic de trouble de dépression majeure.
 
 **Pistes d’intervention à prioriser dans les troubles dépressifs :**
 
