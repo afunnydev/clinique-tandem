@@ -14,7 +14,7 @@ ordre: 4
 noindex: false
 draft: false
 ---
-## Les troubles d’apprentissages sont des conditions d’origine neurologique qui entravent les capacités cognitives responsables du développement de diverses compétences académiques.
+### Les troubles d’apprentissages sont des conditions d’origine neurologique qui entravent les capacités cognitives responsables du développement de diverses compétences académiques.
 
 **Les troubles spécifiques des apprentissages**
 
@@ -71,3 +71,4 @@ Références :
 
 1. Mini DSM-5 Critères diagnostiques, par American Psychiatric Association. (2016). Elsevier Masson SAS.
 2. Diagnostic and statistical manual of mental disorders fifth edition DSM-5TM, American Psychiatric Association. (2013). American Psychiatry Publishing.
+
