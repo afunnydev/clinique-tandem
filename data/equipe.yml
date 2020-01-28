@@ -23,7 +23,7 @@ equipe:
       un large éventail de compétences cliniques. À la Clinique Tandem, Mme.
       Seni offre des services bilingues d’évaluation neuropsychologique (anglais
       et français).
-    nom: 'Dre Anne G. Seni, Ph.D.'
+    nom: 'Dre Anne G. Seni, Ph.D'
     ordre: '9'
     photo: /assets/images/uploads/Anne.jpg
     titre: Doctorante en neuropsychologie
@@ -178,20 +178,17 @@ equipe:
     photo: /assets/images/uploads/Marta_Final.png
     titre: Doctorante en neuropsychologie
   - description: >-
-      Madame Hélène Audrit est doctorante en neuropsychologie à la Clinique
-      Tandem. Elle termine ses études doctorales en neuropsychologie à
+      Mme Hélène Audrit est doctorante en neuropsychologie à la Clinique Tandem.
+      Elle termine ses études doctorales en neuropsychologie clinique à
       l'Université de Montréal. Ses travaux de recherche portent sur le
-      développement d'un programme de psychoéducation destiné aux personnes
-      ayant subi une commotion cérébrale et visant la réadaptation du sommeil,
-      de l'attention et des troubles anxieux et de l’humeur. Sa formation
-      clinique en pédopsychiatrie à l'Hôpital en santé mentale Albert Prévost du
-      CIUSSS du NIM, en neurologie au CHUM et dans différents milieux de
-      réadaptation (IRGLM, Centre de Traumatologie et Réadaptation de
-      Bruxelles), tout comme ses expériences de recherche, notamment au CHU
-      Ste-Justine, lui confèrent un large éventail de compétences cliniques pour
-      l'évaluation des problématiques neurodéveloppementales de l'enfance et de
-      l'adolescence.
-    nom: Hélène Audrit
+      développement d'une intervention de psycho-éducation destinée aux
+      personnes ayant subi une commotion cérébrale. Sa formation clinique en
+      pédopsychiatrie à l'Hôpital Sacré-Coeur, en neurologie au CHUM et dans
+      différents milieux de réadaptation (IRGLM, CTR en Belgique), tout comme
+      ses expériences de recherche au CHU Ste-Justine, lui confèrent un large
+      éventail de compétences cliniques pour l'évaluation des problématiques
+      neuropsychologiques de l'enfance et l'adolescence.
+    nom: 'Hélène Audrit, M.Sc'
     ordre: '15'
     photo: /assets/images/uploads/Helene_final.jpg
     titre: Doctorante en neuropsychologie
@@ -206,7 +203,7 @@ equipe:
       de l’Hôpital en santé mentale Rivière-Des-Prairies du CIUSSS NIM, où elle
       offre des services à des jeunes présentant différentes problématiques,
       notamment des troubles anxieux et de l’humeur.
-    nom: Dorothée Charest-Belzile
+    nom: 'Dorothée Charest-Belzile, B.Sc'
     ordre: '16'
     photo: /assets/images/uploads/Dorothée_Final.jpg
     titre: Doctorante en psychologie
