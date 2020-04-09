@@ -25,7 +25,6 @@ image: null
 #### Camp de jour et maison de répit
 
 * [GYMNO](http://www.gymno.org)
-* [Répit chez Julie](http://www.repitchezjulie.com/)
 * [Les répits de Gaby](http://www.repitsdegaby.com/)
 * [Répit TED-Autisme Montérégie](http://www.repit-ted-autisme.qc.ca)
 * [La maison Kangourou](http://www.lamaisonkangourou.org)
@@ -53,6 +52,7 @@ image: null
 * [Association Québécoise des Neuropsychologues du Québec](https://aqnp.ca/)
 * [Ordre des psychologues du Québec](https://www.ordrepsy.qc.ca/)
 * [Ordre des psychoéducateurs du Québec](http://www.ordrepsed.qc.ca/)
+* [Association des Orthopédagogues du Québec](https://www.ladoq.ca/)
 
 #### Psychose
 
