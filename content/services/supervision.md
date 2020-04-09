@@ -6,12 +6,12 @@ description: La Clinique Tandem à Laval offre des séances de supervision
 slug: supervision
 identifiant: supervision
 resume:
-  titre: Supervision individuelle et de groupe
+  titre: Supervision
   court: Supervision en neuropsychologie, psychothérapie et thérapie familiale
 needimage: false
 i18nlanguage: fr
 removebutton: false
-ordre: 3
+ordre: 8
 noindex: false
 draft: false
 ---
