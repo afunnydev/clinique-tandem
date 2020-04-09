@@ -1,9 +1,8 @@
 ---
 title: Psychologie
-description: >-
-  La Clinique Tandem à Laval offre des services d'évaluation et d'interventions
-  en psychologie (psychothérapie) pour les enfants, les adolescents et les
-  jeunes adultes (5 à 25 ans).
+description: La Clinique Tandem à Laval offre des services d'évaluation et
+  d'interventions en psychologie (psychothérapie) pour les enfants, les
+  adolescents et les jeunes adultes (5 à 25 ans).
 slug: psychologie
 identifiant: psychologie
 resume:
@@ -17,18 +16,17 @@ draft: false
 ---
 ## Qu’est-ce que la psychologie?
 
-Le psychologue est formé afin d’évaluer le
-fonctionnement psychologique et la santé mentale de l’individu, et d’intervenir
+Le psychologue est formé afin d’évaluer le fonctionnement psychologique et la santé mentale de l’individu, et d’intervenir
 de façon à promouvoir le mieux-être de celui-ci. Nos psychologues sont habiletés à pratiquer la psychothérapie, une démarche qui a pour but de favoriser auprès de la personne des changements dans son fonctionnement cognitif, émotionnel ou comportemental, son système interpersonnel, sa personnalité ou son état de santé mentale. Ainsi, nos psychologues peuvent évaluer et intervenir auprès d’individus qui présentent des problématiques ou des enjeux tels que:
 
-* Humeur dépressive, discours suicidaire
-* Anxiété (ex. : inquiétudes, phobies, attaques de panique)
-* Difficultés d’adaptation
-* Obsessions, compulsions
-* Faible estime de soi
-* Gestion des émotions, impulsivité
-* Troubles d’attachement
-* Difficultés relationnelles
+* Humeur dépressive, discours suicidaire.
+* Anxiété (ex. : inquiétudes, phobies, attaques de panique).
+* Difficultés d’adaptation.
+* Obsessions, compulsions.
+* Faible estime de soi.
+* Gestion des émotions, impulsivité.
+* Troubles d’attachement.
+* Difficultés relationnelles.
 * Etc.
 
 ## Pourquoi consulter en psychologie?
