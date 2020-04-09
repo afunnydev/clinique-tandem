@@ -16,13 +16,11 @@ draft: false
 ---
 ## Qu’est-ce que la thérapie familiale?
 
-De nombreuses difficultés peuvent perturber la dynamiques familiale : deuils, maladie, problème de santé mentale, troubles du comportement, etc. Quelle que soit la nature de ces difficultés, le système familial peut s’en trouver affecté. La thérapie familiale s’adresse à l’ensemble de la famille afin de permettre à chacun de s’épanouir et retrouver le plaisir de vivre ensemble. Les séances se déroulent en terrain neutre ce qui permet à chaque personne d’exprimer ses émotions et partager ses perceptions.
+De nombreuses difficultés peuvent perturber la dynamique familiale : deuils, maladie, problème de santé mentale, troubles du comportement, etc. Quelle que soit la nature de ces difficultés, le système familial peut s’en trouver affecté. L'intervention auprès de la famille s’adresse à tous les membres de la famille afin de permettre à chacun de s’épanouir et retrouver le plaisir de vivre ensemble. Les séances se déroulent en terrain neutre ce qui permet à chaque personne d’exprimer ses émotions et partager ses perceptions.
 
-Les consultations en thérapie familiale sont offertes par une travailleuse sociale qui possède une formation spécialisée dans ce domaine et qui détient un permis de psychothérapeute octroyé par l’OPQ. Elle pratique depuis plus de 25 ans auprès des familles en pédopsychiatrie et elle y enseigne la thérapie conjugale et familiale. Le déroulement des séances est généralement comme suit:
+L’intervention de couple adresse les défis liés au cycle de vie; naissance des enfants, redéfinition des rôles de chacun, la cohérence parentale, le maintien d’un espace « couple ». Le travail thérapeutique auprès des couples permet de prendre un recul et de travailler à un nouvel équilibre en respectant les besoins de chacun.
 
-* Évaluation de la dynamique et du fonctionnement de la famille.
-* Rédaction d’un rapport.
-* Séances ponctuelles de thérapie familiale.
+Les consultations en thérapie familiale et de couple sont offertes par une travailleuse sociale qui possède une formation spécialisée dans ce domaine et qui détient un permis de psychothérapeute octroyé par l’OPQ. Elle pratique depuis plus de 30 ans auprès des familles en pédopsychiatrie et elle y enseigne la thérapie conjugale et familiale. 
 
 ## Pourquoi consulter en thérapie familiale
 
@@ -32,6 +30,6 @@ La thérapie familiale s’adresse à tous les types de famille (monoparentale, 
 * Conflits en contexte de famille recomposée.
 * Rivalité ou conflits dans la fratrie.
 * Maladie ou deuil.
-* Échecs scolaires.
+* Difficultés conjugales.
 * Cheminement suite à un diagnostic.
 * Etc.
