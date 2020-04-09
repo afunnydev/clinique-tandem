@@ -17,4 +17,4 @@ draft: false
 ---
 ## Supervision offerte à la Clinique Tandem
 
-Des séances de supervision en neuropsychologie, psychothérapie ou thérapie familiale sont offertes aux professionnels oeuvrant en cabinet privé ou dans le secteur public (ex. : milieu hospitalier, CLSC). Ces séances peuvent être données en individuel ou en groupe selon les besoins du/des supervisé(s)
+Des séances de supervision en neuropsychologie, psychothérapie ou thérapie familiale sont offertes aux professionnels oeuvrant en cabinet privé ou dans le secteur public (ex. : milieu hospitalier, CLSC). Ces séances peuvent être données en individuel ou en groupe selon les besoins du/des supervisé(s).
