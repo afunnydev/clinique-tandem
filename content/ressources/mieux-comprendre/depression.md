@@ -1,6 +1,9 @@
 ---
 title: Dépression | Clinique Tandem
-description: ''
+description: Les troubles dépressifs font partie des troubles de santé mentale
+  rencontrés aussi bien chez les enfants/adolescents que chez les adultes. Ils
+  sont le résultat de dysfonctions dans les réseaux de communication du cerveau,
+  particulièrement ceux qui touchent à la sérotonine.
 slug: depression
 identifiant: depression
 titre: Dépression
@@ -8,7 +11,7 @@ image: null
 i18nlanguage: fr
 type: mieuxcomprendre
 ordre: 2
-noindex: true
+noindex: false
 draft: false
 ---
 ### Troubles dépressifs
