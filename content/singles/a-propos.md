@@ -11,7 +11,7 @@ image: null
 ---
 #### La Clinique Tandem est un centre spécialisé dans l’évaluation et le traitement des enfants et adolescents aux prises avec des difficultés scolaires ainsi que des problématiques comportementales et émotionnelles.
 
-La Clinique Tandem est dirigée par Dre Lessard, neuropsychologue-psychothérapeute œuvrant dans le domaine de la pédopsychiatrie et possédant une expertise pointue dans l’évaluation des problématiques neurodéveloppementales complexes et de santé mentale. La clinique a été cofondée en 2017 par Dre Nadia Lessard et Dr Vincent Chiasson, tous deux neuropsychologues pédiatriques.
+La Clinique Tandem est dirigée par Dre Lessard, neuropsychologue-psychothérapeute œuvrant dans le domaine de la pédopsychiatrie et possédant une expertise pointue dans l’évaluation des problématiques neurodéveloppementales complexes et de santé mentale. La clinique a été co-fondée en 2017 par Dre Nadia Lessard et Dr Vincent Chiasson, tous deux neuropsychologues pédiatriques.
 
 ### Pourquoi fonder la clinique?
 
