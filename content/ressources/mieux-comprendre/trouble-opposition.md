@@ -24,9 +24,9 @@ Or, certains enfants et adolescents peuvent présenter des comportements d’opp
 
 Plus précisément, selon le Manuel diagnostique et statistique des troubles mentaux (DMS-5), le TOP représente un ensemble de manifestations en lien avec : 
 
-1. Une humeur colérique/irritable, soit un enfant qui se met souvent en colère, qui est souvent susceptible ou facilement agacé par les autres.
-2. Un comportement querelleur/provocateur, soit un enfant qui conteste souvent ce que disent les adultes, qui s’oppose souvent activement ou qui refuse de se plier aux règles, qui embête souvent les autres délibérément et qui fait souvent porter à autrui la responsabilité de sa mauvaise conduite.
-3. Un esprit vindicatif, soit un enfant qui peut se montrer méchant.
+* Une humeur colérique/irritable, soit un enfant qui se met souvent en colère, qui est souvent susceptible ou facilement agacé par les autres.
+* Un comportement querelleur/provocateur, soit un enfant qui conteste souvent ce que disent les adultes, qui s’oppose souvent activement ou qui refuse de se plier aux règles, qui embête souvent les autres délibérément et qui fait souvent porter à autrui la responsabilité de sa mauvaise conduite.
+* Un esprit vindicatif, soit un enfant qui peut se montrer méchant.
 
 Certaines conditions neurodéveloppementales (ex. : TDAH, syndrome Gilles de la Tourette, etc.) ou de santé mentale (ex. : problématiques reliées à l'attachement, troubles anxieux, etc.) peuvent prédisposer un enfant à présenter des problèmes de comportement, en l’occurrence des comportements d’opposition. Par conséquent, le TOP peut souvent coexister avec de telles problématiques. En revanche, il faut savoir que des comportements d’opposition peuvent aussi très bien être secondaires aux symptômes d’une autre condition neurodéveloppementale ou de santé mentale, sans que l’enfant n’ait pour autant un TOP franc.
 
