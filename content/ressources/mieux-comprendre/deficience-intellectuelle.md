@@ -1,5 +1,5 @@
 ---
-title: Déficience intellectuelle
+title: Déficience intellectuelle | Clinique Tandem
 description: Présentation de la déficience intellectuelle, histoire de cas et
   critères diagnostiques.
 slug: deficience-intellectuelle
