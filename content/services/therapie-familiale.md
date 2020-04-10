@@ -29,7 +29,6 @@ La thérapie familiale s’adresse à tous les types de famille (monoparentale, 
 * Conflits parents-enfants.
 * Conflits en contexte de famille recomposée.
 * Rivalité ou conflits dans la fratrie.
-* Maladie ou deuil.
 * Difficultés conjugales.
-* Cheminement suite à un diagnostic.
+* Maladie ou deuil.
 * Etc.
