@@ -21,6 +21,7 @@ image: null
 * [TSA et neurotypique : Mieux se comprendre](http://www.srsor.qc.ca/wp-content/uploads/2015/03/Guide_TSA-2015.pdf)
 * [Société de l’autisme des Laurentides](http://www.autismelaurentides.org)
 * [La Société de l’Autisme et des TED de Laval](http://autismelaval.org)
+* [Guide de sécurité en ligne](https://fr.wizcase.com/blog/spectre-autistique-guide-de-securite)
 
 #### Camp de jour et maison de répit
 
