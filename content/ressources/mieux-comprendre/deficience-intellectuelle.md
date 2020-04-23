@@ -7,7 +7,7 @@ identifiant: deficience-intellectuelle
 titre: Déficience intellectuelle
 i18nlanguage: fr
 type: mieuxcomprendre
-ordre: 3
+ordre: 2
 noindex: false
 draft: false
 ---
