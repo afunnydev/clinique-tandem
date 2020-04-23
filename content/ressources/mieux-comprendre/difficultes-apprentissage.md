@@ -1,16 +1,15 @@
 ---
 title: Troubles d'apprentissage | Clinique Tandem
-description: >-
-  Les troubles d’apprentissages sont des conditions d’origine neurologique qui
-  entravent les capacités cognitives responsables du développement de diverses
-  compétences académiques.
+description: Les troubles d’apprentissages sont des conditions d’origine
+  neurologique qui entravent les capacités cognitives responsables du
+  développement de diverses compétences académiques.
 slug: troubles-apprentissage
 identifiant: troubles-apprentissage
 titre: Troubles d'apprentissage
 image: null
 i18nlanguage: fr
 type: mieuxcomprendre
-ordre: 4
+ordre: 8
 noindex: false
 draft: false
 ---
