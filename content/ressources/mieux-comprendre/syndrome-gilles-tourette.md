@@ -1,17 +1,16 @@
 ---
 title: Syndrome de Gilles de la Tourette | Clinique Tandem
-description: >-
-  Le syndrome de Gilles de la Tourette (SGT) est un trouble neurodéveloppemental
-  qui se définit d’abord par la présence de multiples tics moteurs (qui
-  résultent en un ou des mouvements) et un ou plusieurs tics sonores (qui font
-  du bruit, comme des verbalisations).
+description: Le syndrome de Gilles de la Tourette (SGT) est un trouble
+  neurodéveloppemental qui se définit d’abord par la présence de multiples tics
+  moteurs (qui résultent en un ou des mouvements) et un ou plusieurs tics
+  sonores (qui font du bruit, comme des verbalisations).
 slug: syndrome-gilles-tourette
 identifiant: syndrome-gilles-tourette
 titre: Syndrome de Gilles de la Tourette
 image: null
 i18nlanguage: fr
 type: mieuxcomprendre
-ordre: 5
+ordre: 12
 noindex: false
 draft: false
 ---
