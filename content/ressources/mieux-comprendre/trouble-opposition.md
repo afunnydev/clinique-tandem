@@ -12,7 +12,7 @@ titre: Trouble d'opposition
 image: null
 i18nlanguage: fr
 type: mieuxcomprendre
-ordre: 9
+ordre: 4
 noindex: false
 draft: false
 ---
