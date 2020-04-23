@@ -7,7 +7,7 @@ titre: Trouble obsessionnel-compulsif
 image: null
 i18nlanguage: fr
 type: mieuxcomprendre
-ordre: 8
+ordre: 5
 noindex: true
 draft: false
 ---
