@@ -1,7 +1,6 @@
 ---
 title: Trouble du spectre de l'autisme | Clinique Tandem
-description: >-
-  Présentation du trouble du spectre de l'autisme (TSA) et de ses
+description: Présentation du trouble du spectre de l'autisme (TSA) et de ses
   manifestations. Le trouble du spectre de l’autisme (TSA) est un trouble
   neurodéveloppemental qui se caractérise par un développement atypique des
   habiletés sociales et de la communication et la présence de comportements
@@ -12,7 +11,7 @@ titre: Trouble du spectre de l'autisme
 image: null
 i18nlanguage: fr
 type: mieuxcomprendre
-ordre: '11'
+ordre: 7
 draft: false
 ---
 **Le trouble du spectre de l’autisme (TSA) est un trouble neurodéveloppemental qui se caractérise par un développement atypique des habiletés sociales et de la communication et par la présence de comportements inhabituels.**
