@@ -9,7 +9,7 @@ titre: Troubles d'attachement
 image: null
 i18nlanguage: fr
 type: mieuxcomprendre
-ordre: 7
+ordre: 9
 noindex: false
 draft: false
 ---
