@@ -40,10 +40,10 @@ Le TSA est présent dès la petite enfance, mais peut apparaître de façon évi
 
 #### Les causes du TSA
 
-L'étiologie du TSA est encore mal connue et fait actuellement l'objet de plusieurs recherches. Il semble néanmoins avoir un consensus au sein de la communauté scientifique que le TSA est probablement causé par une combinaison de plusieurs facteurs. Parmi ceux-ci, la prédisposition génétique, un dysfonctionnement de certains circuits dans le cerveau et des facteurs environnementaux sont les différentes causes potentielles qui ont reçu le plus d'attention.  
+L'étiologie du TSA est encore mal connue et fait actuellement l'objet de plusieurs recherches. Il semble néanmoins avoir un consensus au sein de la communauté scientifique à l'effet que le TSA est probablement causé par une combinaison de plusieurs facteurs. Parmi ceux-ci, la prédisposition génétique, un dysfonctionnement de certains circuits dans le cerveau et des facteurs environnementaux sont les différentes causes potentielles à l'appui de l'hypothèse multifactorielle.
 
 #### Les traitements
 
-Il existe une variété de thérapie et d'interventions visant à diminuer les symptômes associés au TSA.
+Il existe une variété de thérapie et d'interventions visant à diminuer les symptômes associés au TSA (ex. : Programme ABA, Programme TEACCH). Généralement, le pronostic sera plus favorable lorsque le dépistage et prise en charge subséquente seront effectués tôt durant le développement.
 
 Il n'y a pas de médication développée spécifiquement pour le TSA. Par contre, certains médicaments peuvent être prescrits afin d'atténuer des symptômes associés au TSA (ex. : agressivité, anxiété).
