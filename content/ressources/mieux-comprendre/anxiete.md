@@ -78,10 +78,10 @@ La thérapie cognitive-comportementale est le traitement psychologique ayant dé
 ***Mon enfant paraît stressé– quelques conseils***\
 *Notez que seul un professionnel qualifié peut établir un diagnostic de trouble anxieux. Toutefois, si après la lecture de ce texte, il vous semble que votre enfant, bien que présentant parfois certains signes d’anxiété, n’a pas une intensité de symptômes de l’ordre du trouble anxieux, ces conseils pourraient également vous aider. N’hésitez pas à consulter un professionnel au besoin**.***
 
-* S’assurer d’installer un cadre prévisible à la maison (p.ex., routines, règles, etc.) •	* Favoriser l’estime de soi de l’enfant ou de l’adolescent (p.ex., via des renforcements positifs, en lui donnant des occasions de se réaliser, etc.)
+* S’assurer d’installer un cadre prévisible à la maison (p.ex., routines, règles, etc.) 
+* Favoriser l’estime de soi de l’enfant ou de l’adolescent (p.ex., via des renforcements positifs, en lui donnant des occasions de se réaliser, etc.)
 * Augmenter la perception de contrôle du jeune et d’éviter (p.ex., accompagner l’enfant qui évite des situations de peur afin de lui montrer qu’il est capable -progressivement- de tolérer)
 * Intégrer à son quotidien des stratégies de gestion de l’anxiété (p.ex., techniques de respiration, méditation, etc.)
 * Favoriser des bonnes habitudes de sommeil
 * Être à l’écoute des besoins
-* Et surtout…. favoriser la tolérance à l’incertitude.
-On ne peut tout contrôler.
+* Et surtout…. favoriser la tolérance à l’incertitude. On ne peut tout contrôler.
