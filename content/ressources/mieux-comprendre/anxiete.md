@@ -85,3 +85,8 @@ La thérapie cognitive-comportementale est le traitement psychologique ayant dé
 * Favoriser des bonnes habitudes de sommeil
 * Être à l’écoute des besoins
 * Et surtout…. favoriser la tolérance à l’incertitude. On ne peut tout contrôler.
+
+Références :
+
+1. Mini DSM-5 Critères diagnostiques, par American Psychiatric Association. (2016). Elsevier Masson SAS.
+2. Diagnostic and statistical manual of mental disorders fifth edition DSM-5TM, American Psychiatric Association. (2013). American Psychiatry Publishing.
