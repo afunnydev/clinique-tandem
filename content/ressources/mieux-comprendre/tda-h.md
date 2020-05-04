@@ -1,9 +1,9 @@
 ---
 title: Trouble déficitaire de l'attention (TDA/H) | Clinique Tandem
-description: "Définition et manifestations du trouble déficitaire de l'attention
+description: Définition et manifestations du trouble déficitaire de l'attention
   (TDA/H). Le déficit de l’attention/hyperactivité (TDA/H) est un trouble
   d’origine neurologique qui se manifeste par des symptômes d’inattention et/ou
-  d’hyperactivité/impulsivité. "
+  d’hyperactivité/impulsivité.
 slug: tda-h
 identifiant: tda-h
 titre: TDA/H
