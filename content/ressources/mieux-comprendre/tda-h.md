@@ -1,9 +1,9 @@
 ---
 title: Trouble déficitaire de l'attention (TDA/H) | Clinique Tandem
-description: "Définition et manifestations du trouble déficitaire de l'attention
+description: Définition et manifestations du trouble déficitaire de l'attention
   (TDA/H). Le déficit de l’attention/hyperactivité (TDA/H) est un trouble
   d’origine neurologique qui se manifeste par des symptômes d’inattention et/ou
-  d’hyperactivité/impulsivité. "
+  d’hyperactivité/impulsivité.
 slug: tda-h
 identifiant: tda-h
 titre: TDA/H
@@ -47,7 +47,7 @@ En fonction de la présentation du tableau clinique, il est possible de retenir 
 * Débute une tâche rapidement sans planifier au préalable
 * Recherche les sensations fortes
 
-Le TDA/H se présente parfois avec un autre trouble neurodéveloppemental (ex. : trouble des apprentissages, trouble du spectre de l'autisme). Toutefois, il est important de garder à l'esprit que certains profils cliniques (ex. : anxiété, douance) peuvent également entraîner la présence de symptômes qui s'apparentent à un TDA/H sans nécessairement en constituer un. L'évaluation neuropsychologique peut permettre d'effectuer un tel diagnostic différentiel.
+Le TDA/H se présente parfois avec un autre trouble neurodéveloppemental (ex. : trouble des apprentissages, trouble du spectre de l'autisme). Toutefois, il est important de garder à l'esprit que certains profils cliniques (ex. : anxiété, douance) peuvent également entraîner la présence de symptômes qui s'apparentent à un TDA/H sans nécessairement en constituer un. L'évaluation neuropsychologique peut permettre de départager l'apport de ces différentes avenues cliniques et parvenir à un ou des diagnostic(s) s'il y a lieu.
 
 **Les traitements pour le TDA/H:**
 
