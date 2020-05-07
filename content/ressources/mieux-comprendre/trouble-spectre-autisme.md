@@ -47,21 +47,14 @@ L'étiologie du TSA est encore mal connue et fait actuellement l'objet de plusie
 Le fonctionnement neurologique et la façon de traiter l'information sont certes différents au sein du TSA, mais pas nécessairement moindres. En raison de ces différences, les individus ayant un TSA présentent  des forces et des îlot de compétences qu'il est important d'explorer et de mettre à profit. Voici des exemples de forces particulières qui peuvent être présentes au sein du TSA :
 
 * Grande capacité à accumuler des connaissances sur un sujet
-
 * Capacité de mémoire supérieure
-
 * Potentiel intellectuel élevé
-
 * Perception aiguisé, sens accru pour les détails
-
 * Honnêteté
-
 * Assiduité et ponctualité
-
 * Pensée divergente
-
 * Persévérance et tenacité
 
-#### Les traitements
+#### Les pistes d'interventions
 
 Il existe une variété de thérapie et d'interventions visant à diminuer les symptômes associés au TSA (ex. : Programme ABA, Programme TEACCH, etc.). Généralement, le pronostic sera plus favorable lorsque le dépistage et la prise en charge subséquente seront effectués tôt durant le développement (avant l'âge de 5 ans). Lorsque l'enfant est plus âgé, il peut être possible de prendre à des groupes d'habiletés sociales et/ou une psychothérapie. Il n'y a pas de médication développée spécifiquement pour le TSA. Par contre, certains médicaments peuvent être prescrits afin d'atténuer des symptômes associés au TSA (ex. : agressivité, anxiété).
