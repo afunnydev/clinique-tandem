@@ -30,13 +30,13 @@ En orthopédagogie, il s’agit donc de :
 
 ## Pourquoi consulter en orthopédagogie ?
 
-\-Mon enfant et/ou adolescent semble anxieux, il est aux prises avec difficultés scolaires qui semblent affecter sa confiance en lui-même, et, il lui arrive même de présenter des difficultés de comportements. Il pleure, se décourage et la période des devoirs et leçons peut s’avérer pénible. Il semble : 
+Mon enfant et/ou adolescent semble anxieux, il est aux prises avec difficultés scolaires qui semblent affecter sa confiance en lui-même, et, il lui arrive même de présenter des difficultés de comportements. Il pleure, se décourage et la période des devoirs et leçons peut s’avérer pénible. Il semble : 
 
 * Manquer de motivation;
 * Manquer de stratégies;
 * Et obtient de moins bons résultats scolaires ou encore il présente des échecs scolaires.
 
-\-Mon enfant et/ou adolescent présente des retards et des difficultés qu’il peine à compenser par lui-même et les parents ne savent plus comment s’y prendre devant :
+Mon enfant et/ou adolescent présente des retards et des difficultés qu’il peine à compenser par lui-même et les parents ne savent plus comment s’y prendre devant :
 
 * Les retards académiques qu’il peine à rattraper; Les difficultés en mathématiques et/ou en français;
 * Les difficultés de résolution de problèmes;
@@ -44,17 +44,17 @@ En orthopédagogie, il s’agit donc de :
 * Les difficultés d’attention et de concentration;
 * Les difficultés de mémoire et à s’organiser.
 
-\-Mon enfant et/ou adolescent a reçu un diagnostic, soit de trouble spécifique des apprentissages (dyslexie, dysorthographie, dyscalculie, etc.), de trouble de langage ou trouble développemental de coordination et il a besoin d’interventions pour l’aider à progresser.  
+Mon enfant et/ou adolescent a reçu un diagnostic, soit de trouble spécifique des apprentissages (dyslexie, dysorthographie, dyscalculie, etc.), de trouble de langage ou trouble développemental de coordination et il a besoin d’interventions pour l’aider à progresser.  
 
-\-Mon enfant et/ou adolescent a besoin de développer des stratégies d’apprentissage pour faciliter sa progression, il doit développer ses habiletés métacognitives i.e., prendre conscience de ses incompréhensions et de ce qu’il fait pour s’aider.
+Mon enfant et/ou adolescent a besoin de développer des stratégies d’apprentissage pour faciliter sa progression, il doit développer ses habiletés métacognitives i.e., prendre conscience de ses incompréhensions et de ce qu’il fait pour s’aider.
 
-\-Mon enfant et/ou adolescent a besoin de maîtriser les outils technologiques en lien avec ses difficultés d’apprentissage (p.ex., Lexibar, Antidote, Word-Q, ABRACADABRA, etc.)
+Mon enfant et/ou adolescent a besoin de maîtriser les outils technologiques en lien avec ses difficultés d’apprentissage (p.ex., Lexibar, Antidote, Word-Q, ABRACADABRA, etc.)
 
-\-Mon enfant et/ou adolescent nécessite la mise en place d’un plan d’intervention individualisé dans son milieu scolaire. 
+Mon enfant et/ou adolescent nécessite la mise en place d’un plan d’intervention individualisé dans son milieu scolaire. 
 
-\-Mon enfant et/ou adolescent a besoin d’une préparation à la passation des examens d’admission au secondaire ou au cégep.\
+Mon enfant et/ou adolescent a besoin d’une préparation à la passation des examens d’admission au secondaire ou au cégep.
 
-\-Mon enfant et/ou adolescent a besoin d’une mise à niveau dans certaines matières scolaires.
+Mon enfant et/ou adolescent a besoin d’une mise à niveau dans certaines matières scolaires.
 
 ## Objectifs
 
@@ -67,5 +67,5 @@ Les services en orthopédagogie ont pour objectif d’aider le jeune à apprendr
 
 
 
-Références : \
+***Références :*** \
 Le référenciel des compétences professionnelles liées à l’exercice de l’orthopédagogie au Québec. Référenciel de l’Association des orthopédagogues du Québec (juin 2018).
