@@ -60,7 +60,12 @@ En orthopédagogie, il s’agit donc de :
 
 Les services en orthopédagogie ont pour objectif d’aider le jeune à apprendre à apprendre avec de nouveaux outils adaptés à ses difficultés. Voici quelques stratégies que l’orthopédagogue peut transmettre :
 
-* Stratégies d’organisation et de planification des travaux; \
+* Stratégies d’organisation et de planification des travaux;
 * Stratégies d’autocorrection;
 * Stratégies de repérage des informations importantes dans un texte;
 * Stratégies de résolution de problème en mathématiques.
+
+
+
+Références : \
+Le référenciel des compétences professionnelles liées à l’exercice de l’orthopédagogie au Québec. Référenciel de l’Association des orthopédagogues du Québec (juin 2018).
