@@ -201,3 +201,4 @@ equipe:
   - photo: /assets/images/uploads/ariane-final.jpg
     nom: Ariane Lefebvre, B.Sc
     titre: Orthopédagogue
+    ordre: 18
