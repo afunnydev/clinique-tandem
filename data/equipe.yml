@@ -194,3 +194,7 @@ equipe:
     ordre: "16"
     photo: /assets/images/uploads/Dorothée_Final.jpg
     titre: Doctorante en psychologie
+  - photo: /assets/images/uploads/melanie-final.jpg
+    nom: Mélanie Gagnon, M.Sc
+    titre: Psychoéducatrice
+    ordre: 17
