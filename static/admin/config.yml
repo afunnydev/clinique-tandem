@@ -50,6 +50,18 @@ collections:
               - {label: "Description", name: "description", widget: "text", required: false}
               - {label: "Image", name: "photo", widget: "image", default: "/assets/images/placeholder-team.jpeg"}
               - {label: "Ordre", name: "ordre", widget: "number", required: false}
+      - name: "carrieres"
+        label: "Carrieres"
+        file: "data/carrieres.yml"
+        description: ""
+        fields:
+          - name: carrieres
+            label: Carriere
+            widget: list
+            create: true
+            fields:
+              - {label: "Titre", name: "position", widget: "string"}
+              - {label: "Description", name: "description", widget: "markdown"}
   - name: "services" # Used in routes, e.g. /admin/collections/blog
     label: "Services" # Used in the UI
     folder: "content/services" # The path to the folder where the documents are stored
