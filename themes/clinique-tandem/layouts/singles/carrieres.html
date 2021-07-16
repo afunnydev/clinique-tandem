@@ -24,7 +24,7 @@
       </div>
       {{with .Site.Data.carrieres.carrieres}}
       <div class="row columns_padding_0 columns_margin_0 fontsize_16 text-left">
-        <div class="carrieres">
+        <div class="careers">
           <div class="expand-group" id="accordion" role="tablist" aria-multiselectable="true">
             {{range $key, $val := .}}
             <div class="expand-panel">
@@ -45,46 +45,5 @@
       {{end}}
     </div>
   </section>
-  <style type="text/css">
-    .carrieres {
-      margin-top: 35px;
-    }
-
-    .expand-panel {
-      margin-bottom: 10px;
-    }
-
-    .expand-head {
-      display: flex;
-      align-items: center;
-      padding: 15px;
-      font-size: 18px;
-      background-color: #f6f6f6;
-    }
-
-    .expand-head > i {
-      color: #444444;
-    }
-
-    .expand-head > span {
-      margin-left: 20px;
-    }
-
-    .expand-head:hover > span {
-      color: #00a4c7;
-    }
-
-    .expand-content {
-      padding: 20px;
-    }
-
-    [data-toggle="collapse"] i:before{
-      content: "\f068";
-    }
-
-    [data-toggle="collapse"].collapsed i:before{
-      content: "\f067";
-    }
-  </style>
 </main>
 {{ end }}
