@@ -4,6 +4,7 @@ description: Découvrez les postes disponibles avec la Clinique Tandem. Rejoigne
   notre équipe dès maintenant!
 titre: Carrières
 slug: carrieres
+image: /assets/images/uploads/team-psycho.jpg
 ---
 ### Pourquoi choisir le Clinique Tandem?
 
