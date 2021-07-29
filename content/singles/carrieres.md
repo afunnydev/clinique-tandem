@@ -5,7 +5,7 @@ titre: Carrières
 slug: carrieres
 layout: carrieres
 ---
-Nous sommes continuellement à la recherche de professionnels et d'étudiants pour se joindre à notre équipe à Montréal et à Laval.
+Nous ajouterons du contenu à cette nouvelle section dans les prochaines semaines. Restez à l'affut des nouveaux postes à combler en suivant notre [page Facebook](https://www.facebook.com/CliniqueTandem).
 
 ### Pourquoi choisir le Clinique Tandem?
 
