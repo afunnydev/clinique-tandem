@@ -1,0 +1,49 @@
+{{ define "main" }}
+<main class="main" id="carrieres">
+  <section class="page_breadcrumbs ds background_cover section_padding_50">
+    <div class="container">
+      <div class="row">
+        <div class="col-sm-12 text-center">
+          <h1>{{ .Params.titre }}</h1>
+          <ol class="breadcrumb divided_content wide_divider">
+            <li>
+              <a href="{{ $.Site.BaseURL }}">
+                Accueil
+              </a>
+            </li>
+            <li class="active">{{ .Params.titre }}</li>
+          </ol>
+        </div>
+      </div>
+    </div>
+  </section>
+  <section id="comprendre-texte" class="ls section_padding_top_50 section_padding_bottom_100">
+    <div class="container">
+      <div class="row columns_padding_0 columns_margin_0 fontsize_16 text-left">
+        {{ .Content}}
+      </div>
+      {{with .Site.Data.carrieres.carrieres}}
+      <div class="row columns_padding_0 columns_margin_0 fontsize_16 text-left">
+        <div class="careers">
+          <div class="expand-group" id="accordion" role="tablist" aria-multiselectable="true">
+            {{range $key, $val := .}}
+            <div class="expand-panel">
+              <div role="tab" id="heading-{{$key}}">
+                <a class="expand-head collapsed" role="button" data-toggle="collapse" data-parent="#accordion" href="#collapse-{{$key}}" aria-expanded="false" aria-controls="collapse-{{$key}}">
+                  <i class="fa"></i>
+                  <span><strong>{{.position}}</strong></span>
+                </a>
+                <div id="collapse-{{$key}}" class="expand-body collapse" role="tabpanel" aria-labelledby="heading-{{$key}}">
+                  <div class="expand-content">{{.description | markdownify}}</div>
+                </div>
+              </div>
+            </div>
+            {{end}}
+          </div>
+        </div>
+      </div>
+      {{end}}
+    </div>
+  </section>
+</main>
+{{ end }}

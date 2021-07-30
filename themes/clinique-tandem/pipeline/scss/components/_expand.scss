@@ -1,0 +1,35 @@
+.expand-panel {
+  margin-bottom: 10px;
+}
+
+.expand-head {
+  display: flex;
+  align-items: center;
+  padding: 15px;
+  font-size: 18px;
+  background-color: $gray-1;
+}
+
+.expand-head > i {
+  color: #444444;
+}
+
+.expand-head > span {
+  margin-left: 20px;
+}
+
+.expand-head:hover > span {
+  color: $pcolor;
+}
+
+.expand-content {
+  padding: 20px;
+}
+
+[data-toggle="collapse"] i:before{
+  content: "\f068";
+}
+
+[data-toggle="collapse"].collapsed i:before{
+  content: "\f067";
+}
