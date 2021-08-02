@@ -10,31 +10,27 @@ const imageresize = require('gulp-image-resize');
 const imagethumb = 80;
 const os = require("os");
 const parallel = require("concurrent-transform");
-const plumber = require('gulp-plumber');
-const pngquant = require('imagemin-pngquant');
 const prefix = require('gulp-autoprefixer');
 const pump = require('pump');
 const rename = require("gulp-rename");
-const sass = require('gulp-sass');
+const sass = require('gulp-sass')(require('sass'));
 const sassfiles = "./scss/**/*.scss";
 const sourcemaps = require('gulp-sourcemaps');
 const uglify = require('gulp-uglify');
-// const execcli = require('execcli');
 
 /**
  *
  * Styles
  * - Compile
  * - Compress/Minify
- * - Catch errors (gulp-plumber)
+ * - Catch errors
  * - Autoprefixer
  *
  **/
-gulp.task('sass', function() {
-  gulp.src(sassfiles)
-    .pipe(sass({ outputStyle: 'compressed' }).on('error', sass.logError))
+gulp.task('sass', () => {
+  return gulp.src(sassfiles)
+    .pipe(sass({outputStyle: 'compressed'}).on('error', sass.logError))
     .pipe(prefix('last 2 versions', '> 1%', 'ie 10', 'Android 2', 'Firefox ESR'))
-    .pipe(plumber())
     .pipe(rename('style.min.css'))
     .pipe(gulp.dest('../static/assets/css'));
 });
@@ -68,12 +64,12 @@ gulp.task("image-resize", () => {
 /**Javascript **/
 
 gulp.task('scripts', function(cb) {
-  pump([
+  return pump([
       // gulp.src(['js/polyfills.js', 'js/utils.js', 'js/_velocity.min.js','js/_velocity.ui.min.js', 'js/scripts/*.js']),
       gulp.src(['js/utils.js', 'js/scripts/*.js', 'js/main.js']),
       // sourcemaps.init(),
       babel({
-        presets: ['es2015']
+        presets: ['@babel/env']
       }),
       concat('script.min.js'),
       // sourcemaps.write('.'),
@@ -91,8 +87,8 @@ gulp.task('scripts', function(cb) {
  * - Watchs for file changes for images, scripts and sass/css
  *
  **/
-gulp.task('default', ['sass', 'scripts', 'image-resize'], function() {
-  gulp.watch('scss/**/*.scss', ['sass']);
-  gulp.watch('js/**/*.js', ['scripts']);
-  gulp.watch('../source-images/*', ['image-resize']);
+gulp.task('default', function() {
+  gulp.watch('scss/**/*.scss', gulp.series('sass'));
+  gulp.watch('js/**/*.js', gulp.series('scripts'));
+  gulp.watch('../source-images/*', gulp.series('image-resize'));
 });
