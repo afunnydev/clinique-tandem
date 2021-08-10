@@ -1,9 +1,51 @@
 carrieres:
   - position: Neuropsychologue
-    description: Informations sur les postes à combler à venir.
+    description: >-
+      * **Description :** Conduite d’évaluations neuropsychologiques complètes
+      et possibilité d’offrir de la guidance parentale
+
+      * **Formation exigée :** Doctorat en neuropsychologie ou étudiant au doctorat en neuropsychologie ou attestation de l’évaluation en neuropsychologie
+
+      * **Statut :** Travailleur autonome
+
+      * **Horaire :** Temps partiel ou temps complet
   - position: Psychologue
-    description: Informations sur les postes à combler à venir.
+    description: >-
+      * **Description :** Psychothérapie et possibilité de conduire des
+      évaluations psychologiques
+
+      * **Formation exigée :** Doctorat en psychologie ou étudiant au doctorat en psychologie
+
+      * **Statut :** Travailleur autonome
+
+      * **Horaire :** Temps partiel ou temps complet
   - position: Psychoéducateur
-    description: Informations sur les postes à combler à venir.
+    description: >-
+      * **Description :** Évaluation psychoéducative et suivis auprès des
+      enfants et de leur famille.
+
+      * **Formation exigée :** Maîtrise en psychoéducation et membre de l’Ordre des psychoéducateurs et psychoéducatrices du Québec
+
+      * **Statut :** Travailleur autonome
+
+      * **Horaire :** Temps partiel ou temps complet
+  - position: Orthophoniste
+    description: >-
+      * **Description :** Évaluation orthophonique et suivis auprès des enfants
+      et adolescents.
+
+      * **Formation exigée :** Maîtrise en orthophonie et membre de l’Ordre des orthophonistes et audiologistes du Québec
+
+      * **Statut :** Travailleur autonome
+
+      * **Horaire :** Temps partiel ou temps complet
   - position: Secrétaire/Réceptionniste
-    description: Informations sur les postes à combler à venir.
+    description: >-
+      * **Description :** Retour d’appels, prise de rendez-vous, gestion des
+      horaires et préparation des dossiers-client.
+
+      * **Statut :** Travailleur autonome
+
+      * **Horaire :** Temps partiel ou temps complet
+
+      * **Salaire :** À discuter selon l’expérience
