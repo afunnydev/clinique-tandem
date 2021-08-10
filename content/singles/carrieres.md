@@ -6,7 +6,7 @@ titre: Carrières
 slug: carrieres
 layout: carrieres
 ---
-Joignez-vous à la Clinique Tandem, une équipe dynamique dédiée à la réussite scolaire et au mieux-être des enfants et des adolescents. Vous trouverez ci-bas les postes présentement disponibles au sein de la clinique. Veuillez noter que nous acceptons également les candidatures spontanées et pour lesquelles des postes ne seraient pas affichées.
+Joignez-vous à la Clinique Tandem, une équipe dynamique dédiée à la réussite scolaire et au mieux-être des enfants et des adolescents. Vous trouverez ci-bas les postes présentement disponibles au sein de la clinique. Veuillez noter que nous acceptons également les candidatures spontanées et pour lesquelles des postes ne seraient pas présentement affichés.
 
 Faire partie de l’équipe Tandem c’est l’occasion de s’offrir en tant que professionnel, une qualité de vie au travail dans une ambiance bienveillante et avec plusieurs possibilités : 
 
