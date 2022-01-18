@@ -39,15 +39,6 @@ equipe:
     ordre: 4
     photo: /assets/images/uploads/DSC_7067_Edit_Lyse.jpg
     titre: Thérapeute conjugale et familiale et Psychothérapeute
-  - description: Dre Provencher cumule plus de 30 ans d’expérience en tant que
-      pédopsychiatre à l’Hôpital en santé mentale Albert Prévost du CIUSS NIM.
-      Elle est chargée d’enseignement clinique à l’Université de Montréal. À la
-      Clinique Tandem, Dre Provencher agit comme consultante experte auprès de
-      l'équipe de professionnels de la clinique.
-    nom: Dre Anne-Marie Provencher, M.D.
-    ordre: 3
-    photo: /assets/images/half/amprovencher.jpg
-    titre: Pédopsychiatre
   - description: Dre Gagner est neuropsychologue à la Clinique Tandem. Elle possède
       un doctorat de l'Université de Montréal et ses travaux de recherche ont
       porté sur les difficultés comportementales des enfants avec un traumatisme
@@ -215,20 +206,6 @@ equipe:
       pour adolescents, jusqu’à son départ en juillet 2020. À partir de 2014,
       elle a offert des services de médecin spécialiste répondant auprès de la
       DPJ Lanaudoise.
-  - photo: /assets/images/uploads/fannymaude_finale.jpeg
-    nom: Fanny-Maude Turcotte, Ph.D
-    titre: Doctorante en neuropsychologie
-    ordre: 21
-    description: Mme Turcotte est doctorante en neuropsychologie à la Clinique
-      Tandem. Elle termine son parcours doctoral et sa recherche porte sur
-      l’efficacité d’un programme d’intervention auprès d’enfants dyslexiques.
-      Ses internats en clinique privée et communautaire, ainsi qu’en
-      pédopsychiatrie à la Clinique d’évaluation des troubles du spectre de
-      l’autisme de l’Hôpital en santé mentale Rivière-des-Prairies, lui ont
-      permis de développer ses compétences pour évaluer diverses problématiques
-      neurodéveloppementales. Ses expériences en milieu scolaire l’ont également
-      amené à travailler auprès d’une clientèle présentant des problématiques
-      variées.
   - photo: /assets/images/uploads/catherine_finale.jpeg
     nom: Dre Catherine Lachambre, D.Ps
     titre: Neuropsychologue
