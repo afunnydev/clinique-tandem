@@ -1,31 +1,16 @@
 equipe:
-  - description: Dr Chiasson est neuropsychologue à la Clinique Tandem qu'il a
-      co-fondée en 2017. Il occupe également un poste de neuropsychologue à
-      l'Hôpital de Montréal pour Enfants. Détenteur d'un doctorat en
-      neuropsychologie, ses travaux de recherche ont porté sur la cognition
-      sociale chez l'enfant avec et sans atteinte neurologique. Sa formation
-      clinique en pédopsychiatrie à l’Hôpital du Sacré-Cœur de Montréal et en
-      neurologie à l’Hôpital de Montréal pour Enfants lui confère une double
-      expertise pour l’évaluation de problématiques neurologiques et de santé
-      mentale chez l'enfant et l'adolescent. Il possède également les
-      compétences nécessaires pour l'évaluation du trouble du spectre de
-      l'autisme.
-    nom: Dr Vincent Chiasson, Ph.D
-    ordre: 2
-    photo: /assets/images/uploads/Vincent.jpg
-    titre: Neuropsychologue
-  - description: Dre Seni est neuropsychologue et coordonnatrice à la Clinique
-      Tandem. Détentrice d’un doctorat, ses travaux de recherche ont porté sur
-      le développement de la cognition sociale chez les enfants et les
-      adolescents. Ses internats cliniques en pédopsychiatrie à l’Hôpital
-      Sacré-Cœur de Montréal et en traumatologie à l’Hôpital Général de Montréal
-      lui confèrent un large éventail de compétences cliniques dont l'évaluation
-      du trouble du spectre de l'autisme. Dre Seni est également formatrice
-      spécialisée dans le domaine de la cognition sociale.
+  - description: Dre Seni est neuropsychologue et directrice à la Clinique Tandem.
+      Détentrice d’un doctorat, ses travaux de recherche ont porté sur le
+      développement de la cognition sociale chez les enfants et les adolescents.
+      Ses internats cliniques en pédopsychiatrie à l’Hôpital Sacré-Cœur de
+      Montréal et en traumatologie à l’Hôpital Général de Montréal lui confèrent
+      un large éventail de compétences cliniques dont l'évaluation du trouble du
+      spectre de l'autisme. Dre Seni est également formatrice spécialisée dans
+      le domaine de la cognition sociale.
     nom: Dre Anne G. Seni, Ph.D
-    ordre: "9"
+    ordre: 0
     photo: /assets/images/uploads/Anne.jpg
-    titre: Neuropsychologue et Coordonnatrice clinique
+    titre: Directrice et Neuropsychologue
   - description: Mme Bessette est travailleuse sociale, thérapeute conjugale et
       familiale et psychothérapeute. À la Clinique Tandem, elle offre des
       services d’accompagnement parental et familial en lien avec une
@@ -93,17 +78,15 @@ equipe:
     photo: /assets/images/uploads/Cindy_B.jpg
     titre: Neuropsychologue
   - description: Dre Lessard est neuropsychologue-psychothérapeute et chercheur.
-      Elle est directrice de la Clinique Tandem et elle occupe un poste à
-      l’Hôpital en santé mentale Albert Prévost du CIUSSS NIM. Elle exerce
-      depuis plus de 20 ans dans le secteur de la pédopsychiatrie et se
-      spécialise dans le diagnostic différentiel des troubles
+      Elle exerce depuis plus de 20 ans dans le secteur de la pédopsychiatrie et
+      se spécialise dans le diagnostic différentiel des troubles
       neurodéveloppementaux et mentaux. Dre Lessard est superviseure, chargée
       d’enseignement clinique et conférencière auprès des professionnels et
       médecins se spécialisant dans l’enfance et dans l’adolescence.
     nom: Dre Nadia Lessard, Ph.D
-    ordre: 1
+    ordre: 2
     photo: /assets/images/half/nadia.jpeg
-    titre: Directrice et Neuropsychologue
+    titre: Neuropsychologue et Psychologue
   - description: Mme Gunin est doctorante en neuropsychologie à la Clinique Tandem.
       Dans le cadre de son doctorat, elle étudie les bienfaits du yoga chez les
       jeunes présentant un TDAH. Au cours de ses internats à l’Hôpital en Santé
