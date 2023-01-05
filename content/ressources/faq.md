@@ -14,7 +14,7 @@ La Clinique Tandem offre des services d’évaluation neuropsychologique en angl
 
 ### Les frais d’évaluation ou de suivi sont-ils couverts par la Régie d’Assurances Maladie du Québec (RAMQ) ?
 
-À la Clinique Tandem, seules les consultations pédopsychiatriques sont couvertes par la RAMQ. Lors d’une rencontre de suivi ou d’évaluation en neuropsychologie, psychologie, travail social ou psychoéducation, les parents doivent débourser des frais sur place. Des reçus pour services professionnels seront fournis par nos professionnels.
+À la Clinique Tandem, les consultations pédopsychiatriques et les services de pédiatrie sont couvertes par la RAMQ. Lors d’une rencontre de suivi ou d’évaluation en neuropsychologie, psychologie, travail social ou psychoéducation, les parents doivent débourser des frais sur place. Des reçus pour services professionnels seront fournis par nos professionnels.
 
 ### Mon assurance privée couvrira-t-elle les frais d’évaluation et de suivi ?
 
