@@ -187,8 +187,8 @@ equipe:
       de problématiques (TDAH, trouble d’apprentissage, trouble du spectre de
       l’autisme, retard de développement, etc.). Services couverts par la RAMQ
       et demandes d'évaluation provenant de l'extérieur admises. "
-    ordre: ""
-  - photo: /assets/images/uploads/e47ddcf4-240d-4628-bbf9-5e669385ddc5.heic
+    ordre: 15
+  - photo: /assets/images/uploads/img_daf5263a8e27-1.jpg
     nom: Dre Anne-Marie Provencher, M.D.
     titre: Pédopsychiatre
     description: "Dre Provencher cumule trente ans d'expérience en tant que
@@ -199,3 +199,4 @@ equipe:
       d'enseignement clinique à l'Université de Montréal. À la Clinique Tandem,
       Dre Provencher offre des services de médecin spécialiste, en plus d'agir
       comme consultante experte auprès de l'équipe de professionnels. "
+    ordre: 16
