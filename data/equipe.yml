@@ -87,20 +87,6 @@ equipe:
     ordre: "14"
     photo: /assets/images/uploads/Marta_Final.png
     titre: Doctorante en neuropsychologie
-  - description: Mme Charest-Belzile est doctorante en psychologie à la Clinique
-      Tandem. Détentrice d’un doctorat en psychologie de l’ULaval, tant par ses
-      travaux de recherche que par ses expériences cliniques, elle démontre un
-      fort intérêt pour le bien-être des enfants, des adolescents et des
-      familles dans lesquelles ils évoluent. Au fil de son parcours, elle a
-      exercé en milieu scolaire et dans des équipes interdisciplinaires en
-      pédopsychiatrie. Elle termine actuellement un internat en pédopsychiatrie
-      de l’Hôpital en santé mentale Rivière-Des-Prairies du CIUSSS NIM, où elle
-      offre des services à des jeunes présentant différentes problématiques,
-      notamment des troubles anxieux et de l’humeur.
-    nom: Dorothée Charest-Belzile, B.Sc
-    ordre: "16"
-    photo: /assets/images/uploads/Dorothee_Final.jpg
-    titre: Doctorante en psychologie
   - photo: /assets/images/uploads/melanie-final.jpg
     nom: Mélanie Gagnon, M.Sc
     titre: Psychoéducatrice
@@ -189,3 +175,16 @@ equipe:
       problématiques neurodéveloppementales variées chez des jeunes présentant
       également des troubles de santé mentale.
     ordre: 22
+  - photo: /assets/images/uploads/photo-dre-krystale-bergeron-gallant.jpg
+    nom: Dre Krystale Bergeron Gallant, M.D.
+    titre: Pédiatre
+    description: "Dre Bergeron Gallant est diplômée en médecine et en pédiatrie de
+      l’Université de Montréal. Après sa formation au CHU Sainte-Justine, elle a
+      décidé d’orienter sa carrière vers une pratique en bureau afin d’effectuer
+      des suivis pédiatriques. Elle a un champ d’intérêt pour les problématiques
+      neurodéveloppementales et psychoaffectives et elle effectue à la Clinique
+      Tandem des suivis pour les enfants et les adolescents présentant ce type
+      de problématiques (TDAH, trouble d’apprentissage, trouble du spectre de
+      l’autisme, retard de développement, etc.). Services couverts par la RAMQ
+      et demandes d'évaluation provenant de l'extérieur admises. "
+    ordre: ""
