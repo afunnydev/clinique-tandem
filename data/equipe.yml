@@ -121,20 +121,6 @@ equipe:
       pour le tribunal. Elle détient aussi les compétences nécessaires pour
       l'évaluation du TSA.
     ordre: 18
-  - photo: /assets/images/uploads/solene-final.jpg
-    nom: Dre Solène Fourdain, Ph.D
-    titre: Neuropsychologue
-    description: Dre Fourdain est doctorante en neuropsychologie à la Clinique
-      Tandem. Elle a complété des études doctorales en neuropsychologie clinique
-      à l’UdeM. Ses travaux de recherche visent à mieux saisir l’impact d’une
-      malformation cardiaque congénitale sur le développement cérébral et
-      cognitif du nourrisson et de l’enfant. Ses expériences au Centre de
-      réadaptation Marie-Enfant, en pédopsychiatrie à l’Hôpital en santé mentale
-      Albert-Prévost et en hémato-oncologie à l’Hôpital Sainte-Justine lui
-      confèrent des compétences cliniques diversifiées pour l’évaluation des
-      problématiques neurodéveloppementales et de santé mentale chez l’enfant et
-      l’adolescent, de la période préscolaire à l’âge scolaire.
-    ordre: 19
   - photo: /assets/images/uploads/drelemire_finale.jpeg
     ordre: 20
     nom: Dre Isabelle Lemire, M.D.
