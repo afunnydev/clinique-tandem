@@ -17,6 +17,8 @@ services:
   - Évaluation TSA
   - Guidance Parentale
   - Supervision
+  - Orthopédagogie
+  - Pédiatrie
   - Autres
 sectiontitle: Contactez la Clinique Tandem
 sectiondescription: La Clinique Tandem est toujours à la recherche de
