@@ -36,7 +36,7 @@ equipe:
       l'enfance et de l'adolescence ainsi que les compétences pour l’évaluation
       du trouble du spectre de l’autisme.
     nom: Dre Charlotte Gagner, Ph.D
-    ordre: "11"
+    ordre: 5
     photo: /assets/images/uploads/charlotte.jpg
     titre: Neuropsychologue
   - description: Dre Richard est psychologue à la Clinique Tandem. Détentrice d’un
@@ -73,7 +73,7 @@ equipe:
       les tics lui ont également permis de développer des compétences auprès des
       jeunes présentant des tics et des TOCs.
     nom: Dre Marta Gunin, Psy.D.
-    ordre: "14"
+    ordre: 7
     photo: /assets/images/uploads/Marta_Final.png
     titre: Neuropsychologue
   - photo: /assets/images/uploads/melanie-final.jpg
@@ -121,7 +121,7 @@ equipe:
       Bélanger a d’ailleurs été reconnue à maintes reprises comme témoin expert
       pour le tribunal. Elle détient aussi les compétences nécessaires pour
       l'évaluation du TSA.
-    ordre: 18
+    ordre: 3
   - photo: /assets/images/uploads/drelemire_finale.jpeg
     ordre: 20
     nom: Dre Isabelle Lemire, M.D.
@@ -211,7 +211,7 @@ equipe:
       la psychothérapie et la réadaptation cognitive auprès d’adolescents et
       d’adultes ayant un TCCL pour que la personne vive du succès sur les plans
       familial, social, scolaire ou professionnel.
-    ordre: 14
+    ordre: 6
   - photo: /assets/images/uploads/anne-marie.jpg
     nom: Anne-Marie Flibotte, M.Ed
     titre: Orthopédagogue
@@ -227,4 +227,4 @@ equipe:
       utiliser la manipulation et le jeu pendant ses séances en orthopédagogie.
       Elle se donne au maximum, car le bien-être et le progrès de ses clients
       lui tiennent à cœur.
-    ordre: 16
+    ordre: 20
