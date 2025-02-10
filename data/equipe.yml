@@ -180,6 +180,7 @@ equipe:
       trouble développemental du langage. Mme Perreault possède une vaste
       expérience en milieu scolaire auprès des jeunes du préscolaire, du
       primaire et du secondaire.   "
+    ordre: 15
   - photo: /assets/images/uploads/aline1.jpg
     nom: Aline Robert, M.A.
     titre: Psychologue
@@ -192,6 +193,7 @@ equipe:
       portent entre autres aux enjeux du développement affectif, relationnel et
       psychosocial. Des services de supervision à la pratique clinique sont
       aussi proposés aux psychologues et autres intervenants psychosociaux.
+    ordre: 13
   - photo: /assets/images/uploads/fanny.jpg
     nom: Dre Fanny Guérin, Ph.D
     titre: Neuropsychologue
@@ -209,6 +211,7 @@ equipe:
       la psychothérapie et la réadaptation cognitive auprès d’adolescents et
       d’adultes ayant un TCCL pour que la personne vive du succès sur les plans
       familial, social, scolaire ou professionnel.
+    ordre: 14
   - photo: /assets/images/uploads/anne-marie.jpg
     nom: Anne-Marie Flibotte, M.Ed
     titre: Orthopédagogue
@@ -224,3 +227,4 @@ equipe:
       utiliser la manipulation et le jeu pendant ses séances en orthopédagogie.
       Elle se donne au maximum, car le bien-être et le progrès de ses clients
       lui tiennent à cœur.
+    ordre: 16
