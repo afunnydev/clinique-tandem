@@ -36,7 +36,7 @@ equipe:
       l'enfance et de l'adolescence ainsi que les compétences pour l’évaluation
       du trouble du spectre de l’autisme.
     nom: Dre Charlotte Gagner, Ph.D
-    ordre: 28
+    ordre: 4
     photo: /assets/images/uploads/charlotte.jpg
     titre: Neuropsychologue
   - description: Dre Richard est psychologue à la Clinique Tandem. Détentrice d’un
@@ -58,7 +58,7 @@ equipe:
       d’enseignement clinique et conférencière auprès des professionnels et
       médecins se spécialisant dans l’enfance et dans l’adolescence.
     nom: Dre Nadia Lessard, Ph.D
-    ordre: 2
+    ordre: -26
     photo: /assets/images/half/nadia.jpeg
     titre: Neuropsychologue et Psychologue
   - description: Dre Gunin est neuropsychologue à la Clinique Tandem, où elle offre
