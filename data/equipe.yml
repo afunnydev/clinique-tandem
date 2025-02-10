@@ -61,20 +61,21 @@ equipe:
     ordre: 2
     photo: /assets/images/half/nadia.jpeg
     titre: Neuropsychologue et Psychologue
-  - description: Mme Gunin est doctorante en neuropsychologie à la Clinique Tandem.
-      Dans le cadre de son doctorat, elle étudie les bienfaits du yoga chez les
-      jeunes présentant un TDAH. Au cours de ses internats à l’Hôpital en Santé
-      mentale Albert-Prévost, Mme Gunin a pu acquérir une riche expérience
-      auprès des jeunes présentant des problématiques neurodéveloppementales et
-      de santé mentale. Elle possède les habiletés pour l'évaluation du trouble
-      du spectre de l'autisme et de la douance. Son expérience de recherche à
-      l’Université McGill et au Centre d’études sur les TOCs lui ont également
-      permis de développer des compétences auprès des jeunes présentant des tics
-      et des TOCs.
-    nom: Marta Gunin, B.A.
+  - description: Dre Gunin est neuropsychologue à la Clinique Tandem, où elle offre
+      des services en français et en anglais depuis 2019. Dans le cadre de son
+      doctorat, elle a étudié les bienfaits du yoga chez les jeunes présentant
+      un TDAH. Au cours de ses internats à l’Hôpital en Santé mentale
+      Albert-Prévost, Dre Gunin a pu acquérir une riche expérience auprès des
+      jeunes présentant des problématiques neurodéveloppementales et de santé
+      mentale. Elle possède les habiletés pour l'évaluation du trouble du
+      spectre de l'autisme et du haut potentiel intellectuel. Son expérience de
+      recherche au Centre d’études sur les troubles obsessionnel-compulsif et
+      les tics lui ont également permis de développer des compétences auprès des
+      jeunes présentant des tics et des TOCs.
+    nom: Dre Marta Gunin, Psy.D.
     ordre: "14"
     photo: /assets/images/uploads/Marta_Final.png
-    titre: Doctorante en neuropsychologie
+    titre: Neuropsychologue
   - photo: /assets/images/uploads/melanie-final.jpg
     nom: Mélanie Gagnon, M.Sc
     titre: Psychoéducatrice
