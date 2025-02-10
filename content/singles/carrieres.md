@@ -18,4 +18,4 @@ Faire partie de l’équipe Tandem c’est l’occasion de s’offrir en tant qu
 * Formation continue et co-développement
 * Gestion des horaires via une secrétaire
 
-Pour postuler, faites-parvenir votre CV à l’attention de Anne Seni, neuropsychologue, à l’adresse courriel suivante : info@cliniquetandem.ca
+Pour postuler, faites-parvenir votre CV à l’attention de Dre Anne Seni, neuropsychologue, à l’adresse courriel suivante : info@cliniquetandem.ca
