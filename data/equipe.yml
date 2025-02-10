@@ -23,7 +23,7 @@ equipe:
       fait d’ailleurs l’enseignement auprès d’autres professionnels en tant que
       superviseure et formatrice.
     nom: Lyse Bessette, M.Sc
-    ordre: 4
+    ordre: 8
     photo: /assets/images/uploads/DSC_7067_Edit_Lyse.jpg
     titre: Thérapeute conjugale et familiale et Psychothérapeute
   - description: Dre Gagner est neuropsychologue à la Clinique Tandem. Elle possède
@@ -36,7 +36,7 @@ equipe:
       l'enfance et de l'adolescence ainsi que les compétences pour l’évaluation
       du trouble du spectre de l’autisme.
     nom: Dre Charlotte Gagner, Ph.D
-    ordre: "11"
+    ordre: 4
     photo: /assets/images/uploads/charlotte.jpg
     titre: Neuropsychologue
   - description: Dre Richard est psychologue à la Clinique Tandem. Détentrice d’un
@@ -48,7 +48,7 @@ equipe:
       et d’adolescents aux prises avec des difficultés de comportement,
       d’habiletés sociales, de langage et d’anxiété.
     nom: Dre Véronique Richard, D.Ps
-    ordre: "5"
+    ordre: 10
     photo: /assets/images/uploads/veronique2.jpg
     titre: Psychologue
   - description: Dre Lessard est neuropsychologue-psychothérapeute et chercheur.
@@ -58,7 +58,7 @@ equipe:
       d’enseignement clinique et conférencière auprès des professionnels et
       médecins se spécialisant dans l’enfance et dans l’adolescence.
     nom: Dre Nadia Lessard, Ph.D
-    ordre: 2
+    ordre: -26
     photo: /assets/images/half/nadia.jpeg
     titre: Neuropsychologue et Psychologue
   - description: Dre Gunin est neuropsychologue à la Clinique Tandem, où elle offre
@@ -73,13 +73,13 @@ equipe:
       les tics lui ont également permis de développer des compétences auprès des
       jeunes présentant des tics et des TOCs.
     nom: Dre Marta Gunin, Psy.D.
-    ordre: "14"
+    ordre: 6
     photo: /assets/images/uploads/Marta_Final.png
     titre: Neuropsychologue
   - photo: /assets/images/uploads/melanie-final.jpg
     nom: Mélanie Gagnon, M.Sc
     titre: Psychoéducatrice
-    ordre: 17
+    ordre: 13
     description: >
       Mme Gagnon est psychoéducatrice à la Clinique Tandem où elle offre des
       services d’accompagnement aux parents d’enfants ayant des difficultés de
@@ -94,7 +94,7 @@ equipe:
   - photo: /assets/images/uploads/ariane.jpg
     nom: Ariane Lefebvre, M. Ed.
     titre: "Orthopédagogue et responsable des services de soutien à l'apprentissage "
-    ordre: 18
+    ordre: 14
     description: Mme Lefebvre est orthopédagogue à la Clinique Tandem. Elle offre
       des services d’accompagnement pour les jeunes aux prises avec des
       difficultés académiques et/ou des troubles d’apprentissage. Elle occupe
@@ -121,9 +121,9 @@ equipe:
       Bélanger a d’ailleurs été reconnue à maintes reprises comme témoin expert
       pour le tribunal. Elle détient aussi les compétences nécessaires pour
       l'évaluation du TSA.
-    ordre: 18
+    ordre: 3
   - photo: /assets/images/uploads/drelemire_finale.jpeg
-    ordre: 20
+    ordre: 12
     nom: Dre Isabelle Lemire, M.D.
     titre: Pédopsychiatre
     description: Dre Lemire est diplômée en médecine et en psychiatrie de
@@ -150,7 +150,7 @@ equipe:
       ont permis d’acquérir les compétences nécessaires à l’évaluation de
       problématiques neurodéveloppementales variées chez des jeunes présentant
       également des troubles de santé mentale.
-    ordre: 22
+    ordre: 7
   - photo: /assets/images/uploads/krystal.jpg
     nom: Dre Krystale Bergeron Gallant, M.D.
     titre: Pédiatre
@@ -163,7 +163,7 @@ equipe:
       de problématiques (TDAH, trouble d’apprentissage, trouble du spectre de
       l’autisme, retard de développement, etc.). Services couverts par la RAMQ
       et demandes d'évaluation provenant de l'extérieur admises. "
-    ordre: 15
+    ordre: 11
   - photo: /assets/images/uploads/myriam2024.jpg
     nom: Myriam Perreault
     titre: Orthopédagogue
@@ -180,7 +180,7 @@ equipe:
       trouble développemental du langage. Mme Perreault possède une vaste
       expérience en milieu scolaire auprès des jeunes du préscolaire, du
       primaire et du secondaire.   "
-    ordre: 15
+    ordre: 16
   - photo: /assets/images/uploads/aline1.jpg
     nom: Aline Robert, M.A.
     titre: Psychologue
@@ -193,7 +193,7 @@ equipe:
       portent entre autres aux enjeux du développement affectif, relationnel et
       psychosocial. Des services de supervision à la pratique clinique sont
       aussi proposés aux psychologues et autres intervenants psychosociaux.
-    ordre: 13
+    ordre: 9
   - photo: /assets/images/uploads/fanny.jpg
     nom: Dre Fanny Guérin, Ph.D
     titre: Neuropsychologue
@@ -211,7 +211,7 @@ equipe:
       la psychothérapie et la réadaptation cognitive auprès d’adolescents et
       d’adultes ayant un TCCL pour que la personne vive du succès sur les plans
       familial, social, scolaire ou professionnel.
-    ordre: 14
+    ordre: 19
   - photo: /assets/images/uploads/anne-marie.jpg
     nom: Anne-Marie Flibotte, M.Ed
     titre: Orthopédagogue
@@ -227,4 +227,4 @@ equipe:
       utiliser la manipulation et le jeu pendant ses séances en orthopédagogie.
       Elle se donne au maximum, car le bien-être et le progrès de ses clients
       lui tiennent à cœur.
-    ordre: 16
+    ordre: 15
