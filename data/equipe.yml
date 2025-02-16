@@ -218,7 +218,7 @@ equipe:
   - photo: /assets/images/uploads/anne-marie.jpg
     nom: Anne-Marie Flibotte, M.Ed
     titre: Orthopédagogue
-    description: Mme Anne-Marie Flibotte est orthopédagogue à la Clinique Tandem.
+    description: "Mme Anne-Marie Flibotte est orthopédagogue à la Clinique Tandem.
       Elle détient une maîtrise en orthopédagogie avec un baccalauréat
       spécialisé en psychologie avec une mineure en criminologie. Elle occupe
       également un poste de gestionnaire et d’orthopédagogue à l’Académie
@@ -228,8 +228,7 @@ equipe:
       trouble ou des difficultés d’apprentissage. Son approche est humaine et
       personnalisée aux intérêts et aux besoins de ses clients. Elle adore
       utiliser la manipulation et le jeu pendant ses séances en orthopédagogie.
-      Elle se donne au maximum, car le bien-être et le progrès de ses clients
-      lui tiennent à cœur.
+      "
     ordre: 15
   - photo: /assets/images/uploads/marguerite.jpg
     nom: Marguerite Uwamariya, M. Sc. Ps.Éd
